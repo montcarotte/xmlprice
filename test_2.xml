@@ -1,30 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-05-15 17:22">
- <shop>
-  <name>MontCarotte</name>
-  <company>"МОНТКАРОТТЕ ДИСТРИБЬЮШЕН", ООО</company>
-  <url>​http://MontCarotte.com/​</url> 
-  <currencies>
-   <currency id="RUR" rate="1"/>
-  </currencies>
-  <categories>
-   <category id="1">MontCarotte</category>
-    <category id="11" parentId="1">Кисти</category>
-   <category id="2">RAPID MontCarotte Medical ®</category>
-    <category id="21" parentID="2">Средство для обработки полости рта</category>
-    <category id="22" parentID="2">Зубные гели</category>
-  </categories> 
-  <shipment-options>
-   <option days="1" order-before="1"/>
-  </shipment-options>
-  
-  <offers>
-    <offer id="111" available="true">
+
+    <offer id="121" available="true">
      <url>https://montcarotte.com/ru/product/267</url>
      <name>Зубная щетка &quot; Малевич &quot; &quot; soft&quot;</name> 
      <price>1165</price>
      <currencyId>RUR</currencyId>
-     <categoryId>11</categoryId>
+     <categoryId>21</categoryId>
      <picture>https://montcarotte.com/sites/default/files/malevich.jpg</picture>
      <vat>6</vat>
      <shipment-options>
@@ -44,5 +24,9 @@
      <param name="Страна">Италия</param>
      <param name="Цвет">Белый</param>
      <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
-     <barcode>111111111111</barcode>
+     <barcode>2222222222222</barcode>
    </offer>
+
+  </offers>
+ </shop> 
+</yml_catalog>
