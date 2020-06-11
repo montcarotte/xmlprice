@@ -10,7 +10,6 @@
   <categories>
    <category id="1">MontCarotte</category>
    <category id="2">RAPID</category>
-   <category id="11" parent id="1">Кисти</category>
   </categories> 
   <shipment-options>
    <option days="1" order-before="1"/>
