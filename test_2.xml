@@ -48,12 +48,12 @@
    </offer>
 
     <offer id="121" available="true">
-     <url>https://montcarotte.com/ru/product/267</url>
-     <name>Зубная щетка &quot; Малевич &quot; &quot; soft&quot;</name> 
-     <price>1165</price>
+     <url>https://rapidmontcarottemedical.com/</url>
+     <name>Oral rinse RAPID 15 Red Grapefruit, 200ml/Oполаскиватель для полости рта РАПИД 15 Красный Грейпфрут 200 мл  </name> 
+     <price>1400</price>
      <currencyId>RUR</currencyId>
      <categoryId>21</categoryId>
-     <picture>https://montcarotte.com/sites/default/files/malevich.jpg</picture>
+     <picture>https://rapidmontcarottemedical.com/assets/images/products/4/rinse-15.png</picture>
      <vat>6</vat>
      <shipment-options>
       <option days="1-2" order-before="15"/>
@@ -61,17 +61,20 @@
      <outlets>
       <outlet id="склад в Москве" instock="50"/>
      </outlets>
-     <vendor>MontCarotte</vendor>
+     <vendor>MontCarotte Medical</vendor>
      <vendorCode>1</vendorCode>
-     <model>МС401</model>
-     <description>Зубная кисть &quot;Малевич&quot; из коллекции &quot;Абстракционистов&quot; 12+</description>
-     <param name="Дизайн">авторский (К. Малевич)</param>
-     <param name="Коллекция">Абстракционисты</param>
-     <param name="Материал">антибактериальный, устойчивый к деформации полиамид</param>
-     <param name="Бренд">MontCarotte</param>
-     <param name="Страна">Италия</param>
-     <param name="Цвет">Белый</param>
-     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <model>МСМ0215</model>
+     <description>                                                                                                                            Антибактериальный и антисептический раствор на основе комбинации Хлоргексидина диглюконата 0,15 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
+     <param name="Назначение">Профилактика воспалений полости рта</param>
+     <param name="Дозировка">200 мл</param>
+     <param name="Применение">Имплантация
+• Периимплантит
+• Пародонтологическое лечение
+Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов)
+• Установка брекет систем 
+• Установка ортопедических конструкций
+• Интенсивная дентальная гигиена
+Профилактика воспалительных процессов после хирургического вмешательства</param>
      <barcode>2222222222222</barcode>
    </offer>
 
