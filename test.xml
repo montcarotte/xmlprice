@@ -9,6 +9,7 @@
   </currencies>
   <categories>
    <category id="1">MontCarotte</category>
+    <category id="11" parentId="1">Кисти</category>
    <category id="2">RAPID</category>
   </categories> 
   <shipment-options>
