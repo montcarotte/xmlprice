@@ -1,3 +1,7 @@
+     <param name="Цвет">Белый</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>111111111111</barcode>
+   </offer>
 
     <offer id="121" available="true">
      <url>https://montcarotte.com/ru/product/267</url>
