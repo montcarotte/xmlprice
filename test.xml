@@ -43,7 +43,20 @@
      <param name="Цвет">Белый</param>
      <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
      <barcode>4444444444444</barcode>
+
    </offer>
+   <offer id="670" available="true">
+<url>http://daoofhealth.ru/catalog/maslo-ghi/toplyenoe-maslo-gkhi-pishcha-bogov-medved-slon-220-gr/?r1=yandext&amp;r2=</url>
+<price>590</price>
+<currencyId>RUB</currencyId>
+<categoryId>11</categoryId>
+<picture>http://daoofhealth.ru/upload/iblock/0d2/0d2f27fbd6064165fc8e9c30e1338d42.jpg</picture>
+<name>Топлёное масло Гхи, Медведь &amp; Слон, 210 гр</name>
+<description>Топлёное масло Гхи, Медведь &amp; Слон, 210 гр</description>
+<barcode>4627168566511</barcode>
+<outlets><outlet id="1" instock="5"/></outlets>
+</offer>
+
   </offers>
  </shop> 
 </yml_catalog>
