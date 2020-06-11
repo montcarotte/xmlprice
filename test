@@ -1,0 +1,48 @@
+ <yml_catalog date="2020-05-15 17:22">
+ <shop>
+  <name>MontCarotte</name>
+  <company>"МОНТКАРОТТЕ ДИСТРИБЬЮШЕН", ООО</company>
+  <url>​http://MontCarotte.com/​</url> 
+  <currencies>
+   <currency id="RUR" rate="1"/>
+  </currencies>
+  <categories>
+   <category id="1">MontCarotte</category>
+   <category id="2">RAPID</category>
+   <category id="11" parent id="1">Кисти</category>
+  </categories> 
+  <shipment-options>
+   <option days="1" order-before="1"/>
+  </shipment-options>
+  
+  <offers>
+    <offer id="111" available="true">
+     <url>https://montcarotte.com/ru/product/267</url>
+     <name>Зубная щетка &quot; Малевич &quot; &quot; soft&quot;</name> 
+     <price>1165</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>11</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/malevich.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="50"/>
+     </outlets>
+     <vendor>MontCarotte</vendor>
+     <vendorCode>1</vendorCode>
+     <model>МС401</model>
+     <description>Зубная кисть &quot;Малевич&quot; из коллекции &quot;Абстракционистов&quot; 12+</description>
+     <param name="Дизайн">авторский (К. Малевич)</param>
+     <param name="Коллекция">Абстракционисты</param>
+     <param name="Материал">антибактериальный, устойчивый к деформации полиамид</param>
+     <param name="Бренд">MontCarotte</param>
+     <param name="Страна">Италия</param>
+     <param name="Цвет">Белый</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4444444444444</barcode>
+   </offer>
+  </offers>
+ </shop> 
+</yml_catalog>
