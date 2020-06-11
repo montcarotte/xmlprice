@@ -22,7 +22,7 @@
      <name>Зубная щетка &quot; Малевич &quot; &quot; soft&quot;</name> 
      <price>1165</price>
      <currencyId>RUR</currencyId>
-     <categoryId>1</categoryId>
+     <categoryId>11</categoryId>
      <picture>https://montcarotte.com/sites/default/files/malevich.jpg</picture>
      <vat>6</vat>
      <shipment-options>
@@ -43,8 +43,9 @@
      <param name="Цвет">Белый</param>
      <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
      <barcode>4444444444444</barcode>
-
    </offer>
+
+
    <offer id="670" available="true">
 <url>http://daoofhealth.ru/catalog/maslo-ghi/toplyenoe-maslo-gkhi-pishcha-bogov-medved-slon-220-gr/?r1=yandext&amp;r2=</url>
 <price>590</price>
