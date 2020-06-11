@@ -10,7 +10,7 @@
   <categories>
    <category id="1">MontCarotte</category>
     <category id="11" parentId="1">Кисти</category>
-   <category id="2">RAPID MontCarotte Medical ®</category>
+   <category id="2">RAPID MontCarotte Medical®</category>
     <category id="21" parentID="2">Средство для обработки полости рта</category>
     <category id="22" parentID="2">Зубные гели</category>
   </categories> 
@@ -21,7 +21,7 @@
   <offers>
     <offer id="111" available="true">
      <url>https://montcarotte.com/ru/product/267</url>
-     <name>Зубная щетка &quot; Малевич &quot; &quot; soft&quot;</name> 
+     <name>Зубная щетка &quot; Малевич &quot; &quot;soft&quot;</name> 
      <price>1165</price>
      <currencyId>RUR</currencyId>
      <categoryId>11</categoryId>
@@ -36,7 +36,7 @@
      <vendor>MontCarotte</vendor>
      <vendorCode>1</vendorCode>
      <model>МС401</model>
-     <description>Зубная кисть &quot;Малевич&quot; из коллекции &quot;Абстракционистов&quot; 12+</description>
+     <description>Зубная кисть &quot;Малевич&quot; из коллекции &quot;Абстракционисты&quot; 12+</description>
      <param name="Дизайн">авторский (К. Малевич)</param>
      <param name="Коллекция">Абстракционисты</param>
      <param name="Материал">антибактериальный, устойчивый к деформации полиамид</param>
