@@ -8,7 +8,7 @@
    <currency id="RUR" rate="1"/>
   </currencies>
   <categories>
-   <category id="1">MontCarotte</category>
+   <category id="1">MontCarotte®</category>
     <category id="11" parentId="1">Кисти</category>
    <category id="2">RAPID MontCarotte Medical®</category>
     <category id="21" parentID="2">Средство для обработки полости рта</category>
@@ -21,7 +21,7 @@
   <offers>
     <offer id="111" available="true">
      <url>https://montcarotte.com/ru/product/267</url>
-     <name>Зубная щетка &quot; Малевич &quot; &quot;soft&quot;</name> 
+     <name>Зубная щетка &quot;Малевич&quot; &quot;soft&quot;</name> 
      <price>1165</price>
      <currencyId>RUR</currencyId>
      <categoryId>11</categoryId>
@@ -67,6 +67,7 @@
      <description>                                                                                                                            Антибактериальный и антисептический раствор на основе комбинации Хлоргексидина диглюконата 0,15 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
      <param name="Назначение">Профилактика воспалений полости рта</param>
      <param name="Дозировка">200 мл</param>
+     <param name="Концентрация">0,15%</param>
      <param name="Применение"><string name="foo_string">
 Имплантация \n
 • Периимплантит \n
