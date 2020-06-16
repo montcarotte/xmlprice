@@ -15,7 +15,7 @@
     <category id="22" parentID="2">Зубные гели</category>
   </categories> 
   <shipment-options>
-   <option days="1" order-before="1"/>
+   <option days="1" order-before="15"/>
   </shipment-options>
   
   <offers>
@@ -34,7 +34,7 @@
       <outlet id="склад в Москве" instock="50"/>
      </outlets>
      <vendor>MontCarotte</vendor>
-     <vendorCode>1</vendorCode>
+     <vendorCode>МС401</vendorCode>
      <model>МС401</model>
      <description>Зубная кисть &quot;Малевич&quot; из коллекции &quot;Абстракционисты&quot; 12+</description>
      <param name="Дизайн">авторский (К. Малевич)</param>
@@ -62,7 +62,7 @@
       <outlet id="склад в Москве" instock="50"/>
      </outlets>
      <vendor>MontCarotte Medical</vendor>
-     <vendorCode>1</vendorCode>
+     <vendorCode>МСМ0215</vendorCode>
      <model>МСМ0215</model>
      <description>                                                                                                                            Антибактериальный и антисептический раствор на основе комбинации Хлоргексидина диглюконата 0,15 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
      <param name="Назначение">Профилактика воспалений полости рта</param>
@@ -78,7 +78,7 @@
 • Интенсивная дентальная гигиена \n
 Профилактика воспалительных процессов после хирургического вмешательства
 </string></param>
-     <barcode>2222222222222</barcode>
+     <barcode>8030009101417</barcode>
    </offer>
 
   </offers>
