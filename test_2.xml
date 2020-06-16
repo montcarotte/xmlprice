@@ -47,7 +47,7 @@
      <barcode>4022405111101</barcode>
    </offer>
 
-    <offer id="121" available="true">
+    <offer id="221" available="true">
      <url>https://rapidmontcarottemedical.com/</url>
      <name>Oral rinse RAPID 15 Red Grapefruit, 200ml/Oполаскиватель для полости рта РАПИД 15 Красный Грейпфрут 200 мл  </name> 
      <price>1400</price>
@@ -79,6 +79,40 @@
 Профилактика воспалительных процессов после хирургического вмешательства
 </string></param>
      <barcode>8030009101417</barcode>
+   </offer>
+
+   <offer id="222" available="true">
+     <url>https://montcarotte.com/ru/product/345/</url>
+     <name>Oral rinse RAPID 25 Red Grapefruit, 100ml/Oполаскиватель для полости рта РАПИД 25 Красный Грейпфрут 100 мл  </name> 
+     <price>1400</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>21</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/rinse-25-1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="50"/>
+     </outlets>
+     <vendor>MontCarotte Medical</vendor>
+     <vendorCode>МСМ0325</vendorCode>
+     <model>МСМ0325</model>
+     <description>Антибактериальный и антисептический раствор на основе комбинации Хлоргексидина диглюконата 0,15 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
+     <param name="Назначение">Профилактика воспалений полости рта</param>
+     <param name="Дозировка">100 мл</param>
+     <param name="Концентрация">0,25%</param>
+     <param name="Применение"><string name="foo_string">
+Имплантация \n
+• Периимплантит \n
+• Пародонтологическое лечение \n
+Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов) \n
+• Установка брекет систем \n
+• Установка ортопедических конструкций \n
+• Интенсивная дентальная гигиена \n
+Профилактика воспалительных процессов после хирургического вмешательства
+</string></param>
+     <barcode>8030009101516</barcode>
    </offer>
 
   </offers>
