@@ -33,14 +33,14 @@
      <outlets>
       <outlet id="склад в Москве" instock="50"/>
      </outlets>
-     <vendor>MontCarotte</vendor>
+     <vendor>MontCarotte®</vendor>
      <vendorCode>МС401</vendorCode>
      <model>МС401</model>
      <description>Зубная кисть &quot;Малевич&quot; из коллекции &quot;Абстракционисты&quot; 12+</description>
      <param name="Дизайн">Авторский (К. Малевич)</param>
      <param name="Коллекция">Абстракционисты</param>
      <param name="Материал">Антибактериальный, устойчивый к деформации полиамид</param>
-     <param name="Бренд">MontCarotte</param>
+     <param name="Бренд">MontCarotte®</param>
      <param name="Страна">Великобритания</param>
      <param name="Цвет">Белый</param>
      <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
@@ -62,14 +62,14 @@
      <outlets>
       <outlet id="склад в Москве" instock="50"/>
      </outlets>
-     <vendor>MontCarotte</vendor>
+     <vendor>MontCarotte®</vendor>
      <vendorCode>МС402</vendorCode>
      <model>МС402</model>
      <description>Зубная кисть &quot;Иттен&quot; из коллекции &quot;Абстракционисты&quot; 12+</description>
      <param name="Дизайн">Авторский (И. Иттен)</param>
      <param name="Коллекция">Абстракционисты</param>
      <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
-     <param name="Бренд">MontCarotte</param>
+     <param name="Бренд">MontCarotte®</param>
      <param name="Страна">Великобритания</param>
      <param name="Цвет">Белый</param>
      <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
@@ -90,7 +90,7 @@
      <outlets>
       <outlet id="склад в Москве" instock="50"/>
      </outlets>
-     <vendor>MontCarotte Medical</vendor>
+     <vendor>MontCarotte Medical®</vendor>
      <vendorCode>МСМ0215</vendorCode>
      <model>МСМ0215</model>
      <description>Антибактериальный и антисептический раствор на основе комбинации Хлоргексидина диглюконата 0,15 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
@@ -125,7 +125,7 @@
      <outlets>
       <outlet id="склад в Москве" instock="50"/>
      </outlets>
-     <vendor>MontCarotte Medical</vendor>
+     <vendor>MontCarotte Medical®</vendor>
      <vendorCode>МСМ0325</vendorCode>
      <model>МСМ0325</model>
      <description>Антибактериальный и антисептический раствор на основе комбинации Хлоргексидина диглюконата 0,25 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
@@ -160,7 +160,7 @@
      <outlets>
       <outlet id="склад в Москве" instock="50"/>
      </outlets>
-     <vendor>MontCarotte Medical</vendor>
+     <vendor>MontCarotte Medical®</vendor>
      <vendorCode>МСМ0430</vendorCode>
      <model>МСМ0430</model>
      <description>Антибактериальный и антисептический гель на основе комбинации Хлоргексидина диглюконата 0,3 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
