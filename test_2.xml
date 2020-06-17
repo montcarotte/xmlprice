@@ -50,7 +50,7 @@
     <offer id="221" available="true">
      <url>https://rapidmontcarottemedical.com/</url>
      <name>Oral rinse RAPID 15 Red Grapefruit, 200ml/Oполаскиватель для полости рта РАПИД 15 Красный Грейпфрут 200 мл  </name> 
-     <price>1400</price>
+     <price>1600</price>
      <currencyId>RUR</currencyId>
      <categoryId>21</categoryId>
      <picture>https://rapidmontcarottemedical.com/assets/images/products/4/rinse-15.png</picture>
@@ -64,7 +64,7 @@
      <vendor>MontCarotte Medical</vendor>
      <vendorCode>МСМ0215</vendorCode>
      <model>МСМ0215</model>
-     <description>Антибактериальный и антисептический раствор на основе комбинации Хлоргексидина диглюконата 0,25 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
+     <description>Антибактериальный и антисептический раствор на основе комбинации Хлоргексидина диглюконата 0,15 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
      <param name="Назначение">Профилактика воспалений полости рта</param>
      <param name="Дозировка">200 мл</param>
      <param name="Концентрация">0,15%</param>
