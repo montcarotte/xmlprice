@@ -144,6 +144,40 @@
      <barcode>8030009101516</barcode>
    </offer>
 
+   <offer id="211" available="true">
+     <url>https://montcarotte.com/ru/product/346/</url>
+     <name>Гель-бандаж RAPID 30</name> 
+     <price>2500</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>21</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/bandage-30-1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="50"/>
+     </outlets>
+     <vendor>MontCarotte Medical</vendor>
+     <vendorCode>МСМ0430</vendorCode>
+     <model>МСМ0430</model>
+     <description>Антибактериальный и антисептический гель на основе комбинации Хлоргексидина диглюконата 0,3 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
+     <param name="Назначение">Профилактика воспалений полости рта</param>
+     <param name="Дозировка">30 мл</param>
+     <param name="Концентрация">0,3% CHLX %</param>
+     <param name="Применение">
+Имплантация:
+• Периимплантит
+• Пародонтологическое лечение
+Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов):
+• Установка брекет систем
+• Установка ортопедических конструкций
+• Интенсивная дентальная гигиена
+Профилактика воспалительных процессов после хирургического вмешательства
+</param>
+     <barcode>8030009101318</barcode>
+   </offer>
+   
   </offers>
  </shop> 
 </yml_catalog>
