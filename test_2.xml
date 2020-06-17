@@ -11,8 +11,8 @@
    <category id="1">MontCarotte®</category>
     <category id="11" parentId="1">Кисти</category>
    <category id="2">RAPID MontCarotte Medical®</category>
-    <category id="21" parentID="2">Средство для обработки полости рта</category>
-    <category id="22" parentID="2">Зубные гели</category>
+    <category id="21" parentID="2">Зубные гели</category>
+    <category id="22" parentID="2">Средство для обработки полости рта</category>
   </categories> 
   <shipment-options>
    <option days="1" order-before="15"/>
@@ -81,7 +81,7 @@
      <name>Oral rinse RAPID 15 Red Grapefruit, 200ml/Oполаскиватель для полости рта РАПИД 15 Красный Грейпфрут 200 мл  </name> 
      <price>1600</price>
      <currencyId>RUR</currencyId>
-     <categoryId>21</categoryId>
+     <categoryId>22</categoryId>
      <picture>https://rapidmontcarottemedical.com/assets/images/products/4/rinse-15.png</picture>
      <vat>6</vat>
      <shipment-options>
@@ -115,7 +115,7 @@
      <name>Oral rinse RAPID 25 Red Grapefruit, 100ml/Oполаскиватель для полости рта РАПИД 25 Красный Грейпфрут 100 мл  </name> 
      <price>1600</price>
      <currencyId>RUR</currencyId>
-     <categoryId>21</categoryId>
+     <categoryId>22</categoryId>
      <picture>https://montcarotte.com/sites/default/files/rinse-25-1.jpg</picture>
      <vat>6</vat>
      <shipment-options>
