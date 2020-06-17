@@ -37,14 +37,43 @@
      <vendorCode>МС401</vendorCode>
      <model>МС401</model>
      <description>Зубная кисть &quot;Малевич&quot; из коллекции &quot;Абстракционисты&quot; 12+</description>
-     <param name="Дизайн">авторский (К. Малевич)</param>
+     <param name="Дизайн">Авторский (К. Малевич)</param>
      <param name="Коллекция">Абстракционисты</param>
-     <param name="Материал">антибактериальный, устойчивый к деформации полиамид</param>
+     <param name="Материал">Антибактериальный, устойчивый к деформации полиамид</param>
      <param name="Бренд">MontCarotte</param>
      <param name="Страна">Италия</param>
      <param name="Цвет">Белый</param>
      <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
      <barcode>4022405111101</barcode>
+   </offer>
+
+   <offers>
+    <offer id="112" available="true">
+     <url>https://montcarotte.com/ru/product/266</url>
+     <name>Itten toothbrush Abstraction Brush Collection / Зубная щетка "Иттен"</name> 
+     <price>1165</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>11</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/itten.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="50"/>
+     </outlets>
+     <vendor>MontCarotte</vendor>
+     <vendorCode>МС402</vendorCode>
+     <model>МС402</model>
+     <description>Зубная кисть &quot;Иттен&quot; из коллекции &quot;Абстракционисты&quot; 12+</description>
+     <param name="Дизайн">Авторский (И. Иттен)</param>
+     <param name="Коллекция">Абстракционисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte</param>
+     <param name="Страна">Италия</param>
+     <param name="Цвет">Белый</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405221121</barcode>
    </offer>
 
     <offer id="221" available="true">
