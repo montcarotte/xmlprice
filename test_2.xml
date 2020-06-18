@@ -180,6 +180,41 @@
 </param>
      <barcode>8030009101318</barcode>
    </offer>
+
+   <offer id="212" available="true">
+     <url>https://montcarotte.com/ru/product/347</url>
+     <name>Гелеобразная зубная паста RAPID 15</name> 
+     <price>1400</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>21</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/tooth-15-1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="50"/>
+     </outlets>
+     <vendor>MontCarotte Medical®</vendor>
+     <vendorCode>МСМ0115</vendorCode>
+     <model>МСМ0115</model>
+     <description>Антибактериальная и антисептическая зубная паста на основе комбинации Хлоргексидина диглюконата 0,15 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
+     <param name="Назначение">Профилактика воспалений полости рта</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Дозировка">50 мл</param>
+     <param name="Концентрация">0,15% CHLX %</param>
+     <param name="Применение">
+Имплантация:
+• Периимплантит
+• Пародонтологическое лечение
+Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов):
+• Установка брекет систем
+• Установка ортопедических конструкций
+• Интенсивная дентальная гигиена
+Профилактика воспалительных процессов после хирургического вмешательства
+</param>
+     <barcode>8030009101219</barcode>
+   </offer>
    
   </offers>
  </shop> 
