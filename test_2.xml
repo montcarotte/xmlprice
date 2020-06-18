@@ -13,6 +13,8 @@
    <category id="2">RAPID MontCarotte Medical®</category>
     <category id="21" parentID="2">Зубные гели</category>
     <category id="22" parentID="2">Средство для обработки полости рта</category>
+    <category id="23" parentID="2">Кисти</category>
+    <category id="24" parentID="2">Наборы</category>
   </categories> 
   <shipment-options>
    <option days="1" order-before="15"/>
