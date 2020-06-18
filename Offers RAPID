@@ -84,11 +84,14 @@
      <vendor>MontCarotte Medical®</vendor>
      <vendorCode>МСМ0500</vendorCode>
      <model>МСМ0500</model>
-     <description>Антибактериальная и антисептическая зубная паста на основе комбинации Хлоргексидина диглюконата 0,15 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
-     <param name="Назначение">Профилактика воспалений полости рта</param>
+     <description>Зубная кисть из коллекции &quot;RAPID&quot; 12+</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Коллекция">RAPID</param>
+     <param name="Материал">Антибактериальный, устойчивый к деформации полиамид</param>
+     <param name="Бренд">MontCarotte Medical®</param>
      <param name="Страна">Великобритания</param>
-     <param name="Дозировка">50 мл</param>
-     <param name="Концентрация">0,15% CHLX %</param>
+     <param name="Цвет">Белый</param>
+     <param name="Особенности">Для атравматичной гигиены полости рта, закругленные щетинки</param>
      <param name="Применение">
 Имплантация:
 • Периимплантит
