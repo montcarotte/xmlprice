@@ -53,3 +53,31 @@
      <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
      <barcode>4022405205343</barcode>
    </offer>
+   
+   <offer id="1115" available="true">
+     <url>https://montcarotte.com/ru/product/264</url>
+     <name>Picasso toothbrush Abstraction Brush Collection / Зубная щетка "Пикассо"</name> 
+     <price>1165</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>111</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/picasso.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="50"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС405</vendorCode>
+     <model>МС405</model>
+     <description>Зубная кисть &quot;Пикассо&quot; из коллекции &quot;Абстракционизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (П. Пикассо)</param>
+     <param name="Коллекция">Абстракционисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Белый</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405205350</barcode>
+   </offer>
