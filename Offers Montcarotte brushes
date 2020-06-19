@@ -1,0 +1,27 @@
+<offer id="1113" available="true">
+     <url>https://montcarotte.com/ru/product/265</url>
+     <name>Mondrian toothbrush Abstraction Brush Collection / Зубная щетка "Мондриан"</name> 
+     <price>1165</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>111</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/mondrian.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="50"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС403</vendorCode>
+     <model>МС403</model>
+     <description>Зубная кисть &quot;Мондриан&quot; из коллекции &quot;Абстракционизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (П. Мондриан)</param>
+     <param name="Коллекция">Абстракционисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Белый</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405214338</barcode>
+   </offer>
