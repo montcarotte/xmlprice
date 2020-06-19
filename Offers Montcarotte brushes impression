@@ -28,3 +28,34 @@
      <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
      <barcode>4022405279863</barcode>
    </offer>
+   
+   <offer id="1122" available="true">
+     <url>https://montcarotte.com/ru/product/24</url>
+     <name>Van Gogh toothbrush Impression Brush Collection / Зубная щетка "Ван Гог"</name> 
+     <price>1075</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>112</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/yellow_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС202</vendorCode>
+     <model>МС202</model>
+     <description>Зубная кисть &quot;Ван Гог&quot; из коллекции &quot;Импрессионизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (В. Ван Гог)</param>
+     <param name="Коллекция">Импрессионисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Желтый оттенок, прозрачный/param>
+     <param name="Толщина волокна">0,15 мм</param>
+     <param name="Количество щетинок">1200 шт.</param>
+     <param name="Размеры">10 мм ширина, 15 мм длина, что в среднем соответствует размерам двух зубов</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405279870</barcode>
+   </offer>
