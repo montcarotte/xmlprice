@@ -23,12 +23,12 @@
   </shipment-options>
   
   <offers>
-    <offer id="111" available="true">
+    <offer id="1111" available="true">
      <url>https://montcarotte.com/ru/product/267</url>
      <name>Зубная щетка &quot;Малевич&quot; &quot;soft&quot;</name> 
      <price>1165</price>
      <currencyId>RUR</currencyId>
-     <categoryId>11</categoryId>
+     <categoryId>111</categoryId>
      <picture>https://montcarotte.com/sites/default/files/malevich.jpg</picture>
      <vat>6</vat>
      <shipment-options>
@@ -51,12 +51,12 @@
      <barcode>4022405111101</barcode>
    </offer>
 
-    <offer id="112" available="true">
+    <offer id="1112" available="true">
      <url>https://montcarotte.com/ru/product/266</url>
      <name>Itten toothbrush Abstraction Brush Collection / Зубная щетка "Иттен"</name> 
      <price>1165</price>
      <currencyId>RUR</currencyId>
-     <categoryId>11</categoryId>
+     <categoryId>111</categoryId>
      <picture>https://montcarotte.com/sites/default/files/itten.jpg</picture>
      <vat>6</vat>
      <shipment-options>
