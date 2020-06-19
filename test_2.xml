@@ -35,7 +35,7 @@
       <option days="1-2" order-before="15"/>
      </shipment-options>
      <outlets>
-      <outlet id="склад в Москве" instock="50"/>
+      <outlet id="склад в Москве" instock="150"/>
      </outlets>
      <vendor>MontCarotte®</vendor>
      <vendorCode>МС401</vendorCode>
@@ -63,7 +63,7 @@
       <option days="1-2" order-before="15"/>
      </shipment-options>
      <outlets>
-      <outlet id="склад в Москве" instock="50"/>
+      <outlet id="склад в Москве" instock="150"/>
      </outlets>
      <vendor>MontCarotte®</vendor>
      <vendorCode>МС402</vendorCode>
@@ -91,7 +91,7 @@
       <option days="1-2" order-before="15"/>
      </shipment-options>
      <outlets>
-      <outlet id="склад в Москве" instock="50"/>
+      <outlet id="склад в Москве" instock="150"/>
      </outlets>
      <vendor>MontCarotte®</vendor>
      <vendorCode>МС403</vendorCode>
@@ -119,7 +119,7 @@
       <option days="1-2" order-before="15"/>
      </shipment-options>
      <outlets>
-      <outlet id="склад в Москве" instock="50"/>
+      <outlet id="склад в Москве" instock="150"/>
      </outlets>
      <vendor>MontCarotte®</vendor>
      <vendorCode>МС404</vendorCode>
@@ -147,7 +147,7 @@
       <option days="1-2" order-before="15"/>
      </shipment-options>
      <outlets>
-      <outlet id="склад в Москве" instock="50"/>
+      <outlet id="склад в Москве" instock="150"/>
      </outlets>
      <vendor>MontCarotte®</vendor>
      <vendorCode>МС405</vendorCode>
@@ -175,7 +175,7 @@
       <option days="1-2" order-before="15"/>
      </shipment-options>
      <outlets>
-      <outlet id="склад в Москве" instock="50"/>
+      <outlet id="склад в Москве" instock="150"/>
      </outlets>
      <vendor>MontCarotte Medical®</vendor>
      <vendorCode>МСМ0215</vendorCode>
@@ -210,7 +210,7 @@
       <option days="1-2" order-before="15"/>
      </shipment-options>
      <outlets>
-      <outlet id="склад в Москве" instock="50"/>
+      <outlet id="склад в Москве" instock="150"/>
      </outlets>
      <vendor>MontCarotte Medical®</vendor>
      <vendorCode>МСМ0325</vendorCode>
@@ -245,7 +245,7 @@
       <option days="1-2" order-before="15"/>
      </shipment-options>
      <outlets>
-      <outlet id="склад в Москве" instock="50"/>
+      <outlet id="склад в Москве" instock="150"/>
      </outlets>
      <vendor>MontCarotte Medical®</vendor>
      <vendorCode>МСМ0430</vendorCode>
@@ -280,7 +280,7 @@
       <option days="1-2" order-before="15"/>
      </shipment-options>
      <outlets>
-      <outlet id="склад в Москве" instock="50"/>
+      <outlet id="склад в Москве" instock="150"/>
      </outlets>
      <vendor>MontCarotte Medical®</vendor>
      <vendorCode>МСМ0115</vendorCode>
@@ -315,7 +315,7 @@
       <option days="1-2" order-before="15"/>
      </shipment-options>
      <outlets>
-      <outlet id="склад в Москве" instock="50"/>
+      <outlet id="склад в Москве" instock="150"/>
      </outlets>
      <vendor>MontCarotte Medical®</vendor>
      <vendorCode>МСМ0500</vendorCode>
@@ -353,7 +353,7 @@
       <option days="1-2" order-before="15"/>
      </shipment-options>
      <outlets>
-      <outlet id="склад в Москве" instock="50"/>
+      <outlet id="склад в Москве" instock="150"/>
      </outlets>
      <vendor>MontCarotte Medical®</vendor>
      <vendorCode>МСМ0750</vendorCode>
