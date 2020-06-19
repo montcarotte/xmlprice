@@ -10,6 +10,8 @@
   <categories>
    <category id="1">MontCarotte®</category>
     <category id="11" parentId="1">Кисти</category>
+     <category id="111" parentId="11">Абстракционизм</category>
+     <category id="112" parentId="11">Импрессионизм</category>
    <category id="2">RAPID MontCarotte Medical®</category>
     <category id="21" parentID="2">Зубные гели</category>
     <category id="22" parentID="2">Средство для обработки полости рта</category>
