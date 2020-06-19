@@ -255,6 +255,48 @@
      <barcode>8809518680450</barcode>
    </offer>
 
+   <offer id="241" available="true">
+     <url>https://montcarotte.com/ru/product/349</url>
+     <name>Набор RAPID</name> 
+     <price>7000</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>24</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/kit-1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="50"/>
+     </outlets>
+     <vendor>MontCarotte Medical®</vendor>
+     <vendorCode>МСМ0750</vendorCode>
+     <model>МСМ0750</model>
+     <description>Набор RAPID
+КОМПЛЕКСНОЕ РЕШЕНИЕ ДЛЯ ПАЦИЕНТА, ГАРАНТИЯ РЕЗУЛЬТАТА ДЛЯ ВРАЧА. В состав набора входит 5 продуктов:
+Ополаскиватель для полости рта RAPID 25 GRAPEFRUIT 0,25%
+Ополаскиватель для полости рта RAPID 15 GRAPEFRUIT 0,15%
+Гелеобразная зубная паста RAPID 15 GRAPEFRUIT SEED EXTRACT 0,15%
+Зубной гель бандаж RAPID 30 GRAPEFRUIT SEED EXTRACT 0,30%
+Полимягкая зубная щетка RAPID c щетиной из волокна POLYTETRA ® для атравматичной гигиены полости рта.</description>
+     <param name="Коллекция">RAPID®</param>
+     <param name="Состав набора">Пять ед. товара коллекции</param>
+     <param name="Бренд">MontCarotte Medical®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Красный, белый</param>
+     <param name="Особенности">Для атравматичной гигиены полости рта, разделённые на четыре части щетинки</param>
+     <param name="Применение">
+• для людей, перенесших хирургическое вмешательство в ротовой полости
+• при воспаленных и кровоточащих деснах
+• после проведения гигиены в полости рта
+• после хирургического лечения в качестве интенсивной защиты от образования бактериального налета
+• после протезировании на имплантатах
+• после установке виниров и ортопедических конструкций
+• после установки ортодонтических аппаратов
+</param>
+     <barcode>8030009001205</barcode>
+   </offer>
+
   </offers>
  </shop> 
 </yml_catalog>
