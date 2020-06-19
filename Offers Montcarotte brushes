@@ -25,3 +25,31 @@
      <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
      <barcode>4022405214338</barcode>
    </offer>
+   
+   <offer id="1114" available="true">
+     <url>https://montcarotte.com/ru/product/263</url>
+     <name>Kandinsky toothbrush Abstraction Brush Collection / Зубная щетка "Кандинский"</name> 
+     <price>1165</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>111</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/kandinsky_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="50"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС404</vendorCode>
+     <model>МС404</model>
+     <description>Зубная кисть &quot;Кандинский&quot; из коллекции &quot;Абстракционизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (В. Кандинский)</param>
+     <param name="Коллекция">Абстракционисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Белый</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405205343</barcode>
+   </offer>
