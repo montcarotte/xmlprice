@@ -22,3 +22,28 @@
      <param name="Состав">СОСТАВ</param>
      <barcode>8030009000819</barcode>
    </offer>
+   
+   <offer id="122" available="true">
+     <url>https://montcarotte.com/ru/product/18</url>
+     <name>Smoothing and Brightening Tooth Peeling / Зубная паста "Гель пилинг для зубов для выравнивания цвета и придания блеска"</name> 
+     <price>1725</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/sbtp_1_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="0"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1021</vendorCode>
+     <model>МС1021</model>
+     <description>Гелеобразный зубной крем</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Состав">СОСТАВ</param>
+     <barcode>8030009000918</barcode>
+   </offer>
