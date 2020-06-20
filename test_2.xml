@@ -163,8 +163,7 @@
      <barcode>4022405205350</barcode>
     </offer>
 
-
-<offer id="1121" available="true">
+    <offer id="1121" available="true">
      <url>https://montcarotte.com/ru/product/25</url>
      <name>Eduard Manet Toothbrush Impression Brush Collection / Зубная щетка "Мане"</name> 
      <price>1075</price>
@@ -318,7 +317,6 @@
      <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
      <barcode>4022405279900</barcode>
    </offer>
-
 
     <offer id="221" available="true">
      <url>https://rapidmontcarottemedical.com/</url>
