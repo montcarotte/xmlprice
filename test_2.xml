@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-06-19 19:11">
+<yml_catalog date="2020-06-20 20:30">
  <shop>
   <name>MontCarotte</name>
   <company>"МОНТКАРОТТЕ ДИСТРИБЬЮШЕН", ООО</company>
@@ -162,6 +162,163 @@
      <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
      <barcode>4022405205350</barcode>
     </offer>
+
+
+<offer id="1121" available="true">
+     <url>https://montcarotte.com/ru/product/25</url>
+     <name>Eduard Manet Toothbrush Impression Brush Collection / Зубная щетка "Мане"</name> 
+     <price>1075</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>112</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/blue_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС201</vendorCode>
+     <model>МС201</model>
+     <description>Зубная кисть &quot;Мане&quot; из коллекции &quot;Импрессионизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (Э. Мане)</param>
+     <param name="Коллекция">Импрессионисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Синий оттенок, прозрачный/param>
+     <param name="Толщина волокна">0,15 мм</param>
+     <param name="Количество щетинок">1200 шт.</param>
+     <param name="Размеры">10 мм ширина, 15 мм длина, что в среднем соответствует размерам двух зубов</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405279863</barcode>
+   </offer>
+   
+   <offer id="1122" available="true">
+     <url>https://montcarotte.com/ru/product/24</url>
+     <name>Van Gogh toothbrush Impression Brush Collection / Зубная щетка "Ван Гог"</name> 
+     <price>1075</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>112</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/yellow_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС202</vendorCode>
+     <model>МС202</model>
+     <description>Зубная кисть &quot;Ван Гог&quot; из коллекции &quot;Импрессионизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (В. Ван Гог)</param>
+     <param name="Коллекция">Импрессионисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Желтый оттенок, прозрачный/param>
+     <param name="Толщина волокна">0,15 мм</param>
+     <param name="Количество щетинок">1200 шт.</param>
+     <param name="Размеры">10 мм ширина, 15 мм длина, что в среднем соответствует размерам двух зубов</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405279870</barcode>
+   </offer>
+   
+   <offer id="1123" available="true">
+     <url>https://montcarotte.com/ru/product/20</url>
+     <name>Paul Gauguin Toothbrush Impression Brush Collection / Зубная щетка "Гоген"</name> 
+     <price>1075</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>112</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/brush_pink_1_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС203</vendorCode>
+     <model>МС203</model>
+     <description>Зубная кисть &quot;Гоген&quot; из коллекции &quot;Импрессионизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (П. Гоген)</param>
+     <param name="Коллекция">Импрессионисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Розовый оттенок, прозрачный/param>
+     <param name="Толщина волокна">0,15 мм</param>
+     <param name="Количество щетинок">1200 шт.</param>
+     <param name="Размеры">10 мм ширина, 15 мм длина, что в среднем соответствует размерам двух зубов</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405279887</barcode>
+   </offer>
+
+   <offer id="1124" available="true">
+     <url>https://montcarotte.com/ru/product/17</url>
+     <name>Edgar Degas Toothbrush Impression Brush Collection / Зубная щетка "Дега"</name> 
+     <price>1075</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>112</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/degas_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС204</vendorCode>
+     <model>МС204</model>
+     <description>Зубная кисть &quot;Дега&quot; из коллекции &quot;Импрессионизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (Э. Дега)</param>
+     <param name="Коллекция">Импрессионисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Сиреневый оттенок, прозрачный/param>
+     <param name="Толщина волокна">0,15 мм</param>
+     <param name="Количество щетинок">1200 шт.</param>
+     <param name="Размеры">10 мм ширина, 15 мм длина, что в среднем соответствует размерам двух зубов</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405279894</barcode>
+   </offer>
+
+   <offer id="1125" available="true">
+     <url>https://montcarotte.com/ru/product/23</url>
+     <name>Pierre-Auguste Renoir Toothbrush Impression Brush Collection / Зубная щетка "Ренуар"</name> 
+     <price>1075</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>112</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/green_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС205</vendorCode>
+     <model>МС205</model>
+     <description>Зубная кисть &quot;Ренуа&quot; из коллекции &quot;Импрессионизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (П.-О. Ренуа)</param>
+     <param name="Коллекция">Импрессионисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Зелёный оттенок, прозрачный/param>
+     <param name="Толщина волокна">0,15 мм</param>
+     <param name="Количество щетинок">1200 шт.</param>
+     <param name="Размеры">10 мм ширина, 15 мм длина, что в среднем соответствует размерам двух зубов</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405279900</barcode>
+   </offer>
+
 
     <offer id="221" available="true">
      <url>https://rapidmontcarottemedical.com/</url>
