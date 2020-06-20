@@ -1,1 +1,24 @@
-"Зубная паста ""Нежно отбеливающий крем для зубов"""
+    <offer id="121" available="true">
+     <url>https://montcarotte.com/ru/collection/1</url>
+     <name>Зубная паста "Нежно отбеливающий крем для зубов"</name> 
+     <price>1725</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/ru/collection/1</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="0"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1011</vendorCode>
+     <model>МС1011</model>
+     <description>ОПИСАНИЕ</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Состав">СОСТАВ</param>
+     <barcode>8030009000819</barcode>
+   </offer>
