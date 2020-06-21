@@ -47,3 +47,78 @@
      <param name="Состав">СОСТАВ</param>
      <barcode>8030009000918</barcode>
    </offer>
+   
+   <offer id="123" available="true">
+     <url>https://montcarotte.com/ru/product/26</url>
+     <name>Soothing Tooth Mask Sensitivity Relief  / Зубная паста «Успокаивающая маска для снятия чувствительности и дискомфорта десен и зубов"</name> 
+     <price>1725</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/stmsr_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1031</vendorCode>
+     <model>МС1031</model>
+     <description>Гелеобразный зубной крем</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Состав">СОСТАВ</param>
+     <barcode>8030009000710</barcode>
+   </offer>
+   
+   <offer id="124" available="true">
+     <url>https://montcarotte.com/ru/product/28</url>
+     <name>Homeopathic Tooth Cream / Зубная паста "Гомеопатический крем для зубов"</name> 
+     <price>1725</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/htc_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1041</vendorCode>
+     <model>МС1041</model>
+     <description>Гелеобразный зубной крем</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Состав">СОСТАВ</param>
+     <barcode>8030009001113</barcode>
+   </offer>
+
+<offer id="125" available="true">
+     <url>https://montcarotte.com/ru/product/19</url>
+     <name>Organic Tooth Cream / Зубная паста "Органический крем для зубов"</name> 
+     <price>1725</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/otc_1_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1051</vendorCode>
+     <model>МС1051</model>
+     <description>Гелеобразный зубной крем</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Состав">СОСТАВ</param>
+     <barcode>8030009001014</barcode>
+   </offer>
