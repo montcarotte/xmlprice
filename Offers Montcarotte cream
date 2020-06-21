@@ -122,3 +122,53 @@
      <param name="Состав">СОСТАВ</param>
      <barcode>8030009001014</barcode>
    </offer>
+
+<offer id="126" available="true">
+     <url>https://montcarotte.com/ru</url>
+     <name>Набор зубных паст "Омолаживающая отбеливающая программа для зубов"</name> 
+     <price>3970</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1061</vendorCode>
+     <model>МС1061</model>
+     <description>Гелеобразный зубной крем</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Состав">СОСТАВ</param>
+     <barcode>8030009000512</barcode>
+   </offer>
+
+<offer id="127" available="true">
+     <url>https://montcarotte.com/ru/product/39</url>
+     <name>Diamond Brightening Tooth Cream Vanila Orhid / Зубная паста "Бриллиантовое Сияние крем для зубов с экстрактом стручков ванильной орхидеи"</name> 
+     <price>5700</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/banka_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1071</vendorCode>
+     <model>МС1071</model>
+     <description>Гелеобразный зубной крем</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Состав">СОСТАВ</param>
+     <barcode>8030009000611</barcode>
+   </offer>
