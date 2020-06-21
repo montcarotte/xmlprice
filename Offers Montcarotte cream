@@ -65,7 +65,7 @@
      <vendor>MontCarotte®</vendor>
      <vendorCode>МС1031</vendorCode>
      <model>МС1031</model>
-     <description>Гелеобразный зубной крем</description>
+     <description>Восстанавливающий эмаль крем-маска для зубов с высоким содержанием гидроксиапатита (10%)</description>
      <param name="Коллекция">Зубные крема</param>
      <param name="Бренд">MontCarotte®</param>
      <param name="Страна">Великобритания</param>
@@ -90,7 +90,7 @@
      <vendor>MontCarotte®</vendor>
      <vendorCode>МС1041</vendorCode>
      <model>МС1041</model>
-     <description>Гелеобразный зубной крем</description>
+     <description>Поддерживает и сохраняет эффект гомеопатической терапии</description>
      <param name="Коллекция">Зубные крема</param>
      <param name="Бренд">MontCarotte®</param>
      <param name="Страна">Великобритания</param>
@@ -98,7 +98,7 @@
      <barcode>8030009001113</barcode>
    </offer>
 
-<offer id="125" available="true">
+   <offer id="125" available="true">
      <url>https://montcarotte.com/ru/product/19</url>
      <name>Organic Tooth Cream / Зубная паста "Органический крем для зубов"</name> 
      <price>1725</price>
@@ -115,7 +115,7 @@
      <vendor>MontCarotte®</vendor>
      <vendorCode>МС1051</vendorCode>
      <model>МС1051</model>
-     <description>Гелеобразный зубной крем</description>
+     <description>Оказывает антисептическое, иммуномодулирующее действие</description>
      <param name="Коллекция">Зубные крема</param>
      <param name="Бренд">MontCarotte®</param>
      <param name="Страна">Великобритания</param>
@@ -148,7 +148,7 @@
      <barcode>8030009000512</barcode>
    </offer>
 
-<offer id="127" available="true">
+   <offer id="127" available="true">
      <url>https://montcarotte.com/ru/product/39</url>
      <name>Diamond Brightening Tooth Cream Vanila Orhid / Зубная паста "Бриллиантовое Сияние крем для зубов с экстрактом стручков ванильной орхидеи"</name> 
      <price>5700</price>
@@ -165,10 +165,35 @@
      <vendor>MontCarotte®</vendor>
      <vendorCode>МС1071</vendorCode>
      <model>МС1071</model>
-     <description>Гелеобразный зубной крем</description>
+     <description>Катализирует обменные процессы в цитоплазме клеток организма, запуская программу быстрого восстановления слизистой оболочки полости рта</description>
      <param name="Коллекция">Зубные крема</param>
      <param name="Бренд">MontCarotte®</param>
      <param name="Страна">Великобритания</param>
      <param name="Состав">СОСТАВ</param>
      <barcode>8030009000611</barcode>
+   </offer>
+   
+   <offer id="128" available="true">
+     <url>https://montcarotte.com/ru/product/171</url>
+     <name>Platinum Brightening Tooth Gel  / Зубная паста " Платиновое сияние гель для зубов для мужчин"</name> 
+     <price>5900</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/tube_black_435x470.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1081</vendorCode>
+     <model>МС1081</model>
+     <description>Осветляет эмаль до естественной белизны. Растворяет окрашенный зубной налет безопасным способом</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Состав">СОСТАВ</param>
+     <barcode>8022405279500</barcode>
    </offer>
