@@ -1,6 +1,7 @@
   <offer id="131" available="true">
      <url>https://montcarotte.com/ru/product/160</url>
      <name>Yellow Kids toothbrush / Детская Зубная щетка MontCarotte  "Желтая " "soft"</name> 
+     <typePrefix>Зубная щетка для детей</typePrefix>
      <price>1010</price>
      <currencyId>RUR</currencyId>
      <categoryId>13</categoryId>
