@@ -40,3 +40,47 @@
      <param name="Цвет">Белый; Желтый</param>
      <param name="Частота использования">Многоразовая</param>
    </offer>
+   
+   <offer id="132" available="true">
+     <url>https://montcarotte.com/ru/product/161</url>
+     <name>Rose Kids toothbrush / Детская Зубная щетка MontCarotte  "Розовая " "soft"</name> 
+     <typePrefix>Зубная щетка для детей</typePrefix>
+     <price>1010</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>13</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470_br_rose_0.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470_br_rose_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС211</vendorCode>
+     <model>МС211</model>
+     <description>Коллекция красочных детских зубных кистей разработана с учетом всех особенностей строения детских зубов и техники чистки детей</description>
+     <param name="Дизайн">ДИЗАЙН</param>
+     <param name="Бренд">БРЭНД</param>
+     <param name="Модель">МОДЕЛЬ</param>
+     <param name="Серия">СЕРИЯ</param>
+     <barcode>4022405324211</barcode>
+     <param name="Вес упаковки(кг)">ВЕС УПАКОВКИ</param>
+     <param name="Высота упаковки(см)">ВЫСОТА УПАКОВКИ</param>
+     <param name="Ширина упаковки(см)">ШИРИНА УПАКОВКИ</param>
+     <param name="Длина упаковки(см)">ДЛИНА УПАКОВКИ</param>
+     <param name="Вес в граммах">ВЕС В ГРАММАХ</param>
+     <param name="Дорожный формат">ДА</param>
+     <param name="Жесткость щетины">Мягкая</param>
+     <param name="Материал ручки">Гипоалергенный пластик</param>
+     <param name="Материал щетины">Полиамидная нить</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Регистрационное имя">Yellow Kids Toothbrush</param>
+     <param name="Состав набора">Зубная щетка</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">Детская зубная щетка 0+</param>
+     <param name="Цвет">Белый; Розовый</param>
+     <param name="Частота использования">Многоразовая</param>
+    </offer>
