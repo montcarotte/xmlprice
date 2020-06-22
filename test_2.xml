@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-06-22 2:40">
+<yml_catalog date="2020-06-22 18:00">
  <shop>
   <name>MontCarotte</name>
   <company>"МОНТКАРОТТЕ ДИСТРИБЬЮШЕН", ООО</company>
@@ -13,6 +13,7 @@
      <category id="111" parentId="11">Абстракционизм</category>
      <category id="112" parentId="11">Импрессионизм</category>
     <category id="12" parentId="1">Крема</category>
+    <category id="13" parentId="1">Кисти детские</category>
    <category id="2">RAPID MontCarotte Medical®</category>
     <category id="21" parentID="2">Зубные гели</category>
     <category id="22" parentID="2">Средство для обработки полости рта</category>
@@ -518,7 +519,48 @@
      <param name="Состав">СОСТАВ</param>
      <barcode>8022405279500</barcode>
    </offer>
-
+   
+   <offer id="131" available="true">
+     <url>https://montcarotte.com/ru/product/160</url>
+     <name>Yellow Kids toothbrush / Детская Зубная щетка MontCarotte  "Желтая " "soft"</name> 
+     <price>1010</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>13</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/435x470_br_yel_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС210</vendorCode>
+     <model>МС210</model>
+     <description>Коллекция красочных детских зубных кистей разработана с учетом всех особенностей строения детских зубов и техники чистки детей</description>
+     <param name="Дизайн">ДИЗАЙН</param>
+     <param name="Бренд">БРЭНД</param>
+     <param name="Модель">МОДЕЛЬ</param>
+     <param name="Серия">СЕРИЯ</param>
+     <barcode>4022405222210</barcode>
+     <param name="Вес упаковки(кг)">ВЕС УПАКОВКИ</param>
+     <param name="Высота упаковки(см)">ВЫСОТА УПАКОВКИ</param>
+     <param name="Ширина упаковки(см)">ШИРИНА УПАКОВКИ</param>
+     <param name="Длина упаковки(см)">ДЛИНА УПАКОВКИ</param>
+     <param name="Вес в граммах">ВЕС В ГРАММАХ</param>
+     <param name="Дорожный формат">ДА</param>
+     <param name="Жесткость щетины">Мягкая</param>
+     <param name="Материал ручки">Гипоалергенный пластик</param>
+     <param name="Материал щетины">Полиамидная нить</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Регистрационное имя">Yellow Kids Toothbrush</param>
+     <param name="Состав набора">Зубная щетка</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">Детская зубная щетка 0+</param>
+     <param name="Цвет">Белый; Желтый</param>
+     <param name="Частота использования">Многоразовая</param>
+    </offer>
+   
     <offer id="221" available="true">
      <url>https://rapidmontcarottemedical.com/</url>
      <name>Oral rinse RAPID 15 Red Grapefruit, 200ml/Oполаскиватель для полости рта РАПИД 15 Красный Грейпфрут 200 мл  </name> 
