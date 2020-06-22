@@ -16,15 +16,25 @@
      <vendorCode>МС210</vendorCode>
      <model>МС210</model>
      <description>Зубная кисть для детей</description>
-     <param name="Дизайн">Авторский (Э. Мане)</param>
-     <param name="Коллекция">Импрессионисты</param>
-     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
-     <param name="Бренд">MontCarotte®</param>
-     <param name="Страна">Великобритания</param>
-     <param name="Цвет">Синий оттенок, прозрачны</param>
-     <param name="Толщина волокна">0,15 мм</param>
-     <param name="Количество щетинок">1200 шт.</param>
-     <param name="Размеры">10 мм ширина, 15 мм длина, что в среднем соответствует размерам двух зубов</param>
-     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <param name="Дизайн">ДИЗАЙН</param>
+     <param name="Бренд">БРЭНД</param>
+     <param name="Модель">МОДЕЛЬ</param>
+     <param name="Серия">СЕРИЯ</param>
      <barcode>4022405222210</barcode>
+     <param name="Вес упаковки(кг)">ВЕС УПАКОВКИ</param>
+     <param name="Высота упаковки(см)">ВЫСОТА УПАКОВКИ</param>
+     <param name="Ширина упаковки(см)">ШИРИНА УПАКОВКИ</param>
+     <param name="Длина упаковки(см)">ДЛИНА УПАКОВКИ</param>
+     <param name="Вес в граммах">ВЕС В ГРАММАХ</param>
+     <param name="Дорожный формат">ДА</param>
+     <param name="Жесткость щетины">Мягкая</param>
+     <param name="Материал ручки">Пластик</param>
+     <param name="Материал щетины">Полиамидная нить</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Регистрационное имя">РЕГ ИМЯ</param>
+     <param name="Состав набора">Зубная щетка</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">Зубная щетка</param>
+     <param name="Цвет">Белый; Желтый</param>
+     <param name="Частота использования">Многоразовая</param>
    </offer>
