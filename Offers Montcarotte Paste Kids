@@ -1,12 +1,13 @@
-<offer id="131" available="true">
-     <url>https://montcarotte.com/ru/product/160</url>
-     <name>Yellow Kids toothbrush / Детская Зубная щетка MontCarotte  "Желтая " "soft"</name> 
-     <typePrefix>Зубная щетка для детей</typePrefix>
-     <price>1010</price>
+<offer id="141" available="true">
+     <url>https://montcarotte.com/ru/product/169</url>
+     <name>Pure Kids Tooth Gel  / Детская зубная паста MontCarotte "Детский зубной гель “Нейтральный”</name> 
+     <typePrefix>Зубная паста для детей</typePrefix>
+     <price>1520</price>
      <currencyId>RUR</currencyId>
      <categoryId>13</categoryId>
-     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
-     <picture>https://montcarotte.com/sites/default/files/435x470_br_yel_1.jpg</picture>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470_tub_pur_2.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470_tub_pur_2.jpg</picture>
      <vat>6</vat>
      <shipment-options>
       <option days="1-2" order-before="15"/>
@@ -15,9 +16,9 @@
       <outlet id="склад в Москве" instock="150"/>
      </outlets>
      <vendor>MontCarotte®</vendor>
-     <vendorCode>МС210</vendorCode>
-     <model>МС210</model>
-     <description>Коллекция красочных детских зубных кистей разработана с учетом всех особенностей строения детских зубов и техники чистки детей. Высокотехнологичное волокно щетины, увеличенный срок службы, одобрено Ассоциацией детских стоматологов России.</description>
+     <vendorCode>МС1101</vendorCode>
+     <model>МС1101</model>
+     <description>Без вкуса, был разработан абсолютно нейтральным и гипоаллергенным, но 100% надежным как для чистки зубов, так и для их защиты.</description>
      <param name="Дизайн">ДИЗАЙН</param>
      <param name="Бренд">БРЭНД</param>
      <param name="Модель">МОДЕЛЬ</param>
