@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-06-23 1:36">
+<yml_catalog date="2020-06-23 11:30">
  <shop>
   <name>MontCarotte</name>
   <company>"МОНТКАРОТТЕ ДИСТРИБЬЮШЕН", ООО</company>
@@ -14,6 +14,7 @@
      <category id="112" parentId="11">Импрессионизм</category>
     <category id="12" parentId="1">Крема</category>
     <category id="13" parentId="1">Кисти детские</category>
+    <category id="14" parentId="1">Крема детские</category>
    <category id="2">RAPID MontCarotte Medical®</category>
     <category id="21" parentID="2">Зубные гели</category>
     <category id="22" parentID="2">Средство для обработки полости рта</category>
@@ -738,6 +739,62 @@
      <param name="Цвет">Белый; Зеленый</param>
      <param name="Частота использования">Многоразовая</param>
     </offer>
+   
+   <offer id="141" available="true">
+     <url>https://montcarotte.com/ru/product/169</url>
+     <name>Pure Kids Tooth Gel  / Детская зубная паста MontCarotte "Детский зубной гель “Нейтральный”</name> 
+     <typePrefix>Зубная паста для детей</typePrefix>
+     <price>1520</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>14</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470_tub_pur_2.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470_tub_pur_2.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1101</vendorCode>
+     <model>МС1101</model>
+     <description>Без вкуса, был разработан абсолютно нейтральным и гипоаллергенным, но 100% надежным как для чистки зубов, так и для их защиты.</description>
+     <param name="Дизайн">Smile Therapy</param>
+     <param name="Бренд">Montcarotte</param>
+     <param name="Модель">Kids Toothgel</param>
+     <param name="Серия">Pure 0+</param>
+     <barcode>8030009000413</barcode>
+     <param name="Вес упаковки(кг)">ВЕС УПАКОВКИ</param>
+     <param name="Высота упаковки(см)">ВЫСОТА УПАКОВКИ</param>
+     <param name="Ширина упаковки(см)">ШИРИНА УПАКОВКИ</param>
+     <param name="Длина упаковки(см)">ДЛИНА УПАКОВКИ</param>
+     <param name="Активные ингридиенты>АКТИВНЫЕ ИНГРИДИЕНТЫ</param>
+     <param name="Аромат">Нейтральный</param>
+     <param name="Вес в граммах">ВЕС В ГРАММАХ</param>
+     <param name="Гелевая">Да</param>
+     <param name="Для чувствительных зубов">ДА/НЕТ</param>
+     <param name="Дорожный формат">ДА/НЕТ</param>
+     <param name="Класс косметики">Люксовая, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Объем в миллилитрах">ОБЪЕМ</param>
+     <param name="Особенности">Органик, без искусственных красителей. Не требует смывания, безопасен при проглатывании, повышенная адгезивность, одобрен Ассоциацией Детских Стоматологов России.</param>
+     <param name="Применение">ЕЖЕДНЕВНОЕ ИСПОЛЬЗОВАНИЕ/РЕКОМЕНДУЕТСЯ ПРИМЕНЯТЬ КУРСОМ</param>
+     <param name="Регистрационное имя">PURE</param>
+     <param name="C дозатором">Нет</param>
+     <param name="Совместимость">Универсальная</param>
+     <param name="Содержит фтор">ДА/НЕТ</param>
+     <param name="Класс косметики">Люксовая, Детская</param>
+     <param name="Состав">Sorbitol, Aqua, Hydrated Silica, Glycerin, Xylitol (10%), Sodium Myristoyl Sarcosinate, Cellulose Gum, Pottasium Acesulfame, Sodium Benzoate, Citric Acid</param>
+     <param name="Состав набора">Туба с гелем</param>
+     <param name="Степень абразивности">НИЗКАЯ/ВЫСОКАЯ</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">Детский зубной гель 0+</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ОТБЕЛИВАЮЩИЙ/УКРЕПЛЕНИЕ ЭМАЛИ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">Прозрачный</param>
+   </offer>
    
     <offer id="221" available="true">
      <url>https://rapidmontcarottemedical.com/</url>
