@@ -37,7 +37,7 @@
       <option days="1-2" order-before="15"/>
      </shipment-options>
      <outlets>
-      <outlet id="0" instock="150"/>
+      <outlet id="1" instock="150"/>
      </outlets>
      <vendor>MontCarotte®</vendor>
      <vendorCode>МС401</vendorCode>
