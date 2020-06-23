@@ -13,7 +13,7 @@
       <option days="1-2" order-before="15"/>
      </shipment-options>
      <outlets>
-      <outlet id="склад в Москве" instock="150"/>
+      <outlet id="125252, г Москва, ул Зорге, д 9А" instock="150"/>
      </outlets>
      <vendor>MontCarotte®</vendor>
      <vendorCode>МС1101</vendorCode>
