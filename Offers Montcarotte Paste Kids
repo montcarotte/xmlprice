@@ -19,37 +19,37 @@
      <vendorCode>МС1101</vendorCode>
      <model>МС1101</model>
      <description>Без вкуса, был разработан абсолютно нейтральным и гипоаллергенным, но 100% надежным как для чистки зубов, так и для их защиты.</description>
-     <param name="Дизайн">ДИЗАЙН</param>
-     <param name="Бренд">БРЭНД</param>
-     <param name="Модель">МОДЕЛЬ</param>
-     <param name="Серия">СЕРИЯ</param>
-     <barcode>4022405222210</barcode>
+     <param name="Дизайн">Smile Therapy</param>
+     <param name="Бренд">Montcarotte</param>
+     <param name="Модель">Kids Toothgel</param>
+     <param name="Серия">Pure</param>
+     <barcode>8030009000413</barcode>
      <param name="Вес упаковки(кг)">ВЕС УПАКОВКИ</param>
      <param name="Высота упаковки(см)">ВЫСОТА УПАКОВКИ</param>
      <param name="Ширина упаковки(см)">ШИРИНА УПАКОВКИ</param>
      <param name="Длина упаковки(см)">ДЛИНА УПАКОВКИ</param>
      <param name="Активные ингридиенты>АКТИВНЫЕ ИНГРИДИЕНТЫ</param>
-     <param name="Аромат">АРОМАТ</param>
+     <param name="Аромат">Нейтральный</param>
      <param name="Вес в граммах">ВЕС В ГРАММАХ</param>
-     <param name="Гелевая">ДА/НЕТ</param>
+     <param name="Гелевая">Да</param>
      <param name="Для чувствительных зубов">ДА/НЕТ</param>
      <param name="Дорожный формат">ДА/НЕТ</param>
      <param name="Класс косметики">Люксовая, Детская</param>
      <param name="Область применения">Полость рта</param>
      <param name="Объем в миллилитрах">ОБЪЕМ</param>
-     <param name="Особенности">Органик, без искусственных красителей</param>
+     <param name="Особенности">Органик, без искусственных красителей. Не требует смывания, безопасен при проглатывании, повышенная адгезивность, одобрен Ассоциацией Детских Стоматологов России.</param>
      <param name="Применение">ЕЖЕДНЕВНОЕ ИСПОЛЬЗОВАНИЕ/РЕКОМЕНДУЕТСЯ ПРИМЕНЯТЬ КУРСОМ</param>
-     <param name="Регистрационное имя">Kids Toothpaste</param>
+     <param name="Регистрационное имя">PURE</param>
      <param name="C дозатором">Нет</param>
      <param name="Совместимость">Универсальная</param>
      <param name="Содержит фтор">ДА/НЕТ</param>
      <param name="Класс косметики">Люксовая, Детская</param>
-     <param name="Состав">СОСТАВ</param>
-     <param name="Состав набора">СОСТАВ</param>
+     <param name="Состав">Sorbitol, Aqua, Hydrated Silica, Glycerin, Xylitol (10%), Sodium Myristoyl Sarcosinate, Cellulose Gum, Pottasium Acesulfame, Sodium Benzoate, Citric Acid</param>
+     <param name="Состав набора">Туба с гелем</param>
      <param name="Степень абразивности">НИЗКАЯ/ВЫСОКАЯ</param>
      <param name="Страна производства">Италия</param>
-     <param name="Тип">Зубная щетка</param>
+     <param name="Тип">Детский зубной гель 0+</param>
      <param name="Фирма-производитель">Montcarotte</param>
      <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ОТБЕЛИВАЮЩИЙ/УКРЕПЛЕНИЕ ЭМАЛИ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
-     <param name="Цвет">ЦВЕТ</param>
+     <param name="Цвет">Прозрачный</param>
    </offer>
