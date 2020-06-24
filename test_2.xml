@@ -13,7 +13,9 @@
      <category id="111" parentId="11">Абстракционизм</category>
      <category id="112" parentId="11">Импрессионизм</category>
     <category id="12" parentId="1">Крема</category>
-    <category id="13" parentId="1">Кисти детские</category>
+    <category id="13" parentId="1">Детские товары</category>
+     <category id="131" parentId="13">Кисти детские</category>
+     <category id="132" parentId="13">Крема детские</category>
    <category id="2">RAPID MontCarotte Medical®</category>
     <category id="21" parentID="2">Зубные гели</category>
     <category id="22" parentID="2">Средство для обработки полости рта</category>
