@@ -522,13 +522,13 @@
      <barcode>8022405279500</barcode>
    </offer>
    
-   <offer id="131" available="true">
+   <offer id="1311" available="true">
      <url>https://montcarotte.com/ru/product/160</url>
      <name>Yellow Kids toothbrush / Детская Зубная щетка MontCarotte  "Желтая " "soft"</name> 
      <typePrefix>Зубная щетка для детей</typePrefix>
      <price>1010</price>
      <currencyId>RUR</currencyId>
-     <categoryId>13</categoryId>
+     <categoryId>131</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
      <picture>https://montcarotte.com/sites/default/files/435x470_br_yel_1.jpg</picture>
      <vat>6</vat>
@@ -565,13 +565,13 @@
      <param name="Частота использования">Многоразовая</param>
    </offer>
    
-   <offer id="132" available="true">
+   <offer id="1312" available="true">
      <url>https://montcarotte.com/ru/product/161</url>
      <name>Rose Kids toothbrush / Детская Зубная щетка MontCarotte  "Розовая " "soft"</name> 
      <typePrefix>Зубная щетка для детей</typePrefix>
      <price>1010</price>
      <currencyId>RUR</currencyId>
-     <categoryId>13</categoryId>
+     <categoryId>131</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
      <picture>https://montcarotte.com/sites/default/files/435x470_br_rose_0.jpg</picture>
      <picture>https://montcarotte.com/sites/default/files/435x470_br_rose_0.jpg</picture>
@@ -609,13 +609,13 @@
      <param name="Частота использования">Многоразовая</param>
     </offer>
 
-    <offer id="133" available="true">
+    <offer id="1313" available="true">
      <url>https://montcarotte.com/ru/product/162</url>
      <name>Purple Kids toothbrush / Детская Зубная щетка MontCarotte  "Фиолетовая ""soft"</name> 
      <typePrefix>Зубная щетка для детей</typePrefix>
      <price>1010</price>
      <currencyId>RUR</currencyId>
-     <categoryId>13</categoryId>
+     <categoryId>131</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
      <picture>https://montcarotte.com/sites/default/files/435x470_br_cher_1.jpg</picture>
      <picture>https://montcarotte.com/sites/default/files/435x470_br_cher_1.jpg</picture>
@@ -653,13 +653,13 @@
      <param name="Частота использования">Многоразовая</param>
     </offer>
 
-    <offer id="134" available="true">
+    <offer id="1314" available="true">
      <url>https://montcarotte.com/ru/product/163</url>
      <name>Blue Kids toothbrush / Детская Зубная щетка MontCarotte  "Голубая " "soft"</name> 
      <typePrefix>Зубная щетка для детей</typePrefix>
      <price>1010</price>
      <currencyId>RUR</currencyId>
-     <categoryId>13</categoryId>
+     <categoryId>131</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
      <picture>https://montcarotte.com/sites/default/files/435x470_br_bl_1.jpg</picture>
      <picture>https://montcarotte.com/sites/default/files/435x470_br_bl_1.jpg</picture>
@@ -697,13 +697,13 @@
      <param name="Частота использования">Многоразовая</param>
     </offer>
 
-    <offer id="135" available="true">
+    <offer id="1315" available="true">
      <url>https://montcarotte.com/ru/product/164</url>
      <name>Green Kids Toothbrush  / Детская Зубная щетка MontCarotte «Зеленая” "soft"</name> 
      <typePrefix>Зубная щетка для детей</typePrefix>
      <price>1010</price>
      <currencyId>RUR</currencyId>
-     <categoryId>13</categoryId>
+     <categoryId>131</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
      <picture>https://montcarotte.com/sites/default/files/435x470_br_gr_1.jpg</picture>
      <picture>https://montcarotte.com/sites/default/files/435x470_br_gr_1.jpg</picture>
