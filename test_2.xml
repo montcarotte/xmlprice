@@ -16,6 +16,8 @@
     <category id="13" parentId="1">Детские товары</category>
      <category id="131" parentId="13">Кисти детские</category>
      <category id="132" parentId="13">Крема детские</category>
+    <category id="14" parentId="1">Аксессуары</category>
+    <category id="15" parentId="1">Наборы</category>
    <category id="2">RAPID MontCarotte Medical®</category>
     <category id="21" parentID="2">Зубные гели</category>
     <category id="22" parentID="2">Средство для обработки полости рта</category>
