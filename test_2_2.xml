@@ -55,19 +55,19 @@
      <param name="Модель">Kids Toothgel</param>
      <param name="Серия">Pure 0+</param>
      <barcode>8030009000413</barcode>
-     <param name="Вес упаковки(кг)">ВЕС УПАКОВКИ</param>
-     <param name="Высота упаковки(см)">ВЫСОТА УПАКОВКИ</param>
-     <param name="Ширина упаковки(см)">ШИРИНА УПАКОВКИ</param>
-     <param name="Длина упаковки(см)">ДЛИНА УПАКОВКИ</param>
-     <param name="Активные ингридиенты">АКТИВНЫЕ ИНГРИДИЕНТЫ</param>
+     <param name="Вес упаковки(кг)">0,5</param>
+     <param name="Высота упаковки(см)">11</param>
+     <param name="Ширина упаковки(см)">6,5</param>
+     <param name="Длина упаковки(см)">3,5</param>
+     <param name="Активные ингридиенты">Глицерофосфат кальция</param>
      <param name="Аромат">Нейтральный</param>
-     <param name="Вес в граммах">ВЕС В ГРАММАХ</param>
+     <param name="Вес в граммах">0,5</param>
      <param name="Гелевая">Да</param>
      <param name="Для чувствительных зубов">ДА/НЕТ</param>
      <param name="Дорожный формат">ДА/НЕТ</param>
      <param name="Класс косметики">Люкс, Детская</param>
      <param name="Область применения">Полость рта</param>
-     <param name="Объем в миллилитрах">ОБЪЕМ</param>
+     <param name="Объем в миллилитрах">30</param>
      <param name="Особенности">Органик, без искусственных красителей. Не требует смывания, безопасен при проглатывании, повышенная адгезивность, одобрен Ассоциацией Детских Стоматологов России.</param>
      <param name="Применение">ЕЖЕДНЕВНОЕ ИСПОЛЬЗОВАНИЕ/РЕКОМЕНДУЕТСЯ ПРИМЕНЯТЬ КУРСОМ</param>
      <param name="Регистрационное имя">PURE</param>
@@ -76,7 +76,7 @@
      <param name="Содержит фтор">ДА/НЕТ</param>
      <param name="Состав">Sorbitol, Aqua, Hydrated Silica, Glycerin, Xylitol (10%), Sodium Myristoyl Sarcosinate, Cellulose Gum, Pottasium Acesulfame, Sodium Benzoate, Citric Acid</param>
      <param name="Состав набора">Туба с гелем</param>
-     <param name="Степень абразивности">НИЗКАЯ/ВЫСОКАЯ</param>
+     <param name="Степень абразивности">Низкая</param>
      <param name="Страна производства">Италия</param>
      <param name="Тип">Детский зубной гель 0+</param>
      <param name="Фирма-производитель">Montcarotte</param>
