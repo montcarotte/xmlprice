@@ -61,7 +61,7 @@
      <param name="Гелевая">Да</param>
      <param name="Для чувствительных зубов">ДА/НЕТ</param>
      <param name="Дорожный формат">ДА/НЕТ</param>
-     <param name="Класс косметики">Люксовая, Детская</param>
+     <param name="Класс косметики">Люкс, Детская</param>
      <param name="Область применения">Полость рта</param>
      <param name="Объем в миллилитрах">ОБЪЕМ</param>
      <param name="Особенности">Органик, без искусственных красителей. Не требует смывания, безопасен при проглатывании, повышенная адгезивность, одобрен Ассоциацией Детских Стоматологов России.</param>
@@ -70,7 +70,6 @@
      <param name="C дозатором">Нет</param>
      <param name="Совместимость">Универсальная</param>
      <param name="Содержит фтор">ДА/НЕТ</param>
-     <param name="Класс косметики">Люксовая, Детская</param>
      <param name="Состав">Sorbitol, Aqua, Hydrated Silica, Glycerin, Xylitol (10%), Sodium Myristoyl Sarcosinate, Cellulose Gum, Pottasium Acesulfame, Sodium Benzoate, Citric Acid</param>
      <param name="Состав набора">Туба с гелем</param>
      <param name="Степень абразивности">НИЗКАЯ/ВЫСОКАЯ</param>
