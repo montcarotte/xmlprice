@@ -29,16 +29,16 @@
   </shipment-options>
   
   <offers>
-    <offer id="1321" available="true">
-     <url>https://montcarotte.com/ru/product/169</url>
-     <name>Pure Kids Tooth Gel  / Детская зубная паста MontCarotte "Детский зубной гель “Нейтральный”</name> 
-     <typePrefix>Зубная паста для детей</typePrefix>
-     <price>1520</price>
+    <offer id="141" available="true">
+     <url>https://montcarotte.com/ru/product/238</url>
+     <name>"Mint Green" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Зеленая Мята"</name> 
+     <typePrefix>Зубная нить</typePrefix>
+     <price>360</price>
      <currencyId>RUR</currencyId>
-     <categoryId>132</categoryId>
-     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
-     <picture>https://montcarotte.com/sites/default/files/435x470_tub_pur_2.jpg</picture>
-     <picture>https://montcarotte.com/sites/default/files/435x470_tub_pur_2.jpg</picture>
+     <categoryId>14</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная нить</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470-4501_0.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470-4501_0.jpg</picture>
      <vat>6</vat>
      <shipment-options>
       <option days="1-2" order-before="15"/>
@@ -47,14 +47,14 @@
       <outlet id="1" instock="150"/>
      </outlets>
      <vendor>MontCarotte®</vendor>
-     <vendorCode>МС1101</vendorCode>
-     <model>МС1101</model>
-     <description>Без вкуса, был разработан абсолютно нейтральным и гипоаллергенным, но 100% надежным как для чистки зубов, так и для их защиты.</description>
-     <param name="Дизайн">Smile Therapy</param>
+     <vendorCode>MC301</vendorCode>
+     <model>MC301</model>
+     <description>Дентальная шелковая лента "Mint Green" Silk Tooth Ribbon - нежная, скользящая, удобная для хранения. Моноструктура PTFE волокна и шелковое тиснение ленты гарантирует безопасное использование, так как она не расслаивается и не застревает между зубов. Лента легко очищает межзубное пространство, не травмируя десны, оставляя ощущение идеальной чистоты.</description>
+     <param name="Дизайн">Авторский</param>
      <param name="Бренд">Montcarotte®</param>
-     <param name="Модель">Kids Toothgel</param>
-     <param name="Серия">Pure 0+</param>
-     <barcode>8030009000413</barcode>
+     <param name="Модель">Silk Tooth Ribbon</param>
+     <param name="Серия">Mint Green</param>
+     <barcode>8022405280315</barcode>
      <param name="Вес упаковки(кг)">0,5</param>
      <param name="Высота упаковки(см)">11</param>
      <param name="Ширина упаковки(см)">6,5</param>
