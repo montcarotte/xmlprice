@@ -376,7 +376,50 @@
      <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
    </offer>
 
-
+    <offer id="1523" available="true">
+     <url>https://montcarotte.com/ru/product/287</url>
+     <name>Berry Kids Present Set / Набор детский подарочный "Ягодка Вишня"</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>2630</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/430x470_cherry_3.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/430x470_cherry_3.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC612</vendorCode>
+     <model>MC612</model>
+     <description>Великолепный подарок ребенку, сочетающий в себе детский зубной гель Ягодка Вишня, детскую зубную кисточку Фиолетовая и ассорти миниатюр линейки детских зубных гелей Montcarotte.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Ягодка Вишня"</param>
+     <barcode>4602240124612</barcode>
+     <param name="Вес упаковки(кг)">0,235</param>
+     <param name="Высота упаковки(см)">23</param>
+     <param name="Ширина упаковки(см)">12,5</param>
+     <param name="Длина упаковки(см)">5,5</param>
+     <param name="Вес в граммах">235</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Красочный набор «Ягодка Вишня» может стать полезным и вкусным подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</param>
+     <param name="Состав набора">Десткий гель 30 мл "Ягодка Вишня", десткая кисть Фиолетовая, 5 миниатюр детских гелей.</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+	  
   </offers>
  </shop> 
 </yml_catalog>
