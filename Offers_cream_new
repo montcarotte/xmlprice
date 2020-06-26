@@ -1,0 +1,40 @@
+   <offer id="129" available="true">
+     <url>https://montcarotte.com/ru/product/27</url>
+     <name>Tenderly Whitening Tooth Cream 30 ml  / Зубная паста "Нежно отбеливающий крем для зубов"</name> 
+     <price>1980</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/tw-cream-blue-web-1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC10120</vendorCode>
+     <model>MC10120</model>
+     <description><![CDATA[
+        <h3>Нежноотбеливающий <br/> крем для зубов</h3>
+        <p>Отличительные черты:</p>
+        <ul>
+            <li>Не изменяет структуру эмали</li>
+            <li>Не вызывает чувствительности зубов</li>
+        </ul>
+        ]]></description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания, Италия</param>
+     <param name="Назначение">Отбеливание эмали</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Особенности">Не изменяет структуру эмали, не вызывает чувствительности зубов. </param>
+     <param name="Возрастная категория">12+</param>
+     <param name="Состав">Aqua, Sorbitol, Hydrated Silica, Dicalcium Phosphate, Propylene Glycol, Disodium Pyrophosphate, Cellulose Gum, Sodium Lauroyl Sarcosinate, Aroma, Disodium Phosphate, Sodium Fluoride 1450 ppm, Sodium Saccharin, Sodium Benzoate, Phenoxyethanol, C.I. 77891, Citric Acid, Limonene, RDA 50.</param>
+     <param name="Вес упаковки">100</param>
+     <param name="Высота упаковки">14</param>
+     <param name="Ширина упаковки">3,5+</param>
+     <param name="Длина упаковки">3,5</param>
+     <param name="Вес в граммах">100</param>
+     <barcode>8030009000826</barcode>
+   </offer>
