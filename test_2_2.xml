@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-06-26 17:46">
+<yml_catalog date="2020-06-26 22:43">
  <shop>
   <name>MontCarotte</name>
   <company>"МОНТКАРОТТЕ ДИСТРИБЬЮШЕН", ООО</company>
@@ -1036,7 +1036,227 @@
      <param name="Фирма-производитель">Montcarotte</param>
      <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
      <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
-   </offer>  
+   </offer>
+	  
+   <offer id="1526" available="true">
+     <url>https://montcarotte.com/ru/product/293</url>
+     <name>Kids Dental Set Assorti Green / Набор детский подарочный "Зеленый" Ассорти</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>1150</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/04940-430x470.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/04940-430x470.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC801</vendorCode>
+     <model>MC801</model>
+     <description>Красочный набор может стать полезным и красивым подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Зеленый"</param>
+     <barcode>4602240540719</barcode>
+     <param name="Вес упаковки(кг)">0,1</param>
+     <param name="Высота упаковки(см)">17</param>
+     <param name="Ширина упаковки(см)">13</param>
+     <param name="Длина упаковки(см)">2</param>
+     <param name="Вес в граммах">100</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Материал щетинок - полиамид; Прекрасная возможность оценить всю линейку вкусов детских гелей MontCarotte.</param>
+     <param name="Состав набора">Детская кисть Зеленая; ассорти 5 миниатюр детского геля по 5 мл</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+   <offer id="1527" available="true">
+     <url>https://montcarotte.com/ru/product/292</url>
+     <name>Kids Dental Set Assorti Yellow / Набор детский подарочный "Желтый" Ассорти</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>1150</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/04941-430x470.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/04941-430x470.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC802</vendorCode>
+     <model>MC802</model>
+     <description>Красочный набор может стать полезным и красивым подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Желтый"</param>
+     <barcode>4602240540726</barcode>
+     <param name="Вес упаковки(кг)">0,1</param>
+     <param name="Высота упаковки(см)">17</param>
+     <param name="Ширина упаковки(см)">13</param>
+     <param name="Длина упаковки(см)">2</param>
+     <param name="Вес в граммах">100</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Материал щетинок - полиамид; Прекрасная возможность оценить всю линейку вкусов детских гелей MontCarotte.</param>
+     <param name="Состав набора">Детская кисть Желтая; ассорти 5 миниатюр детского геля по 5 мл</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+   <offer id="1528" available="true">
+     <url>https://montcarotte.com/ru/product/289</url>
+     <name>Kids Dental Set Assorti Blue / Набор детский подарочный "Голубой" Ассорти</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>1150</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/04945-430x470.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/04945-430x470.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC803</vendorCode>
+     <model>MC803</model>
+     <description>Красочный набор может стать полезным и красивым подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Голубой"</param>
+     <barcode>4602240540733</barcode>
+     <param name="Вес упаковки(кг)">0,1</param>
+     <param name="Высота упаковки(см)">17</param>
+     <param name="Ширина упаковки(см)">13</param>
+     <param name="Длина упаковки(см)">2</param>
+     <param name="Вес в граммах">100</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Материал щетинок - полиамид; Прекрасная возможность оценить всю линейку вкусов детских гелей MontCarotte.</param>
+     <param name="Состав набора">Детская кисть (Детская зубная щетка) Голубая; ассорти 5 миниатюр детского геля (Детская зубная паста) по 5 мл</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+   <offer id="1529" available="true">
+     <url>https://montcarotte.com/ru/product/290</url>
+     <name>Kids Dental Set Assorti Rose / Набор детский подарочный "Розовый" Ассорти</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>1150</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/04942-430x470.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/04942-430x470.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC804</vendorCode>
+     <model>MC804</model>
+     <description>Красочный набор может стать полезным и красивым подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Розовый"</param>
+     <barcode>4602240540740</barcode>
+     <param name="Вес упаковки(кг)">0,1</param>
+     <param name="Высота упаковки(см)">17</param>
+     <param name="Ширина упаковки(см)">13</param>
+     <param name="Длина упаковки(см)">2</param>
+     <param name="Вес в граммах">100</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Материал щетинок - полиамид; Прекрасная возможность оценить всю линейку вкусов детских гелей MontCarotte.</param>
+     <param name="Состав набора">Детская кисть (Детская зубная щетка) Розовая; ассорти 5 миниатюр детского геля (Детская зубная паста) по 5 мл</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+   <offer id="1520" available="true">
+     <url>https://montcarotte.com/ru/product/291</url>
+     <name>Kids Dental Set Assorti Purple / Набор детский подарочный "Фиолетовый" Ассорти</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>1150</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/04946-430x470.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/04946-430x470.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC805</vendorCode>
+     <model>MC805</model>
+     <description>Красочный набор может стать полезным и красивым подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Фиолетовый"</param>
+     <barcode>4602240540757</barcode>
+     <param name="Вес упаковки(кг)">0,1</param>
+     <param name="Высота упаковки(см)">17</param>
+     <param name="Ширина упаковки(см)">13</param>
+     <param name="Длина упаковки(см)">2</param>
+     <param name="Вес в граммах">100</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Материал щетинок - полиамид; Прекрасная возможность оценить всю линейку вкусов детских гелей MontCarotte.</param>
+     <param name="Состав набора">Детская кисть (Детская зубная щетка) Фиолетовая; ассорти 5 миниатюр детского геля (Детская зубная паста) по 5 мл</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
 	  
   </offers>
  </shop> 
