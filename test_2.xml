@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-07-02 11:45">
+<yml_catalog date="2020-07-02 14:55">
  <shop>
   <name>MontCarotte</name>
   <company>"МОНТКАРОТТЕ ДИСТРИБЬЮШЕН", ООО</company>
@@ -541,7 +541,7 @@
      <price>1980</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
-     <picture>https://montcarotte.com/sites/all/themes/basic/images/sb_collection.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/tw-cream-blue-web-1.jpg</picture>
      <vat>6</vat>
      <shipment-options>
       <option days="1-2" order-before="15"/>
@@ -552,7 +552,7 @@
      <vendor>MontCarotte®</vendor>
      <vendorCode>MC10220</vendorCode>
      <model>MC10220</model>
-     <description>Гелеобразный зубной крем. В составе геля целлюлозные (из бумаги) гранулы, обеспечивающие глубокую механическую чистку без повреждения эмали. Хорошо очищает, выравнивает цвет зубов и устраняет зубной налет. Достаточно применять 1-2 раза в неделю в качестве основного средства для чистки узбов или дополнительного ухода к любой зубной пасте. Рекомендуется также людям, носящим композитные виниры и реставрации.</description>
+     <description>Гелеобразный зубной крем. В составе геля целлюлозные гранулы, обеспечивающие глубокую механическую чистку без повреждения эмали. Хорошо очищает, выравнивает цвет зубов и устраняет зубной налет. Достаточно применять 1-2 раза в неделю в качестве основного средства для чистки узбов или дополнительного ухода к любой зубной пасте. Рекомендуется также людям, носящим композитные виниры и реставрации.</description>
      <param name="Коллекция">Зубные крема</param>
      <param name="Бренд">MontCarotte®</param>
      <param name="Страна">Великобритания, Италия</param>
@@ -577,7 +577,7 @@
      <price>1980</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
-     <picture>https://montcarotte.com/sites/all/themes/basic/images/st_collection.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/st-cream-pink-web-1.jpg</picture>
      <vat>6</vat>
      <shipment-options>
       <option days="1-2" order-before="15"/>
