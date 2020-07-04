@@ -1,0 +1,2360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2020-07-02 14:55">
+ <shop>
+  <name>MontCarotte</name>
+  <company>"МОНТКАРОТТЕ ДИСТРИБЬЮШЕН", ООО</company>
+  <url>​http://MontCarotte.com/​</url> 
+  <currencies>
+   <currency id="RUR" rate="1"/>
+  </currencies>
+  <categories>
+   <category id="1">MontCarotte®</category>
+    <category id="11" parentId="1">Кисти</category>
+     <category id="111" parentId="11">Абстракционизм</category>
+     <category id="112" parentId="11">Импрессионизм</category>
+    <category id="12" parentId="1">Крема</category>
+    <category id="13" parentId="1">Детские товары</category>
+     <category id="131" parentId="13">Кисти детские</category>
+     <category id="132" parentId="13">Крема детские</category>
+    <category id="14" parentId="1">Аксессуары</category>
+    <category id="15" parentId="1">Наборы</category>
+   <category id="2">RAPID MontCarotte Medical®</category>
+    <category id="21" parentID="2">Зубные гели</category>
+    <category id="22" parentID="2">Средство для обработки полости рта</category>
+    <category id="23" parentID="2">Кисти</category>
+    <category id="24" parentID="2">Наборы</category>
+	<category id="25" parentID="2">Спреи</category>
+  </categories> 
+  <shipment-options>
+   <option days="1" order-before="15"/>
+  </shipment-options>
+  
+  <offers>
+    <offer id="1111" available="true">
+     <url>https://montcarotte.com/ru/product/267</url>
+     <name>Зубная щетка &quot;Малевич&quot; &quot;soft&quot;</name> 
+     <price>1165</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>111</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/malevich.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС401</vendorCode>
+     <model>МС401</model>
+     <description>Зубная кисть &quot;Малевич&quot; из коллекции &quot;Абстракционизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (К. Малевич)</param>
+     <param name="Коллекция">Абстракционисты</param>
+     <param name="Материал">Антибактериальный, устойчивый к деформации полиамид</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Белый</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405111101</barcode>
+   </offer>
+
+    <offer id="1112" available="true">
+     <url>https://montcarotte.com/ru/product/266</url>
+     <name>Itten toothbrush Abstraction Brush Collection / Зубная щетка "Иттен"</name> 
+     <price>1165</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>111</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/itten.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС402</vendorCode>
+     <model>МС402</model>
+     <description>Зубная кисть &quot;Иттен&quot; из коллекции &quot;Абстракционизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (И. Иттен)</param>
+     <param name="Коллекция">Абстракционисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Белый</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405221121</barcode>
+   </offer>
+   
+   <offer id="1113" available="true">
+     <url>https://montcarotte.com/ru/product/265</url>
+     <name>Mondrian toothbrush Abstraction Brush Collection / Зубная щетка "Мондриан"</name> 
+     <price>1165</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>111</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/mondrian.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС403</vendorCode>
+     <model>МС403</model>
+     <description>Зубная кисть &quot;Мондриан&quot; из коллекции &quot;Абстракционизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (П. Мондриан)</param>
+     <param name="Коллекция">Абстракционисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Белый</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405214338</barcode>
+   </offer>
+   
+   <offer id="1114" available="true">
+     <url>https://montcarotte.com/ru/product/263</url>
+     <name>Kandinsky toothbrush Abstraction Brush Collection / Зубная щетка "Кандинский"</name> 
+     <price>1165</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>111</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/kandinsky_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС404</vendorCode>
+     <model>МС404</model>
+     <description>Зубная кисть &quot;Кандинский&quot; из коллекции &quot;Абстракционизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (В. Кандинский)</param>
+     <param name="Коллекция">Абстракционисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Белый</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405205343</barcode>
+   </offer>
+   
+   <offer id="1115" available="true">
+     <url>https://montcarotte.com/ru/product/264</url>
+     <name>Picasso toothbrush Abstraction Brush Collection / Зубная щетка "Пикассо"</name> 
+     <price>1165</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>111</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/picasso.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС405</vendorCode>
+     <model>МС405</model>
+     <description>Зубная кисть &quot;Пикассо&quot; из коллекции &quot;Абстракционизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (П. Пикассо)</param>
+     <param name="Коллекция">Абстракционисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Белый</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405205350</barcode>
+    </offer>
+
+    <offer id="1121" available="true">
+     <url>https://montcarotte.com/ru/product/25</url>
+     <name>Eduard Manet Toothbrush Impression Brush Collection / Зубная щетка "Мане"</name> 
+     <price>1075</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>112</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/blue_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС201</vendorCode>
+     <model>МС201</model>
+     <description>Зубная кисть &quot;Мане&quot; из коллекции &quot;Импрессионизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (Э. Мане)</param>
+     <param name="Коллекция">Импрессионисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Синий оттенок, прозрачный</param>
+     <param name="Толщина волокна">0,15 мм</param>
+     <param name="Количество щетинок">1200 шт.</param>
+     <param name="Размеры">10 мм ширина, 15 мм длина, что в среднем соответствует размерам двух зубов</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405279863</barcode>
+   </offer>
+   
+   <offer id="1122" available="true">
+     <url>https://montcarotte.com/ru/product/24</url>
+     <name>Van Gogh toothbrush Impression Brush Collection / Зубная щетка "Ван Гог"</name> 
+     <price>1075</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>112</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/yellow_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС202</vendorCode>
+     <model>МС202</model>
+     <description>Зубная кисть &quot;Ван Гог&quot; из коллекции &quot;Импрессионизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (В. Ван Гог)</param>
+     <param name="Коллекция">Импрессионисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Желтый оттенок, прозрачный</param>
+     <param name="Толщина волокна">0,15 мм</param>
+     <param name="Количество щетинок">1200 шт.</param>
+     <param name="Размеры">10 мм ширина, 15 мм длина, что в среднем соответствует размерам двух зубов</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405279870</barcode>
+   </offer>
+   
+   <offer id="1123" available="true">
+     <url>https://montcarotte.com/ru/product/20</url>
+     <name>Paul Gauguin Toothbrush Impression Brush Collection / Зубная щетка "Гоген"</name> 
+     <price>1075</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>112</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/brush_pink_1_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС203</vendorCode>
+     <model>МС203</model>
+     <description>Зубная кисть &quot;Гоген&quot; из коллекции &quot;Импрессионизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (П. Гоген)</param>
+     <param name="Коллекция">Импрессионисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Розовый оттенок, прозрачный</param>
+     <param name="Толщина волокна">0,15 мм</param>
+     <param name="Количество щетинок">1200 шт.</param>
+     <param name="Размеры">10 мм ширина, 15 мм длина, что в среднем соответствует размерам двух зубов</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405279887</barcode>
+   </offer>
+
+   <offer id="1124" available="true">
+     <url>https://montcarotte.com/ru/product/17</url>
+     <name>Edgar Degas Toothbrush Impression Brush Collection / Зубная щетка "Дега"</name> 
+     <price>1075</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>112</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/degas_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС204</vendorCode>
+     <model>МС204</model>
+     <description>Зубная кисть &quot;Дега&quot; из коллекции &quot;Импрессионизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (Э. Дега)</param>
+     <param name="Коллекция">Импрессионисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Сиреневый оттенок, прозрачный</param>
+     <param name="Толщина волокна">0,15 мм</param>
+     <param name="Количество щетинок">1200 шт.</param>
+     <param name="Размеры">10 мм ширина, 15 мм длина, что в среднем соответствует размерам двух зубов</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405279894</barcode>
+   </offer>
+
+   <offer id="1125" available="true">
+     <url>https://montcarotte.com/ru/product/23</url>
+     <name>Pierre-Auguste Renoir Toothbrush Impression Brush Collection / Зубная щетка "Ренуар"</name> 
+     <price>1075</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>112</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/green_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС205</vendorCode>
+     <model>МС205</model>
+     <description>Зубная кисть &quot;Ренуа&quot; из коллекции &quot;Импрессионизм&quot; 12+</description>
+     <param name="Дизайн">Авторский (П.-О. Ренуа)</param>
+     <param name="Коллекция">Импрессионисты</param>
+     <param name="Материал">Антибактериальная, устойчивая к деформации полиамидная нить</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Зелёный оттенок, прозрачный</param>
+     <param name="Толщина волокна">0,15 мм</param>
+     <param name="Количество щетинок">1200 шт.</param>
+     <param name="Размеры">10 мм ширина, 15 мм длина, что в среднем соответствует размерам двух зубов</param>
+     <param name="Особенности">Смещенный центр тяжести, ручка в форме кисти, закругленные щетинки</param>
+     <barcode>4022405279900</barcode>
+   </offer>
+   
+   <offer id="121" available="true">
+     <url>https://montcarotte.com/ru/collection/1</url>
+     <name>Зубная паста "Нежно отбеливающий крем для зубов"</name> 
+     <price>1725</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/ru/collection/1</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="0"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1011</vendorCode>
+     <model>МС1011</model>
+     <description>ОПИСАНИЕ</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Состав">СОСТАВ</param>
+     <barcode>8030009000819</barcode>
+   </offer>
+   
+   <offer id="122" available="false">
+     <url>https://montcarotte.com/ru/product/18</url>
+     <name>Smoothing and Brightening Tooth Peeling / Зубная паста "Гель пилинг для зубов для выравнивания цвета и придания блеска"</name> 
+     <price>1725</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/sbtp_1_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="0"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1021</vendorCode>
+     <model>МС1021</model>
+     <description>Гелеобразный зубной крем</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Состав">СОСТАВ</param>
+     <barcode>8030009000918</barcode>
+   </offer>
+   
+   <offer id="123" available="true">
+     <url>https://montcarotte.com/ru/product/26</url>
+     <name>Soothing Tooth Mask Sensitivity Relief  / Зубная паста «Успокаивающая маска для снятия чувствительности и дискомфорта десен и зубов"</name> 
+     <price>1725</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/stmsr_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1031</vendorCode>
+     <model>МС1031</model>
+     <description>Восстанавливающий эмаль крем-маска для зубов с высоким содержанием гидроксиапатита (10%)</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Состав">СОСТАВ</param>
+     <barcode>8030009000710</barcode>
+   </offer>
+   
+   <offer id="124" available="true">
+     <url>https://montcarotte.com/ru/product/28</url>
+     <name>Homeopathic Tooth Cream / Зубная паста "Гомеопатический крем для зубов"</name> 
+     <price>1725</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/htc_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1041</vendorCode>
+     <model>МС1041</model>
+     <description>Поддерживает и сохраняет эффект гомеопатической терапии</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Состав">СОСТАВ</param>
+     <barcode>8030009001113</barcode>
+   </offer>
+
+   <offer id="125" available="true">
+     <url>https://montcarotte.com/ru/product/19</url>
+     <name>Organic Tooth Cream / Зубная паста "Органический крем для зубов"</name> 
+     <price>1725</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/otc_1_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1051</vendorCode>
+     <model>МС1051</model>
+     <description>Оказывает антисептическое, иммуномодулирующее действие</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Состав">СОСТАВ</param>
+     <barcode>8030009001014</barcode>
+   </offer>
+
+   <offer id="127" available="true">
+     <url>https://montcarotte.com/ru/product/39</url>
+     <name>Diamond Brightening Tooth Cream Vanila Orhid / Зубная паста "Бриллиантовое Сияние крем для зубов с экстрактом стручков ванильной орхидеи"</name> 
+     <price>5700</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/banka_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1071</vendorCode>
+     <model>МС1071</model>
+     <description>Катализирует обменные процессы в цитоплазме клеток организма, запуская программу быстрого восстановления слизистой оболочки полости рта</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Состав">СОСТАВ</param>
+     <barcode>8030009000611</barcode>
+   </offer>
+   
+   <offer id="128" available="true">
+     <url>https://montcarotte.com/ru/product/171</url>
+     <name>Platinum Brightening Tooth Gel  / Зубная паста " Платиновое сияние гель для зубов для мужчин"</name> 
+     <price>5900</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/tube_black_435x470.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1081</vendorCode>
+     <model>МС1081</model>
+     <description>Осветляет эмаль до естественной белизны. Растворяет окрашенный зубной налет безопасным способом</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Состав">СОСТАВ</param>
+     <barcode>8022405279500</barcode>
+   </offer>
+   
+   <offer id="129" available="true">
+     <url>https://montcarotte.com/ru/product/27</url>
+     <name>Tenderly Whitening Tooth Cream 30 ml  / Зубная паста "Нежно отбеливающий крем для зубов"</name> 
+     <price>1980</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/tw-cream-blue-web-1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC10120</vendorCode>
+     <model>MC10120</model>
+     <description>Бережно осветляет эмаль за счет накопления белого пигмента – диоксида титана (CI 7100) на поверхности зуба. Не изменяет структуру эмали, не вызывает чувствительности зубов.</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания, Италия</param>
+     <param name="Назначение">Отбеливание эмали</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Применение">Подходит для ежедневного применения, особенно рекомендуется после процедуры клинической гигиены.</param>
+     <param name="Особенности">Не изменяет структуру эмали, не вызывает чувствительности зубов. Не содержит грубых абразивов, пероксидов, агрессивных кислот, парабенов, силиконов, SLS, компонентов раздражающих слизистую полости рта. </param>
+     <param name="Конструкция">Флаконы с актуатором и подвижной диафрагмой помогают контролировать расход средств с точностью до милилитра. Благодаря разнице давления, которая создается при нажатии на актуатор, содержимое поднимается вверх, направляясь к дозирующему устройству.отделяя содержимое от опустошенной емкости. В результате средство расходуется до последней капли. Герметичность флакона позволяет увеличить срок годности зубных кремов и сократить количесвто консервантов и стабилизаторов в составах.</param>
+     <param name="Возрастная категория">12+</param>
+     <param name="Состав">Aqua, Sorbitol, Hydrated Silica, Dicalcium Phosphate, Propylene Glycol, Disodium Pyrophosphate, Cellulose Gum, Sodium Lauroyl Sarcosinate, Aroma, Disodium Phosphate, Sodium Fluoride 1450 ppm, Sodium Saccharin, Sodium Benzoate, Phenoxyethanol, C.I. 77891, Citric Acid, Limonene, RDA 50.</param>
+     <param name="Вес упаковки">100</param>
+     <param name="Высота упаковки">14</param>
+     <param name="Ширина упаковки">3,5</param>
+     <param name="Длина упаковки">3,5</param>
+     <param name="Вес в граммах">100</param>
+     <barcode>8030009000826</barcode>
+   </offer>
+   
+   <offer id="1210" available="true">
+     <url>https://montcarotte.com/ru/product/18</url>
+     <name>Smoothing and Brightening Tooth Peeling 30ml / Зубная паста "Гель пилинг для зубов для выравнивания цвета и придания блеска"</name> 
+     <price>1980</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/sb-cream-purple-web-1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC10220</vendorCode>
+     <model>MC10220</model>
+     <description>Гелеобразный зубной крем. В составе геля целлюлозные гранулы, обеспечивающие глубокую механическую чистку без повреждения эмали. Хорошо очищает, выравнивает цвет зубов и устраняет зубной налет. Достаточно применять 1-2 раза в неделю в качестве основного средства для чистки узбов или дополнительного ухода к любой зубной пасте. Рекомендуется также людям, носящим композитные виниры и реставрации.</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания, Италия</param>
+     <param name="Назначение">Отбеливание эмали</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Применение">1-2 раза в неделю</param>
+     <param name="Особенности">Не изменяет структуру эмали, не вызывает чувствительности зубов. Не содержит грубых абразивов, пероксидов, агрессивных кислот, парабенов, силиконов, SLS, компонентов раздражающих слизистую полости рта.</param>
+     <param name="Конструкция">Флаконы с актуатором и подвижной диафрагмой помогают контролировать расход средств с точностью до милилитра. Благодаря разнице давления, которая создается при нажатии на актуатор, содержимое поднимается вверх, направляясь к дозирующему устройству.отделяя содержимое от опустошенной емкости. В результате средство расходуется до последней капли. Герметичность флакона позволяет увеличить срок годности зубных кремов и сократить количесвто консервантов и стабилизаторов в составах.</param>
+     <param name="Возрастная категория">12+</param>
+     <param name="Состав">Aqua, Sorbitol, Hydrated Silica, Dicalcium Phosphate, Propylene Glycol, Disodium Pyrophosphate, Cellulose Gum, Sodium Lauroyl Sarcosinate, Aroma, Disodium Phosphate, Sodium Fluoride 1450 ppm, Sodium Saccharin, Sodium Benzoate, Phenoxyethanol, C.I. 77891, Citric Acid, Limonene, RDA 50.</param>
+     <param name="Вес упаковки">100</param>
+     <param name="Высота упаковки">14</param>
+     <param name="Ширина упаковки">3,5</param>
+     <param name="Длина упаковки">3,5</param>
+     <param name="Вес в граммах">100</param>
+     <barcode>8030009000925</barcode>
+   </offer>
+   
+   <offer id="1211" available="true">
+     <url>https://montcarotte.com/ru/product/26</url>
+     <name>Soothing Tooth Mask Sensitivity Relief 30ml / Зубная паста «Успокаивающая маска для снятия чувствительности и дискомфорта десен и зубов"</name> 
+     <price>1980</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/st-cream-pink-web-1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC10320</vendorCode>
+     <model>MC10320</model>
+     <description>Восстанавливающий эмаль крем-маска для зубов с высоким содержанием гидроксиапатита (10%). Входящие в состав частицы гидроксиапатита буквально встраиваются в структуру эмали и механически восстанавливают ее. «Маска» - это уход для ежедневного применения, особенно при гиперчувствительности эмали. Рекомендуется использовать как восстанавливающее средство после гигиенической чистки и отбеливания зубов в качестве регулярной зубной пасты утром и вечером.</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания, Италия</param>
+     <param name="Назначение">Отбеливание эмали</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Применение">Подходит для ежедневного применения, особенно рекомендуется после процедуры клинической гигиены.</param>
+     <param name="Особенности">Не изменяет структуру эмали, не вызывает чувствительности зубов. Не содержит грубых абразивов, пероксидов, агрессивных кислот, парабенов, силиконов, SLS, компонентов раздражающих слизистую полости рта.</param>
+     <param name="Конструкция">Флаконы с актуатором и подвижной диафрагмой помогают контролировать расход средств с точностью до милилитра. Благодаря разнице давления, которая создается при нажатии на актуатор, содержимое поднимается вверх, направляясь к дозирующему устройству.отделяя содержимое от опустошенной емкости. В результате средство расходуется до последней капли. Герметичность флакона позволяет увеличить срок годности зубных кремов и сократить количесвто консервантов и стабилизаторов в составах.</param>
+     <param name="Возрастная категория">12+</param>
+     <param name="Состав">Aqua, Sorbitol, Hydrated Silica, Dicalcium Phosphate, Propylene Glycol, Disodium Pyrophosphate, Cellulose Gum, Sodium Lauroyl Sarcosinate, Aroma, Disodium Phosphate, Sodium Fluoride 1450 ppm, Sodium Saccharin, Sodium Benzoate, Phenoxyethanol, C.I. 77891, Citric Acid, Limonene, RDA 50.</param>
+     <param name="Вес упаковки">100</param>
+     <param name="Высота упаковки">14</param>
+     <param name="Ширина упаковки">3,5</param>
+     <param name="Длина упаковки">3,5</param>
+     <param name="Вес в граммах">100</param>
+     <barcode>8030009000727</barcode>
+   </offer>
+   
+   <offer id="1212" available="true">
+     <url>https://montcarotte.com/ru/product/21</url>
+     <name>Anti Age Whitening Program Set  / Набор зубных паст "Омолаживающая отбеливающая программа для зубов"</name> 
+     <price>4970</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>12</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/aa-program-web-1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС10620</vendorCode>
+     <model>МС10620</model>
+     <description>Комплекс для осветления и бережного ухода за эмалью зубов и полостью рта.</description>
+     <param name="Коллекция">Зубные крема</param>
+     <param name="Бренд">MontCarotte®</param>
+     <param name="Страна">Великобритания, Италия</param>
+     <param name="Назначение">Отбеливание эмали</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Применение">Очищение эмали, Восстановление эмали, Осветление эмали</param>
+     <param name="Особенности">Самое безопасное отбеливание.
+     НЕ СОДЕРЖИТ: грубых абразивов, пероксидов, агрессивных кислот, парабенов, силиконов, SLS, компонентов раздражающих слизистую полости рта.
+     Осветляет зубы на 1-2 тона до естественной белизны поэтапно, с помощью 3 продуктов: «Гель-пилинг» - очищение эмали, «Успокаивающая маска»  -  восстановление эмали, «Нежно-отбеливающий крем» - осветление эмали.</param>
+     <param name="Конструкция">Флаконы с актуатором и подвижной диафрагмой помогают контролировать расход средств с точностью до милилитра. Благодаря разнице давления, которая создается при нажатии на актуатор, содержимое поднимается вверх, направляясь к дозирующему устройству.отделяя содержимое от опустошенной емкости. В результате средство расходуется до последней капли. Герметичность флакона позволяет увеличить срок годности зубных кремов и сократить количесвто консервантов и стабилизаторов в составах.</param>
+     <param name="Возрастная категория">12+</param>
+     <param name="Состав">Aqua, Hydrated Silica, Sorbitol, Glycerin, Dicalcium Phosphate, Cellulose Gum,  Sodium Lauroyl Sarcosinate, Cellulose Acetate, Sodium Fluoride,  Sodium Benzoate, Sodium Saccharin, Aroma, Citric Acid, Hydroxyapatite, Disodium Pyrophosphate, Disodium Phosphate, Propylene Glycol, Phenoxyethanol, Titanium Dioxide (C.I. 77891), C.I. 77491,  C.I. 17200, Fluor - 0,15%.</param>
+     <param name="Вес упаковки">0,3</param>
+     <param name="Высота упаковки">14</param>
+     <param name="Ширина упаковки">12,5</param>
+     <param name="Длина упаковки">3,5</param>
+     <param name="Вес в граммах">300</param>
+     <barcode>8030009000703</barcode>
+   </offer>
+   
+   <offer id="1311" available="true">
+     <url>https://montcarotte.com/ru/product/160</url>
+     <name>Yellow Kids toothbrush / Детская Зубная щетка MontCarotte  "Желтая " "soft"</name> 
+     <typePrefix>Зубная щетка для детей</typePrefix>
+     <price>1010</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>131</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470_br_yel_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС210</vendorCode>
+     <model>МС210</model>
+     <description>Коллекция красочных детских зубных кистей разработана с учетом всех особенностей строения детских зубов и техники чистки детей. Высокотехнологичное волокно щетины, увеличенный срок службы, одобрено Ассоциацией детских стоматологов России.</description>
+     <param name="Дизайн">ДИЗАЙН</param>
+     <param name="Бренд">БРЭНД</param>
+     <param name="Модель">МОДЕЛЬ</param>
+     <param name="Серия">СЕРИЯ</param>
+     <barcode>4022405222210</barcode>
+     <param name="Вес упаковки(кг)">ВЕС УПАКОВКИ</param>
+     <param name="Высота упаковки(см)">ВЫСОТА УПАКОВКИ</param>
+     <param name="Ширина упаковки(см)">ШИРИНА УПАКОВКИ</param>
+     <param name="Длина упаковки(см)">ДЛИНА УПАКОВКИ</param>
+     <param name="Вес в граммах">ВЕС В ГРАММАХ</param>
+     <param name="Дорожный формат">ДА</param>
+     <param name="Жесткость щетины">Мягкая</param>
+     <param name="Материал ручки">Гипоалергенный пластик</param>
+     <param name="Материал щетины">Полиамидная нить</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Регистрационное имя">Kids Toothbrush</param>
+     <param name="Состав набора">Зубная щетка</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">Детская зубная щетка 0+</param>
+     <param name="Цвет">Белый; Желтый</param>
+     <param name="Частота использования">Многоразовая</param>
+   </offer>
+   
+   <offer id="1312" available="true">
+     <url>https://montcarotte.com/ru/product/161</url>
+     <name>Rose Kids toothbrush / Детская Зубная щетка MontCarotte  "Розовая " "soft"</name> 
+     <typePrefix>Зубная щетка для детей</typePrefix>
+     <price>1010</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>131</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470_br_rose_0.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470_br_rose_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС211</vendorCode>
+     <model>МС211</model>
+     <description>Коллекция красочных детских зубных кистей разработана с учетом всех особенностей строения детских зубов и техники чистки детей. Высокотехнологичное волокно щетины, увеличенный срок службы, одобрено Ассоциацией детских стоматологов России.</description>
+     <param name="Дизайн">ДИЗАЙН</param>
+     <param name="Бренд">БРЭНД</param>
+     <param name="Модель">МОДЕЛЬ</param>
+     <param name="Серия">СЕРИЯ</param>
+     <barcode>4022405324211</barcode>
+     <param name="Вес упаковки(кг)">ВЕС УПАКОВКИ</param>
+     <param name="Высота упаковки(см)">ВЫСОТА УПАКОВКИ</param>
+     <param name="Ширина упаковки(см)">ШИРИНА УПАКОВКИ</param>
+     <param name="Длина упаковки(см)">ДЛИНА УПАКОВКИ</param>
+     <param name="Вес в граммах">ВЕС В ГРАММАХ</param>
+     <param name="Дорожный формат">ДА</param>
+     <param name="Жесткость щетины">Мягкая</param>
+     <param name="Материал ручки">Гипоалергенный пластик</param>
+     <param name="Материал щетины">Полиамидная нить</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Регистрационное имя">Kids Toothbrush</param>
+     <param name="Состав набора">Зубная щетка</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">Детская зубная щетка 0+</param>
+     <param name="Цвет">Белый; Розовый</param>
+     <param name="Частота использования">Многоразовая</param>
+    </offer>
+
+    <offer id="1313" available="true">
+     <url>https://montcarotte.com/ru/product/162</url>
+     <name>Purple Kids toothbrush / Детская Зубная щетка MontCarotte  "Фиолетовая ""soft"</name> 
+     <typePrefix>Зубная щетка для детей</typePrefix>
+     <price>1010</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>131</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470_br_cher_1.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470_br_cher_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС212</vendorCode>
+     <model>МС212</model>
+     <description>Коллекция красочных детских зубных кистей разработана с учетом всех особенностей строения детских зубов и техники чистки детей. Высокотехнологичное волокно щетины, увеличенный срок службы, одобрено Ассоциацией детских стоматологов России.</description>
+     <param name="Дизайн">ДИЗАЙН</param>
+     <param name="Бренд">БРЭНД</param>
+     <param name="Модель">МОДЕЛЬ</param>
+     <param name="Серия">СЕРИЯ</param>
+     <barcode>4022405723212</barcode>
+     <param name="Вес упаковки(кг)">ВЕС УПАКОВКИ</param>
+     <param name="Высота упаковки(см)">ВЫСОТА УПАКОВКИ</param>
+     <param name="Ширина упаковки(см)">ШИРИНА УПАКОВКИ</param>
+     <param name="Длина упаковки(см)">ДЛИНА УПАКОВКИ</param>
+     <param name="Вес в граммах">ВЕС В ГРАММАХ</param>
+     <param name="Дорожный формат">ДА</param>
+     <param name="Жесткость щетины">Мягкая</param>
+     <param name="Материал ручки">Гипоалергенный пластик</param>
+     <param name="Материал щетины">Полиамидная нить</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Регистрационное имя">Kids Toothbrush</param>
+     <param name="Состав набора">Зубная щетка</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">Детская зубная щетка 0+</param>
+     <param name="Цвет">Белый; Голубой</param>
+     <param name="Частота использования">Многоразовая</param>
+    </offer>
+
+    <offer id="1314" available="true">
+     <url>https://montcarotte.com/ru/product/163</url>
+     <name>Blue Kids toothbrush / Детская Зубная щетка MontCarotte  "Голубая " "soft"</name> 
+     <typePrefix>Зубная щетка для детей</typePrefix>
+     <price>1010</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>131</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470_br_bl_1.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470_br_bl_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС213</vendorCode>
+     <model>МС213</model>
+     <description>Коллекция красочных детских зубных кистей разработана с учетом всех особенностей строения детских зубов и техники чистки детей. Высокотехнологичное волокно щетины, увеличенный срок службы, одобрено Ассоциацией детских стоматологов России.</description>
+     <param name="Дизайн">ДИЗАЙН</param>
+     <param name="Бренд">БРЭНД</param>
+     <param name="Модель">МОДЕЛЬ</param>
+     <param name="Серия">СЕРИЯ</param>
+     <barcode>4022405911213</barcode>
+     <param name="Вес упаковки(кг)">ВЕС УПАКОВКИ</param>
+     <param name="Высота упаковки(см)">ВЫСОТА УПАКОВКИ</param>
+     <param name="Ширина упаковки(см)">ШИРИНА УПАКОВКИ</param>
+     <param name="Длина упаковки(см)">ДЛИНА УПАКОВКИ</param>
+     <param name="Вес в граммах">ВЕС В ГРАММАХ</param>
+     <param name="Дорожный формат">ДА</param>
+     <param name="Жесткость щетины">Мягкая</param>
+     <param name="Материал ручки">Гипоалергенный пластик</param>
+     <param name="Материал щетины">Полиамидная нить</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Регистрационное имя">Kids Toothbrush</param>
+     <param name="Состав набора">Зубная щетка</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">Детская зубная щетка 0+</param>
+     <param name="Цвет">Белый; Голубой</param>
+     <param name="Частота использования">Многоразовая</param>
+    </offer>
+
+    <offer id="1315" available="true">
+     <url>https://montcarotte.com/ru/product/164</url>
+     <name>Green Kids Toothbrush  / Детская Зубная щетка MontCarotte «Зеленая” "soft"</name> 
+     <typePrefix>Зубная щетка для детей</typePrefix>
+     <price>1010</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>131</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470_br_gr_1.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470_br_gr_1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС214</vendorCode>
+     <model>МС214</model>
+     <description>Коллекция красочных детских зубных кистей разработана с учетом всех особенностей строения детских зубов и техники чистки детей. Высокотехнологичное волокно щетины, увеличенный срок службы, одобрено Ассоциацией детских стоматологов России.</description>
+     <param name="Дизайн">ДИЗАЙН</param>
+     <param name="Бренд">БРЭНД</param>
+     <param name="Модель">МОДЕЛЬ</param>
+     <param name="Серия">СЕРИЯ</param>
+     <barcode>4022405633214</barcode>
+     <param name="Вес упаковки(кг)">ВЕС УПАКОВКИ</param>
+     <param name="Высота упаковки(см)">ВЫСОТА УПАКОВКИ</param>
+     <param name="Ширина упаковки(см)">ШИРИНА УПАКОВКИ</param>
+     <param name="Длина упаковки(см)">ДЛИНА УПАКОВКИ</param>
+     <param name="Вес в граммах">ВЕС В ГРАММАХ</param>
+     <param name="Дорожный формат">ДА</param>
+     <param name="Жесткость щетины">Мягкая</param>
+     <param name="Материал ручки">Гипоалергенный пластик</param>
+     <param name="Материал щетины">Полиамидная нить</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Регистрационное имя">Kids Toothbrush</param>
+     <param name="Состав набора">Зубная щетка</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">Детская зубная щетка 0+</param>
+     <param name="Цвет">Белый; Зеленый</param>
+     <param name="Частота использования">Многоразовая</param>
+    </offer>
+   
+    <offer id="1321" available="true">
+     <url>https://montcarotte.com/ru/product/169</url>
+     <name>Pure Kids Tooth Gel  / Детская зубная паста MontCarotte "Детский зубной гель “Нейтральный”</name> 
+     <typePrefix>Зубная паста для детей</typePrefix>
+     <price>1520</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>132</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470_tub_pur_2.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470_tub_pur_2.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1101</vendorCode>
+     <model>МС1101</model>
+     <description>Без вкуса, был разработан абсолютно нейтральным и гипоаллергенным, но 100% надежным как для чистки зубов, так и для их защиты.</description>
+     <param name="Дизайн">Smile Therapy</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Kids Toothgel</param>
+     <param name="Серия">Pure 0+</param>
+     <barcode>8030009000413</barcode>
+     <param name="Вес упаковки(кг)">0,5</param>
+     <param name="Высота упаковки(см)">11</param>
+     <param name="Ширина упаковки(см)">6,5</param>
+     <param name="Длина упаковки(см)">3,5</param>
+     <param name="Активные ингридиенты">Глицерофосфат кальция</param>
+     <param name="Аромат">Нейтральный</param>
+     <param name="Вес в граммах">0,5</param>
+     <param name="Гелевая">Да</param>
+     <param name="Для чувствительных зубов">Да</param>
+     <param name="Дорожный формат">ДА/НЕТ</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Объем в миллилитрах">30</param>
+     <param name="Особенности">Органик, без искусственных красителей. Не требует смывания, безопасен при проглатывании, повышенная адгезивность, одобрен Ассоциацией Детских Стоматологов России.</param>
+     <param name="Применение">ЕЖЕДНЕВНОЕ ИСПОЛЬЗОВАНИЕ/РЕКОМЕНДУЕТСЯ ПРИМЕНЯТЬ КУРСОМ</param>
+     <param name="Регистрационное имя">PURE</param>
+     <param name="C дозатором">Нет</param>
+     <param name="Совместимость">Универсальная</param>
+     <param name="Содержит фтор">ДА/НЕТ</param>
+     <param name="Состав">Sorbitol, Aqua, Hydrated Silica, Glycerin, Xylitol (10%), Sodium Myristoyl Sarcosinate, Cellulose Gum, Pottasium Acesulfame, Sodium Benzoate, Citric Acid</param>
+     <param name="Состав набора">Туба с гелем</param>
+     <param name="Степень абразивности">Низкая</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">Детский зубной гель 0+</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ОТБЕЛИВАЮЩИЙ/УКРЕПЛЕНИЕ ЭМАЛИ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">Прозрачный</param>
+   </offer>
+	  
+   <offer id="1322" available="true">
+     <url>https://montcarotte.com/ru/product/167</url>
+     <name>Cherry Berry Kids Tooth Gel  / Детская зубная паста MontCarotte "Детский зубной гель “Ягодка Вишня"</name> 
+     <typePrefix>Зубная паста для детей</typePrefix>
+     <price>1520</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>132</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470_tub_cher_2.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470_tub_cher_2.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1111</vendorCode>
+     <model>МС1111</model>
+     <description>Прозрачный детский зубной Гель «Ягодка Вишня» с натуральным вкусом и ароматом отборной, органической вишни.</description>
+     <param name="Дизайн">Smile Therapy</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Kids Toothgel</param>
+     <param name="Серия">Органика 0+</param>
+     <barcode>8030009000314</barcode>
+     <param name="Вес упаковки(кг)">0,5</param>
+     <param name="Высота упаковки(см)">11</param>
+     <param name="Ширина упаковки(см)">6,5</param>
+     <param name="Длина упаковки(см)">3,5</param>
+     <param name="Активные ингридиенты">Глицерофосфат кальция</param>
+     <param name="Аромат">Вишня</param>
+     <param name="Вес в граммах">0,5</param>
+     <param name="Гелевая">Да</param>
+     <param name="Для чувствительных зубов">Да</param>
+     <param name="Дорожный формат">ДА/НЕТ</param>
+     <param name="Класс косметики">Люкс, Органическая, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Объем в миллилитрах">30</param>
+     <param name="Особенности">Органик, без искусственных красителей. Не требует смывания, безопасен при проглатывании, повышенная адгезивность, одобрен Ассоциацией Детских Стоматологов России.</param>
+     <param name="Применение">ЕЖЕДНЕВНОЕ ИСПОЛЬЗОВАНИЕ/РЕКОМЕНДУЕТСЯ ПРИМЕНЯТЬ КУРСОМ</param>
+     <param name="Регистрационное имя">Cherry Berry</param>
+     <param name="C дозатором">Нет</param>
+     <param name="Совместимость">Универсальная</param>
+     <param name="Содержит фтор">ДА/НЕТ</param>
+     <param name="Состав">Sorbitol, Aqua, Hydrated Silica, Glycerin, Xylitol (10%), Sodium Myristoyl Sarcosinate, Cellulose Gum, Pottasium Acesulfame, Sodium Benzoate, Citric Acid</param>
+     <param name="Состав набора">Туба с гелем</param>
+     <param name="Степень абразивности">Низкая</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">Детский зубной гель / Детская зубная паста 0+</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ОТБЕЛИВАЮЩИЙ/УКРЕПЛЕНИЕ ЭМАЛИ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">ПРОЗРАЧНЫЙ</param>
+   </offer>
+	  
+   <offer id="1323" available="true">
+     <url>https://montcarotte.com/ru/product/168</url>
+     <name>Rose Pear Kids Tooth Gel  / Детская зубная паста MontCarotte "Детский зубной гель “Розовая Груша"</name> 
+     <typePrefix>Зубная паста для детей</typePrefix>
+     <price>1520</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>132</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470_tub_rose_2.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470_tub_rose_2.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1121</vendorCode>
+     <model>МС1121</model>
+     <description>Прозрачный детский зубной Гель «Розовая Груша» с натуральным вкусом и запахом груши из Пьемонта со сказочным розовым отливом.</description>
+     <param name="Дизайн">Smile Therapy</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Kids Toothgel</param>
+     <param name="Серия">Органика 0+</param>
+     <barcode>8030009000116</barcode>
+     <param name="Вес упаковки(кг)">0,5</param>
+     <param name="Высота упаковки(см)">11</param>
+     <param name="Ширина упаковки(см)">6,5</param>
+     <param name="Длина упаковки(см)">3,5</param>
+     <param name="Активные ингридиенты">Глицерофосфат кальция</param>
+     <param name="Аромат">Вишня</param>
+     <param name="Вес в граммах">0,5</param>
+     <param name="Гелевая">Да</param>
+     <param name="Для чувствительных зубов">Да</param>
+     <param name="Дорожный формат">ДА/НЕТ</param>
+     <param name="Класс косметики">Люкс, Органическая, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Объем в миллилитрах">30</param>
+     <param name="Особенности">Органик, без искусственных красителей. Не требует смывания, безопасен при проглатывании, повышенная адгезивность, одобрен Ассоциацией Детских Стоматологов России.</param>
+     <param name="Применение">ЕЖЕДНЕВНОЕ ИСПОЛЬЗОВАНИЕ/РЕКОМЕНДУЕТСЯ ПРИМЕНЯТЬ КУРСОМ</param>
+     <param name="Регистрационное имя">Rose Perry</param>
+     <param name="C дозатором">Нет</param>
+     <param name="Совместимость">Универсальная</param>
+     <param name="Содержит фтор">ДА/НЕТ</param>
+     <param name="Состав">Sorbitol, Aqua, Hydrated Silica, Glycerin, Xylitol (10%), Sodium Myristoyl Sarcosinate, Cellulose Gum, Pottasium Acesulfame, Sodium Benzoate, Citric Acid</param>
+     <param name="Состав набора">Туба с гелем</param>
+     <param name="Степень абразивности">Низкая</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">Детский зубной гель / Детская зубная паста 0+</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ОТБЕЛИВАЮЩИЙ/УКРЕПЛЕНИЕ ЭМАЛИ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">ПРОЗРАЧНЫЙ, РОЗОВЫЙ</param>
+   </offer>
+	  
+   <offer id="1324" available="true">
+     <url>https://montcarotte.com/ru/product/166</url>
+     <name>Green Apple Kids Tooth Gel / Детская зубная паста MontCarotte "Детский зубной гель “Зеленое Яблоко"</name> 
+     <typePrefix>Зубная паста для детей</typePrefix>
+     <price>1520</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>132</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470_tub_gr_2.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470_tub_gr_2.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1131</vendorCode>
+     <model>МС1131</model>
+     <description>Прозрачный детский зубной Гель «Зеленое Яблоко» с натуральным вкусом и запахом сочного яблока.</description>
+     <param name="Дизайн">Smile Therapy</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Kids Toothgel</param>
+     <param name="Серия">Органика 0+</param>
+     <barcode>8030009000017</barcode>
+     <param name="Вес упаковки(кг)">0,5</param>
+     <param name="Высота упаковки(см)">11</param>
+     <param name="Ширина упаковки(см)">6,5</param>
+     <param name="Длина упаковки(см)">3,5</param>
+     <param name="Активные ингридиенты">Глицерофосфат кальция</param>
+     <param name="Аромат">Яблоко</param>
+     <param name="Вес в граммах">0,5</param>
+     <param name="Гелевая">Да</param>
+     <param name="Для чувствительных зубов">Да</param>
+     <param name="Дорожный формат">ДА/НЕТ</param>
+     <param name="Класс косметики">Люкс, Органическая, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Объем в миллилитрах">30</param>
+     <param name="Особенности">Органик, без искусственных красителей. Не требует смывания, безопасен при проглатывании, повышенная адгезивность, одобрен Ассоциацией Детских Стоматологов России.</param>
+     <param name="Применение">ЕЖЕДНЕВНОЕ ИСПОЛЬЗОВАНИЕ/РЕКОМЕНДУЕТСЯ ПРИМЕНЯТЬ КУРСОМ</param>
+     <param name="Регистрационное имя">Green Apple</param>
+     <param name="C дозатором">Нет</param>
+     <param name="Совместимость">Универсальная</param>
+     <param name="Содержит фтор">ДА/НЕТ</param>
+     <param name="Состав">Sorbitol, Aqua, Hydrated Silica, Glycerin, Xylitol (10%), Sodium Myristoyl Sarcosinate, Cellulose Gum, Pottasium Acesulfame, Sodium Benzoate, Citric Acid</param>
+     <param name="Состав набора">Туба с гелем</param>
+     <param name="Степень абразивности">Низкая</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">Детский зубной гель / Детская зубная паста 0+</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ОТБЕЛИВАЮЩИЙ/УКРЕПЛЕНИЕ ЭМАЛИ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">ПРОЗРАЧНЫЙ, ЗЕЛЕНЫЙ</param>
+   </offer>
+	  
+   <offer id="1325" available="true">
+     <url>https://montcarotte.com/ru/product/165</url>
+     <name>Sweet Banana Kids Tooth Gel / Детская зубная паста MontCarotte "Детский зубной гель “Сладкий Банан"</name> 
+     <typePrefix>Зубная паста для детей</typePrefix>
+     <price>1520</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>132</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470_tub_yel_2.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470_tub_yel_2.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>МС1141</vendorCode>
+     <model>МС1141</model>
+     <description>Прозрачный зубной Гель «Сладкий Банан» с натуральным вкусом и запахом банана.</description>
+     <param name="Дизайн">Smile Therapy</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Kids Toothgel</param>
+     <param name="Серия">Органика 0+</param>
+     <barcode>8030009000215</barcode>
+     <param name="Вес упаковки(кг)">0,5</param>
+     <param name="Высота упаковки(см)">11</param>
+     <param name="Ширина упаковки(см)">6,5</param>
+     <param name="Длина упаковки(см)">3,5</param>
+     <param name="Активные ингридиенты">Глицерофосфат кальция</param>
+     <param name="Аромат">Банан</param>
+     <param name="Вес в граммах">0,5</param>
+     <param name="Гелевая">Да</param>
+     <param name="Для чувствительных зубов">Да</param>
+     <param name="Дорожный формат">ДА/НЕТ</param>
+     <param name="Класс косметики">Люкс, Органическая, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Объем в миллилитрах">30</param>
+     <param name="Особенности">Органик, без искусственных красителей. Не требует смывания, безопасен при проглатывании, повышенная адгезивность, одобрен Ассоциацией Детских Стоматологов России.</param>
+     <param name="Применение">ЕЖЕДНЕВНОЕ ИСПОЛЬЗОВАНИЕ/РЕКОМЕНДУЕТСЯ ПРИМЕНЯТЬ КУРСОМ</param>
+     <param name="Регистрационное имя">Green Apple</param>
+     <param name="C дозатором">Нет</param>
+     <param name="Совместимость">Универсальная</param>
+     <param name="Содержит фтор">ДА/НЕТ</param>
+     <param name="Состав">Sorbitol, Aqua, Hydrated Silica, Glycerin, Xylitol (10%), Sodium Myristoyl Sarcosinate, Cellulose Gum, Pottasium Acesulfame, Sodium Benzoate, Citric Acid</param>
+     <param name="Состав набора">Туба с гелем</param>
+     <param name="Степень абразивности">Низкая</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">Детский зубной гель / Детская зубная паста 0+</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ОТБЕЛИВАЮЩИЙ/УКРЕПЛЕНИЕ ЭМАЛИ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">ПРОЗРАЧНЫЙ, ЖЕЛТЫЙ</param>
+   </offer>
+	  
+   <offer id="141" available="true">
+     <url>https://montcarotte.com/ru/product/238</url>
+     <name>"Mint Green" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Зеленая Мята"</name> 
+     <typePrefix>Зубная нить</typePrefix>
+     <price>360</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>14</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная нить</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470-4501_0.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470-4501_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC301</vendorCode>
+     <model>MC301</model>
+     <description>Дентальная шелковая лента "Mint Green" Silk Tooth Ribbon - нежная, скользящая, удобная для хранения. Моноструктура PTFE волокна и шелковое тиснение ленты гарантирует безопасное использование, так как она не расслаивается и не застревает между зубов. Лента легко очищает межзубное пространство, не травмируя десны, оставляя ощущение идеальной чистоты.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Silk Tooth Ribbon</param>
+     <param name="Серия">Mint Green</param>
+     <barcode>8022405280315</barcode>
+     <param name="Вес упаковки(кг)">0,01</param>
+     <param name="Высота упаковки(см)">6</param>
+     <param name="Ширина упаковки(см)">9</param>
+     <param name="Длина упаковки(см)">2</param>
+     <param name="Ароматическая пропитка">Да</param>
+     <param name="Аромат">Мята</param>
+     <param name="Вес в граммах">10</param>
+     <param name="Длина (м)">10</param>
+     <param name="Для чувствительных зубов">Да</param>
+     <param name="Дорожный формат">ДА/НЕТ</param>
+     <param name="Класс косметики">Люкс</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Возрастная категория">12+</param>
+     <param name="Особенности">Дентальная шелковая лента "Mint Green" Silk Tooth Ribbon - нежная, скользящая, удобная для хранения.</param>
+     <param name="Применение">Шелковое тиснение ленты гарантирует безопасное очищение межзубного пространства.</param>
+     <param name="Совместимость">Универсальная</param>
+     <param name="Состав">Моноструктура PTFE волокна и шелковое тиснение</param>
+     <param name="Состав набора">Контейнер с зубной нитью</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">PTFE волокно, шелк</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">Зеленый</param>
+   </offer>
+	  
+   <offer id="142" available="true">
+     <url>https://montcarotte.com/ru/product/239</url>
+     <name>"Fuchsia" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Фуксия"</name> 
+     <typePrefix>Зубная нить</typePrefix>
+     <price>360</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>14</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная нить</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470-4508_0.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470-4508_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC302</vendorCode>
+     <model>MC302</model>
+     <description>Дентальная шелковая лента "Fuchsia" Silk Tooth Ribbon - нежная, скользящая, удобная для хранения. Моноструктура PTFE волокна и шелковое тиснение ленты гарантирует безопасное использование, так как она не расслаивается и не застревает между зубов. Лента легко очищает межзубное пространство, не травмируя десна, оставляя ощущение идеальной чистоты.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Silk Tooth Ribbon</param>
+     <param name="Серия">Fuchsia</param>
+     <barcode>8022405280322</barcode>
+     <param name="Вес упаковки(кг)">0,01</param>
+     <param name="Высота упаковки(см)">6</param>
+     <param name="Ширина упаковки(см)">9</param>
+     <param name="Длина упаковки(см)">2</param>
+     <param name="Ароматическая пропитка">ДА/НЕТ</param>
+     <param name="Аромат">НЕЙТРАЛЬНЫЙ</param>
+     <param name="Вес в граммах">10</param>
+     <param name="Длина (м)">10</param>
+     <param name="Для чувствительных зубов">Да</param>
+     <param name="Дорожный формат">ДА/НЕТ</param>
+     <param name="Класс косметики">Люкс</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Возрастная категория">12+</param>
+     <param name="Особенности">Дентальная шелковая лента "Fuchsia" Silk Tooth Ribbon - нежная, скользящая, удобная для хранения.</param>
+     <param name="Применение">Шелковое тиснение ленты гарантирует безопасное очищение межзубного пространства.</param>
+     <param name="Совместимость">Универсальная</param>
+     <param name="Состав">Моноструктура PTFE волокна и шелковое тиснение</param>
+     <param name="Состав набора">Контейнер с зубной нитью, упаковка</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">PTFE волокно, шелк</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">Розовый</param>
+   </offer>
+
+   <offer id="143" available="true">
+     <url>https://montcarotte.com/ru/product/220</url>
+     <name>"Apple Green" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Яблоко зеленое"</name> 
+     <typePrefix>Зубная нить</typePrefix>
+     <price>360</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>14</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная нить</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470-4510_0.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470-4510_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC303</vendorCode>
+     <model>MC303</model>
+     <description>Дентальная шелковая лента "Apple Green" Silk Tooth Ribbon - нежная, скользящая, удобная для хранения. Моноструктура PTFE волокна и шелковое тиснение ленты гарантирует безопасное использование, так как она не расслаивается и не застревает между зубов. Лента легко очищает межзубное пространство, не травмируя десны, оставляя ощущение идеальной чистоты.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Silk Tooth Ribbon</param>
+     <param name="Серия">Apple Green</param>
+     <barcode>8022405280339</barcode>
+     <param name="Вес упаковки(кг)">0,01</param>
+     <param name="Высота упаковки(см)">6</param>
+     <param name="Ширина упаковки(см)">9</param>
+     <param name="Длина упаковки(см)">2</param>
+     <param name="Ароматическая пропитка">ДА/НЕТ</param>
+     <param name="Аромат">НЕЙТРАЛЬНЫЙ</param>
+     <param name="Вес в граммах">10</param>
+     <param name="Длина (м)">10</param>
+     <param name="Для чувствительных зубов">Да</param>
+     <param name="Дорожный формат">ДА/НЕТ</param>
+     <param name="Класс косметики">Люкс</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Возрастная категория">12+</param>
+     <param name="Особенности">Дентальная шелковая лента "Apple Green" Silk Tooth Ribbon - нежная, скользящая, удобная для хранения.</param>
+     <param name="Применение">Шелковое тиснение ленты гарантирует безопасное очищение межзубного пространства.</param>
+     <param name="Совместимость">Универсальная</param>
+     <param name="Состав">Моноструктура PTFE волокна и шелковое тиснение</param>
+     <param name="Состав набора">Контейнер с зубной нитью, упаковка</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">PTFE волокно, шелк</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">Зеленый, Желтый</param>
+   </offer>
+	  
+   <offer id="144" available="true">
+     <url>https://montcarotte.com/ru/product/240</url>
+     <name>"Violet" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Фиолетовый"</name> 
+     <typePrefix>Зубная нить</typePrefix>
+     <price>360</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>14</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная нить</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470-4517_0.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470-4517_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC304</vendorCode>
+     <model>MC304</model>
+     <description>Дентальная шелковая лента "Violet" Silk Tooth Ribbon - нежная, скользящая, удобная для хранения. Моноструктура PTFE волокна и шелковое тиснение ленты гарантирует безопасное использование, так как она не расслаивается и не застревает между зубов. Лента легко очищает межзубное пространство, не травмируя десны, оставляя ощущение идеальной чистоты.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Silk Tooth Ribbon</param>
+     <param name="Серия">Violet</param>
+     <barcode>8022405280346</barcode>
+     <param name="Вес упаковки(кг)">0,01</param>
+     <param name="Высота упаковки(см)">6</param>
+     <param name="Ширина упаковки(см)">9</param>
+     <param name="Длина упаковки(см)">2</param>
+     <param name="Ароматическая пропитка">ДА/НЕТ</param>
+     <param name="Аромат">НЕЙТРАЛЬНЫЙ</param>
+     <param name="Вес в граммах">10</param>
+     <param name="Длина (м)">10</param>
+     <param name="Для чувствительных зубов">Да</param>
+     <param name="Дорожный формат">ДА/НЕТ</param>
+     <param name="Класс косметики">Люкс</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Возрастная категория">12+</param>
+     <param name="Особенности">Дентальная шелковая лента "Violet" Silk Tooth Ribbon - нежная, скользящая, удобная для хранения.</param>
+     <param name="Применение">Шелковое тиснение ленты гарантирует безопасное очищение межзубного пространства.</param>
+     <param name="Совместимость">Универсальная</param>
+     <param name="Состав">Моноструктура PTFE волокна и шелковое тиснение</param>
+     <param name="Состав набора">Контейнер с зубной нитью, упаковка</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">PTFE волокно, шелк</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">Сиреневый</param>
+   </offer>
+	  
+   <offer id="145" available="true">
+     <url>https://montcarotte.com/ru/product/241</url>
+     <name>"Light Blue" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Светло голубой"</name> 
+     <typePrefix>Зубная нить</typePrefix>
+     <price>360</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>14</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная нить</market_category>
+     <picture>https://montcarotte.com/sites/default/files/435x470-4503_0.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/435x470-4503_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC305</vendorCode>
+     <model>MC305</model>
+     <description>Дентальная шелковая лента "Light Blue" Silk Tooth Ribbon - нежная, скользящая, удобная для хранения. Моноструктура PTFE волокна и шелковое тиснение ленты гарантирует безопасное использование, так как она не расслаивается и не застревает между зубов. Лента легко очищает межзубное пространство, не травмируя десны, оставляя ощущение идеальной чистоты.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Silk Tooth Ribbon</param>
+     <param name="Серия">Light Blue</param>
+     <barcode>8022405280353</barcode>
+     <param name="Вес упаковки(кг)">0,01</param>
+     <param name="Высота упаковки(см)">6</param>
+     <param name="Ширина упаковки(см)">9</param>
+     <param name="Длина упаковки(см)">2</param>
+     <param name="Ароматическая пропитка">ДА/НЕТ</param>
+     <param name="Аромат">НЕЙТРАЛЬНЫЙ</param>
+     <param name="Вес в граммах">10</param>
+     <param name="Длина (м)">10</param>
+     <param name="Для чувствительных зубов">Да</param>
+     <param name="Дорожный формат">ДА/НЕТ</param>
+     <param name="Класс косметики">Люкс</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Возрастная категория">12+</param>
+     <param name="Особенности">Дентальная шелковая лента "Light Blue" Silk Tooth Ribbon - нежная, скользящая, удобная для хранения.</param>
+     <param name="Применение">Шелковое тиснение ленты гарантирует безопасное очищение межзубного пространства.</param>
+     <param name="Совместимость">Универсальная</param>
+     <param name="Состав">Моноструктура PTFE волокна и шелковое тиснение</param>
+     <param name="Состав набора">Контейнер с зубной нитью, упаковка</param>
+     <param name="Страна производства">Италия</param>
+     <param name="Тип">PTFE волокно, шелк</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">Голубой</param>
+   </offer>
+	  
+   <offer id="1511" available="true">
+     <url>https://montcarotte.com/ru/product/268</url>
+     <name>Present Yacht Set / Набор подарочный "MontCarotte Yacht Set"</name> 
+     <typePrefix>Подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>13950</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/171030-montcarotte-13521_0.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/171030-montcarotte-13521_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC410</vendorCode>
+     <model>MC410</model>
+     <description>Идеальное сочетание зубных паст: геля «Platinum Brightening» и крема «Diamond Brightening», созданных для безопасного эффективного осветления и блестящей полировки эмали, а также зубных кистей «Picasso» и «Malevich» из коллекции «ABC», упакованного в стильную дизайнерскую коробку.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров</param>
+     <param name="Серия">Yacht Set</param>
+     <barcode>4602240540689</barcode>
+     <param name="Вес упаковки(кг)">1,05</param>
+     <param name="Высота упаковки(см)">22</param>
+     <param name="Ширина упаковки(см)">30</param>
+     <param name="Длина упаковки(см)">12</param>
+     <param name="Вес в граммах">1050</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Возрастная категория">12+</param>
+     <param name="Особенности">Незаменимый аксессуар для эффективного ухода за зубами. Идеальное решение для  любителей активного отдыха, а также для свадебного путешествия.</param>
+     <param name="Состав набора">Diamond Brightening Tooth Cream; Platinum Brightening Tooth Gel; Malevich toothbrush Abstraction Brush Collection, Picasso toothbrush Abstraction Brush Collection</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+   <offer id="1512" available="true">
+     <url>https://montcarotte.com/ru/product/281</url>
+     <name>Wonder Woman Present Set / Набор подарочный "Wonder Woman" для Женщин</name> 
+     <typePrefix>Подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>7850</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/ww_430x470_3_0.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/ww_430x470_3_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC511</vendorCode>
+     <model>MC511</model>
+     <description>Wonder Woman Present Set - это настоящее маленькое роскошество в вашей ванной комнате и незаменимый аксессуар для эффективного ухода за зубами.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров</param>
+     <param name="Серия">Wonder Woman Present Set</param>
+     <barcode>4622405511118</barcode>
+     <param name="Вес упаковки(кг)">0,64</param>
+     <param name="Высота упаковки(см)">23</param>
+     <param name="Ширина упаковки(см)">23</param>
+     <param name="Длина упаковки(см)">9</param>
+     <param name="Вес в граммах">640</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Возрастная категория">12+</param>
+     <param name="Особенности">Идеальное сочетание продуктов MontCarotte, упакованных в стильную дизайнерскую коробку, станет изысканным знаком внимания для Вашего друга или для Вас.</param>
+     <param name="Состав набора">Крем для зубов Бриллиантовое Сияние с экстрактом стручков ванильной орхидеи; Зубная щетка «Renoir» "soft", Зубная щетка "Gauguin" "soft"</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+	  
+   <offer id="1513" available="true">
+     <url>https://montcarotte.com/ru/product/280</url>
+     <name>Wonder Man Present Set / Набор подарочный "Wonder Man" для Мужчин</name> 
+     <typePrefix>Подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>8230</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/wm_430x470_3_0_0.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/wm_430x470_3_0_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC711</vendorCode>
+     <model>MC711</model>
+     <description>Wonder Man Present Set - это настоящее маленькое роскошество в вашей ванной комнате и незаменимый аксессуар для эффективного ухода за зубами.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров</param>
+     <param name="Серия">Wonder Man Present Set</param>
+     <barcode>4622405711112</barcode>
+     <param name="Вес упаковки(кг)">0,69</param>
+     <param name="Высота упаковки(см)">23</param>
+     <param name="Ширина упаковки(см)">23</param>
+     <param name="Длина упаковки(см)">9</param>
+     <param name="Вес в граммах">690</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Возрастная категория">12+</param>
+     <param name="Особенности">Идеальное сочетание продуктов MontCarotte, упакованных в стильную дизайнерскую коробку, станет изысканным знаком внимания.</param>
+     <param name="Состав набора">Зубная паста "Платиновое сияние мужской гель для зубов"; Зубная щетка «Malevich» "soft", Зубная щетка "Kandinsky" "soft" </param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+   <offer id="1514" available="true">
+     <url>https://montcarotte.com/ru/product/295</url>
+     <name>Impression Brush Collection Present Set / Подарочный набор "Зубные Кисти Импрессионистов"</name> 
+     <typePrefix>Подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>5375</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/impr_430x470_3_0.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/impr_430x470_3_0.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC200</vendorCode>
+     <model>MC200</model>
+     <description>Impression Brush Collection Present Set - Это стильный дентальный аксессуар и повод для вдохновения. Высокие технологии и связь с искусством определяют концепт коллекций зубных кистей бренда.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров</param>
+     <param name="Серия">Impression Brush Collection</param>
+     <barcode>4622405222229</barcode>
+     <param name="Вес упаковки(кг)">0,6</param>
+     <param name="Высота упаковки(см)">22</param>
+     <param name="Ширина упаковки(см)">23</param>
+     <param name="Длина упаковки(см)">9</param>
+     <param name="Вес в граммах">600</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Возрастная категория">12+</param>
+     <param name="Особенности">Набор создан в формате подарочного альбома по искусству, в котором каждая кисть представлена в индивидуальной красочной упаковке.</param>
+     <param name="Состав набора">Пять кистей IMPRESSION BRUSH COLLECTION: Renoir, Degas, Gauguin, Van  Gogh,  Manet</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+   <offer id="1515" available="true">
+     <url>https://montcarotte.com/ru/product/274</url>
+     <name>Abstraction Brush Collection Present Set / Набор подарочный "Зубные кисти Абстракционистов"</name> 
+     <typePrefix>Подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>5825</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/171030-montcarotte-13493.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/171030-montcarotte-13493.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC406</vendorCode>
+     <model>MC406</model>
+     <description>Abstraction Brush Collection Present Set - Это стильный дентальный аксессуар и повод для вдохновения. Высокие технологии и связь с искусством определяют концепт коллекций зубных кистей бренда</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров</param>
+     <param name="Серия">Abstraction Brush Collection</param>
+     <barcode>4022405201796</barcode>
+     <param name="Вес упаковки(кг)">0,75</param>
+     <param name="Высота упаковки(см)">22</param>
+     <param name="Ширина упаковки(см)">30</param>
+     <param name="Длина упаковки(см)">12</param>
+     <param name="Вес в граммах">750</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Возрастная категория">12+</param>
+     <param name="Особенности">Набор создан в формате подарочного альбома по искусству, в котором каждая кисть представлена в индивидуальной красочной упаковке.</param>
+     <param name="Состав набора">Пять кистей Abstraction Brush Collection: K.Malevich, V.Kandinsky, P.Picasso, I.Itten, P.Mondrian</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+   <offer id="15200" available="true">
+     <url>https://montcarotte.com/ru/product/269</url>
+     <name>Present Set Kids Collection / Набор детский подарочный "MontCrotte Kids Collection"</name> 
+     <typePrefix>Подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>12650</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/171030-montcarotte-13527.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/171030-montcarotte-13527.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC409</vendorCode>
+     <model>MC409</model>
+     <description>Вся серия детских продуктов Montcarotte в одном наборе</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Вся детская гамма MontCarotte выпущена лимитированной серией в одном наборе, роскошный презент и очень выгодная покупка для своей семьи.</param>
+     <barcode>4602240584676</barcode>
+     <param name="Вес упаковки(кг)">0,925</param>
+     <param name="Высота упаковки(см)">22</param>
+     <param name="Ширина упаковки(см)">30</param>
+     <param name="Длина упаковки(см)">12</param>
+     <param name="Вес в граммах">925</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Вся детская гамма MontCarotte выпущена лимитированной серией в одном наборе, роскошный презент и очень выгодная покупка для своей семьи.</param>
+     <param name="Состав набора">Детские зубные гели 30 мл: Нейтральный, "Зелёное Яблоко",  "Сладкий Банан", "Розовая Груша", "Ягодка Вишня"; Детские зубные кисти: Голубая, Зеленая, Желтая, Розовая, Фиолетовая.</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+   <offer id="1521" available="true">
+     <url>https://montcarotte.com/ru/product/285</url>
+     <name>Banana Kids Present Set / Набор детский подарочный "Сладкий банан"</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>2630</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/430x470_banana_3.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/430x470_banana_3.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC610</vendorCode>
+     <model>MC610</model>
+     <description>Великолепный подарок ребенку, сочетающий в себе детский зубной гель Сладкий Банан, детскую зубную кисточку Желтая и ассорти миниатюр линейки детских зубных гелей Montcarotte.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Сладкий банан"</param>
+     <barcode>4602240540610</barcode>
+     <param name="Вес упаковки(кг)">0,235</param>
+     <param name="Высота упаковки(см)">23</param>
+     <param name="Ширина упаковки(см)">12,5</param>
+     <param name="Длина упаковки(см)">5,5</param>
+     <param name="Вес в граммах">235</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Красочный набор «Банан» может стать полезным и вкусным подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</param>
+     <param name="Состав набора">Десткий гель 30 мл "Сладкий банан", десткая кисть Желтая, 5 миниатюр детских гелей.</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+    <offer id="1522" available="true">
+     <url>https://montcarotte.com/ru/product/288</url>
+     <name>Pear Kids Present Set / Набор детский подарочный "Розовая груша"</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>2630</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/430x470_pear_3.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/430x470_pear_3.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC611</vendorCode>
+     <model>MC611</model>
+     <description>Великолепный подарок ребенку, сочетающий в себе детский зубной гель Розовая Груша, детскую зубную кисточку Розовая и ассорти миниатюр линейки детских зубных гелей Montcarotte.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Розовая Груша"</param>
+     <barcode>4602240345611</barcode>
+     <param name="Вес упаковки(кг)">0,235</param>
+     <param name="Высота упаковки(см)">23</param>
+     <param name="Ширина упаковки(см)">12,5</param>
+     <param name="Длина упаковки(см)">5,5</param>
+     <param name="Вес в граммах">235</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Красочный набор «Розовая Груша» может стать полезным и вкусным подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</param>
+     <param name="Состав набора">Десткий гель 30 мл "Розовая Груша", десткая кисть Розовая, 5 миниатюр детских гелей.</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+   <offer id="1523" available="true">
+     <url>https://montcarotte.com/ru/product/287</url>
+     <name>Berry Kids Present Set / Набор детский подарочный "Ягодка Вишня"</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>2630</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/430x470_cherry_3.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/430x470_cherry_3.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC612</vendorCode>
+     <model>MC612</model>
+     <description>Великолепный подарок ребенку, сочетающий в себе детский зубной гель Ягодка Вишня, детскую зубную кисточку Фиолетовая и ассорти миниатюр линейки детских зубных гелей Montcarotte.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Ягодка Вишня"</param>
+     <barcode>4602240124612</barcode>
+     <param name="Вес упаковки(кг)">0,235</param>
+     <param name="Высота упаковки(см)">23</param>
+     <param name="Ширина упаковки(см)">12,5</param>
+     <param name="Длина упаковки(см)">5,5</param>
+     <param name="Вес в граммах">235</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Красочный набор «Ягодка Вишня» может стать полезным и вкусным подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</param>
+     <param name="Состав набора">Десткий гель 30 мл "Ягодка Вишня", десткая кисть Фиолетовая, 5 миниатюр детских гелей.</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+   <offer id="1524" available="true">
+     <url>https://montcarotte.com/ru/product/286</url>
+     <name>Pure Kids Present Set / Набор детский подарочный "Нейтральный"</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>2630</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/430x470_pure_3.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/430x470_pure_3.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC613</vendorCode>
+     <model>MC613</model>
+     <description>Великолепный подарок ребенку, сочетающий в себе детский зубной гель Нейтральный, детскую зубную кисточку Голубая и ассорти миниатюр линейки детских зубных гелей Montcarotte.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Нейтральный"</param>
+     <barcode>4602240242613</barcode>
+     <param name="Вес упаковки(кг)">0,235</param>
+     <param name="Высота упаковки(см)">23</param>
+     <param name="Ширина упаковки(см)">12,5</param>
+     <param name="Длина упаковки(см)">5,5</param>
+     <param name="Вес в граммах">235</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Красочный набор «Нейтральный» может стать полезным и вкусным подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</param>
+     <param name="Состав набора">Десткий гель 30 мл "Нейтральный", десткая кисть Голубая, 5 миниатюр детских гелей.</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+  
+   <offer id="1525" available="true">
+     <url>https://montcarotte.com/ru/product/284</url>
+     <name>Apple Kids Present Set / Набор детский подарочный "Зеленое яблоко"</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>2630</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/430x470_apple_3.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/430x470_apple_3.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC614</vendorCode>
+     <model>MC614</model>
+     <description>Великолепный подарок ребенку, сочетающий в себе детский зубной гель Зеленое яблоко, детскую зубную кисточку Зеленая и ассорти миниатюр линейки детских зубных гелей Montcarotte.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Зеленое яблоко"</param>
+     <barcode>4602240654614</barcode>
+     <param name="Вес упаковки(кг)">0,235</param>
+     <param name="Высота упаковки(см)">23</param>
+     <param name="Ширина упаковки(см)">12,5</param>
+     <param name="Длина упаковки(см)">5,5</param>
+     <param name="Вес в граммах">235</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Красочный набор «Зеленое яблоко» может стать полезным и вкусным подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</param>
+     <param name="Состав набора">Десткий гель 30 мл "Зеленое яблоко", десткая кисть Зеленая, 5 миниатюр детских гелей.</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+	  
+   <offer id="1526" available="true">
+     <url>https://montcarotte.com/ru/product/293</url>
+     <name>Kids Dental Set Assorti Green / Набор детский подарочный "Зеленый" Ассорти</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>1150</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/04940-430x470.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/04940-430x470.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC801</vendorCode>
+     <model>MC801</model>
+     <description>Красочный набор может стать полезным и красивым подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Зеленый"</param>
+     <barcode>4602240540719</barcode>
+     <param name="Вес упаковки(кг)">0,1</param>
+     <param name="Высота упаковки(см)">17</param>
+     <param name="Ширина упаковки(см)">13</param>
+     <param name="Длина упаковки(см)">2</param>
+     <param name="Вес в граммах">100</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Материал щетинок - полиамид; Прекрасная возможность оценить всю линейку вкусов детских гелей MontCarotte.</param>
+     <param name="Состав набора">Детская кисть Зеленая; ассорти 5 миниатюр детского геля по 5 мл</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+   <offer id="1527" available="true">
+     <url>https://montcarotte.com/ru/product/292</url>
+     <name>Kids Dental Set Assorti Yellow / Набор детский подарочный "Желтый" Ассорти</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>1150</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/04941-430x470.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/04941-430x470.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC802</vendorCode>
+     <model>MC802</model>
+     <description>Красочный набор может стать полезным и красивым подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Желтый"</param>
+     <barcode>4602240540726</barcode>
+     <param name="Вес упаковки(кг)">0,1</param>
+     <param name="Высота упаковки(см)">17</param>
+     <param name="Ширина упаковки(см)">13</param>
+     <param name="Длина упаковки(см)">2</param>
+     <param name="Вес в граммах">100</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Материал щетинок - полиамид; Прекрасная возможность оценить всю линейку вкусов детских гелей MontCarotte.</param>
+     <param name="Состав набора">Детская кисть Желтая; ассорти 5 миниатюр детского геля по 5 мл</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+   <offer id="1528" available="true">
+     <url>https://montcarotte.com/ru/product/289</url>
+     <name>Kids Dental Set Assorti Blue / Набор детский подарочный "Голубой" Ассорти</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>1150</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/04945-430x470.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/04945-430x470.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC803</vendorCode>
+     <model>MC803</model>
+     <description>Красочный набор может стать полезным и красивым подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Голубой"</param>
+     <barcode>4602240540733</barcode>
+     <param name="Вес упаковки(кг)">0,1</param>
+     <param name="Высота упаковки(см)">17</param>
+     <param name="Ширина упаковки(см)">13</param>
+     <param name="Длина упаковки(см)">2</param>
+     <param name="Вес в граммах">100</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Материал щетинок - полиамид; Прекрасная возможность оценить всю линейку вкусов детских гелей MontCarotte.</param>
+     <param name="Состав набора">Детская кисть (Детская зубная щетка) Голубая; ассорти 5 миниатюр детского геля (Детская зубная паста) по 5 мл</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+   <offer id="1529" available="true">
+     <url>https://montcarotte.com/ru/product/290</url>
+     <name>Kids Dental Set Assorti Rose / Набор детский подарочный "Розовый" Ассорти</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>1150</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/04942-430x470.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/04942-430x470.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC804</vendorCode>
+     <model>MC804</model>
+     <description>Красочный набор может стать полезным и красивым подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Розовый"</param>
+     <barcode>4602240540740</barcode>
+     <param name="Вес упаковки(кг)">0,1</param>
+     <param name="Высота упаковки(см)">17</param>
+     <param name="Ширина упаковки(см)">13</param>
+     <param name="Длина упаковки(см)">2</param>
+     <param name="Вес в граммах">100</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Материал щетинок - полиамид; Прекрасная возможность оценить всю линейку вкусов детских гелей MontCarotte.</param>
+     <param name="Состав набора">Детская кисть (Детская зубная щетка) Розовая; ассорти 5 миниатюр детского геля (Детская зубная паста) по 5 мл</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+   </offer>
+
+   <offer id="1520" available="true">
+     <url>https://montcarotte.com/ru/product/291</url>
+     <name>Kids Dental Set Assorti Purple / Набор детский подарочный "Фиолетовый" Ассорти</name> 
+     <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <price>1150</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>15</categoryId>
+     <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
+     <picture>https://montcarotte.com/sites/default/files/04946-430x470.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/04946-430x470.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="1" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte®</vendor>
+     <vendorCode>MC805</vendorCode>
+     <model>MC805</model>
+     <description>Красочный набор может стать полезным и красивым подарком для малыша. Привлечь внимание малыша к заботе о зубах и превратить ритуал ухода за зубами в дегустацию.</description>
+     <param name="Дизайн">Авторский</param>
+     <param name="Бренд">Montcarotte®</param>
+     <param name="Модель">Подарочный набор дентальной косметики и аксессуаров для детей</param>
+     <param name="Серия">Детский подарочный набор дентальной косметики и аксессуаров "Фиолетовый"</param>
+     <barcode>4602240540757</barcode>
+     <param name="Вес упаковки(кг)">0,1</param>
+     <param name="Высота упаковки(см)">17</param>
+     <param name="Ширина упаковки(см)">13</param>
+     <param name="Длина упаковки(см)">2</param>
+     <param name="Вес в граммах">100</param>
+     <param name="Дорожный формат">Да</param>
+     <param name="Класс косметики">Люкс, Детская</param>
+     <param name="Область применения">Полость рта</param>
+     <param name="Частота">Ежедневное применение</param>
+     <param name="Возрастная категория">0+</param>
+     <param name="Особенности">Материал щетинок - полиамид; Прекрасная возможность оценить всю линейку вкусов детских гелей MontCarotte.</param>
+     <param name="Состав набора">Детская кисть (Детская зубная щетка) Фиолетовая; ассорти 5 миниатюр детского геля (Детская зубная паста) по 5 мл</param>
+     <param name="Страна производства">Италия, Германия</param>
+     <param name="Фирма-производитель">Montcarotte</param>
+     <param name="Эффект">АНТИБАКТЕРИАЛЬНЫЙ/АНТИКАРИОЗНЫЙ/КОМПЛЕКСНЫЙ/ЗАЩИТА ДЕСЕН/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО КАМНЯ/НЕЙТРАЛИЗАЦИЯ ЗУБНОГО НАЛЕТА</param>
+     <param name="Цвет">НЕЙТРАЛЬНЫЙ</param>
+    </offer>  
+   
+    <offer id="221" available="true">
+     <url>https://rapidmontcarottemedical.com/</url>
+     <name>Oral rinse RAPID 15 Red Grapefruit, 200ml/Oполаскиватель для полости рта РАПИД 15 Красный Грейпфрут 200 мл  </name> 
+     <price>1400</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>22</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/rinse-15-1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte Medical®</vendor>
+     <vendorCode>МСМ0215</vendorCode>
+     <model>МСМ0215</model>
+     <description>Антибактериальный и антисептический раствор на основе комбинации Хлоргексидина диглюконата 0,15 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
+     <param name="Назначение">Профилактика воспалений полости рта</param>
+     <param name="Дозировка">200 мл</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Концентрация">0,15%</param>
+     <param name="Применение">
+Имплантация:
+• Периимплантит
+• Пародонтологическое лечение
+Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов):
+• Установка брекет систем
+• Установка ортопедических конструкций
+• Интенсивная дентальная гигиена
+Профилактика воспалительных процессов после хирургического вмешательства
+</param>
+     <barcode>8030009101417</barcode>
+   </offer>
+
+   <offer id="222" available="true">
+     <url>https://montcarotte.com/ru/product/345/</url>
+     <name>Oral rinse RAPID 25 Red Grapefruit, 100ml/Oполаскиватель для полости рта РАПИД 25 Красный Грейпфрут 100 мл  </name> 
+     <price>1600</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>22</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/rinse-25-1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte Medical®</vendor>
+     <vendorCode>МСМ0325</vendorCode>
+     <model>МСМ0325</model>
+     <description>Антибактериальный и антисептический раствор на основе комбинации Хлоргексидина диглюконата 0,25 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
+     <param name="Назначение">Профилактика воспалений полости рта</param>
+     <param name="Дозировка">100 мл</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Концентрация">0,25%</param>
+     <param name="Применение">
+Имплантация:
+• Периимплантит
+• Пародонтологическое лечение
+Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов):
+• Установка брекет систем
+• Установка ортопедических конструкций
+• Интенсивная дентальная гигиена
+Профилактика воспалительных процессов после хирургического вмешательства
+</param>
+     <barcode>8030009101516</barcode>
+   </offer>
+
+   <offer id="211" available="true">
+     <url>https://montcarotte.com/ru/product/346/</url>
+     <name>Гель-бандаж RAPID 30</name> 
+     <price>2500</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>21</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/bandage-30-1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte Medical®</vendor>
+     <vendorCode>МСМ0430</vendorCode>
+     <model>МСМ0430</model>
+     <description>Антибактериальный и антисептический гель на основе комбинации Хлоргексидина диглюконата 0,3 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
+     <param name="Назначение">Профилактика воспалений полости рта</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Дозировка">30 мл</param>
+     <param name="Концентрация">0,3% CHLX %</param>
+     <param name="Применение">
+Имплантация:
+• Периимплантит
+• Пародонтологическое лечение
+Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов):
+• Установка брекет систем
+• Установка ортопедических конструкций
+• Интенсивная дентальная гигиена
+Профилактика воспалительных процессов после хирургического вмешательства
+</param>
+     <barcode>8030009101318</barcode>
+   </offer>
+
+   <offer id="212" available="true">
+     <url>https://montcarotte.com/ru/product/347</url>
+     <name>Гелеобразная зубная паста RAPID 15</name> 
+     <price>1400</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>21</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/tooth-15-1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte Medical®</vendor>
+     <vendorCode>МСМ0115</vendorCode>
+     <model>МСМ0115</model>
+     <description>Антибактериальная и антисептическая зубная паста на основе комбинации Хлоргексидина диглюконата 0,15 % в стабильной концентрации , витаминного комплекса инозитола, цитрата цинка и молекулярным защитным матриксом в составе.</description>
+     <param name="Назначение">Профилактика воспалений полости рта</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Дозировка">50 мл</param>
+     <param name="Концентрация">0,15% CHLX %</param>
+     <param name="Применение">
+Имплантация:
+• Периимплантит
+• Пародонтологическое лечение
+Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов):
+• Установка брекет систем
+• Установка ортопедических конструкций
+• Интенсивная дентальная гигиена
+Профилактика воспалительных процессов после хирургического вмешательства
+</param>
+     <barcode>8030009101219</barcode>
+   </offer>
+   
+   <offer id="231" available="true">
+     <url>https://montcarotte.com/ru/product/348</url>
+     <name>Полимягкая Зубная Щетка RAPID</name> 
+     <price>1170</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>23</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/brush-1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte Medical®</vendor>
+     <vendorCode>МСМ0500</vendorCode>
+     <model>МСМ0500</model>
+     <description>Полимягкая зубная щетка RAPID разработана для эффективной и атравматичной гигиены полости рта в послеоперационный период. Особо мягкая щетина выполнена из синтетического эластичного волокна POLY TETRA®, гарантирует эффективную и безболезненную чистку зубов. Каждая ворсинка на конце разделена на дополнительные четыре части, что делает волокно значительно мягче и абсолютно атравматичным. Полимягкое волокно во время чистки зубов помогает обогатить кислородом состав пасты, обеспечивая таким образом более интенсивное проникновение активных ингредиентов зубной пасты в поврежденные мягкие ткани. Длинная анатомическая ручка из гиппоалергенного пластика с противоскользящим покрытием гарантирует удобный захват и правильную технику чистки. Узкая вытянутая головка щетки гарантирует эффективную чистку в труднодоступных местах.</description>
+     <param name="Жесткость">Extra Soft</param>
+     <param name="Дизайн">Авторский</param>
+     <param name="Коллекция">RAPID</param>
+     <param name="Материал">Антибактериальное, синтетическое эластичное волокно POLY TETRA®</param>
+     <param name="Бренд">MontCarotte Medical®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Белый</param>
+     <param name="Особенности">Для атравматичной гигиены полости рта, разделённые на четыре части щетинки</param>
+     <param name="Применение">
+		• для людей, перенесших хирургическое вмешательство в ротовой полости
+		• при воспаленных и кровоточащих деснах
+		• после проведения гигиены в полости рта
+		• после хирургического лечения в качестве интенсивной защиты от образования бактериального налета
+		• после протезировании на имплантатах
+		• после установке виниров и ортопедических конструкций
+		• после установки ортодонтических аппаратов
+     </param>
+     <barcode>8809518680450</barcode>
+   </offer>
+
+   <offer id="241" available="true">
+     <url>https://montcarotte.com/ru/product/349</url>
+     <name>Набор RAPID</name> 
+     <price>7000</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>24</categoryId>
+     <picture>https://montcarotte.com/sites/default/files/kit-1.jpg</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte Medical®</vendor>
+     <vendorCode>МСМ0750</vendorCode>
+     <model>МСМ0750</model>
+     <description>Набор RAPID
+		КОМПЛЕКСНОЕ РЕШЕНИЕ ДЛЯ ПАЦИЕНТА, ГАРАНТИЯ РЕЗУЛЬТАТА ДЛЯ ВРАЧА. В состав набора входит 5 продуктов:
+		Ополаскиватель для полости рта RAPID 25 GRAPEFRUIT 0,25%
+		Ополаскиватель для полости рта RAPID 15 GRAPEFRUIT 0,15%
+		Гелеобразная зубная паста RAPID 15 GRAPEFRUIT SEED EXTRACT 0,15%
+		Зубной гель бандаж RAPID 30 GRAPEFRUIT SEED EXTRACT 0,30%
+		Полимягкая зубная щетка RAPID c щетиной из волокна POLYTETRA ® для атравматичной гигиены полости рта.</description>
+     <param name="Коллекция">RAPID®</param>
+     <param name="Состав набора">Пять ед. товара коллекции</param>
+     <param name="Бренд">MontCarotte Medical®</param>
+     <param name="Страна">Великобритания</param>
+     <param name="Цвет">Красный, белый</param>
+     <param name="Особенности">Для атравматичной гигиены полости рта, разделённые на четыре части щетинки</param>
+     <param name="Применение">
+		• для людей, перенесших хирургическое вмешательство в ротовой полости
+		• при воспаленных и кровоточащих деснах
+		• после проведения гигиены в полости рта
+		• после хирургического лечения в качестве интенсивной защиты от образования бактериального налета
+		• после протезировании на имплантатах
+		• после установке виниров и ортопедических конструкций
+		• после установки ортодонтических аппаратов
+	 </param>
+     <barcode>8030009001205</barcode>
+   </offer>
+
+   <offer id="251" available="true">
+     <url>https://montcarotte.com/ru/product/345</url>
+     <name>Cпрей для полости рта РАПИД 30 Красный Грейпфрут быстрого действия с Хлогексидином 0,30 % и фруктовой кислотой из семян красного грейпфрута</name> 
+     <price>1510</price>
+     <currencyId>RUR</currencyId>
+     <categoryId>25</categoryId>
+     <picture>https://yadi.sk/i/rPZr0HVUOSJTig</picture>
+     <vat>6</vat>
+     <shipment-options>
+      <option days="1-2" order-before="15"/>
+     </shipment-options>
+     <outlets>
+      <outlet id="склад в Москве" instock="150"/>
+     </outlets>
+     <vendor>MontCarotte Medical®</vendor>
+     <vendorCode>МСМ0630</vendorCode>
+     <model>МСМ0630</model>
+     <description>Антибактериальный спрей для полости рта</description>
+     <param name="Коллекция">RAPID®</param>
+     <param name="Бренд">MontCarotte Medical®</param>
+     <param name="Страна">Великобритания, Италия</param>
+     <param name="Цвет">Красный, белый</param>
+     <param name="Особенности">быстродействующий антибактериальный спрей, снимает воспаление и кровоточивость десен</param>
+     <param name="Концентрация">0,15%</param>
+	 <param name="Применение">
+		• для людей, перенесших хирургическое вмешательство в ротовой полости
+		• при воспаленных и кровоточащих деснах
+		• после проведения гигиены в полости рта
+		• после хирургического лечения в качестве интенсивной защиты от образования бактериального налета
+		• после протезировании на имплантатах
+		• после установке виниров и ортопедических конструкций
+		• после установки ортодонтических аппаратов
+	 </param>
+     <barcode>8030009001564</barcode>
+	 <param name="Вес упаковки(кг)">0,065</param>
+     <param name="Высота упаковки(см)">11</param>
+     <param name="Ширина упаковки(см)">5</param>
+     <param name="Длина упаковки(см)">5</param>
+     <param name="Вес в граммах">65</param>
+   </offer>
+
+  </offers>
+ </shop> 
+</yml_catalog>
