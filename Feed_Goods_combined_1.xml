@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-07-04 11:22">
+<yml_catalog date="2020-07-06 23:55">
  <shop>
   <name>MontCarotte</name>
   <company>"МОНТКАРОТТЕ ДИСТРИБЬЮШЕН", ООО</company>
@@ -32,7 +32,7 @@
   <offers>
     <offer id="1111" available="true">
      <url>https://montcarotte.com/ru/product/267</url>
-     <name>Зубная щетка &quot;Малевич&quot; &quot;soft&quot;</name> 
+     <name>Malevich toothbrush Abstraction Brush Collection / Зубная щетка &quot;Малевич&quot; из коллекции &quot;Абстракционистов&quot; 12+</name> 
      <price>1165</price>
      <currencyId>RUR</currencyId>
      <categoryId>111</categoryId>
@@ -610,7 +610,7 @@
    
    <offer id="1212" available="true">
      <url>https://montcarotte.com/ru/product/21</url>
-     <name>Anti Age Whitening Program Set  / Набор зубных паст "Омолаживающая отбеливающая программа для зубов"</name> 
+     <name>Набор зубных паст новый (поршневой флакон с актуатором)</name> 
      <price>4970</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
@@ -1140,7 +1140,7 @@
      <param name="Цвет">ПРОЗРАЧНЫЙ, ЖЕЛТЫЙ</param>
    </offer>
 	  
-   <offer id="141" available="true">
+   <offer id="1411" available="true">
      <url>https://montcarotte.com/ru/product/238</url>
      <name>"Mint Green" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Зеленая Мята"</name> 
      <typePrefix>Зубная нить</typePrefix>
@@ -1211,7 +1211,7 @@
      <vendor>MontCarotte®</vendor>
      <vendorCode>MC302</vendorCode>
      <model>MC302</model>
-     <description>Дентальная шелковая лента "Fuchsia" Silk Tooth Ribbon - нежная, скользящая, удобная для хранения. Моноструктура PTFE волокна и шелковое тиснение ленты гарантирует безопасное использование, так как она не расслаивается и не застревает между зубов. Лента легко очищает межзубное пространство, не травмируя десна, оставляя ощущение идеальной чистоты.</description>
+     <description>Дентальная шелковая лента "Fuchsia" Silk Tooth Ribbon - нежная, скользящая, удобная для хранения. Моноструктура PTFE волокна и шелковое тиснение ленты гарантирует безопасное использование, так как она не расслаивается и не застревает между зубов. Лента легко очищает межзубное пространство, не травмируя десны, оставляя ощущение идеальной чистоты.</description>
      <param name="Дизайн">Авторский</param>
      <param name="Бренд">Montcarotte®</param>
      <param name="Модель">Silk Tooth Ribbon</param>
@@ -1242,7 +1242,7 @@
      <param name="Цвет">Розовый</param>
    </offer>
 
-   <offer id="143" available="true">
+   <offer id="1431" available="true">
      <url>https://montcarotte.com/ru/product/220</url>
      <name>"Apple Green" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Яблоко зеленое"</name> 
      <typePrefix>Зубная нить</typePrefix>
@@ -1344,9 +1344,9 @@
      <param name="Цвет">Сиреневый</param>
    </offer>
 	  
-   <offer id="145" available="true">
+   <offer id="1451" available="true">
      <url>https://montcarotte.com/ru/product/241</url>
-     <name>"Light Blue" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Светло голубой"</name> 
+     <name>"Light Blue" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Светло-голубой"</name> 
      <typePrefix>Зубная нить</typePrefix>
      <price>360</price>
      <currencyId>RUR</currencyId>
