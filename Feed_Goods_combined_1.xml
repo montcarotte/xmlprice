@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-07-07 0:25">
+<yml_catalog date="2020-07-07 11:00">
  <shop>
   <name>MontCarotte</name>
   <company>"МОНТКАРОТТЕ ДИСТРИБЬЮШЕН", ООО</company>
@@ -635,7 +635,7 @@
      <param name="Особенности">Самое безопасное отбеливание.
      НЕ СОДЕРЖИТ: грубых абразивов, пероксидов, агрессивных кислот, парабенов, силиконов, SLS, компонентов раздражающих слизистую полости рта.
      Осветляет зубы на 1-2 тона до естественной белизны поэтапно, с помощью 3 продуктов: «Гель-пилинг» - очищение эмали, «Успокаивающая маска»  -  восстановление эмали, «Нежно-отбеливающий крем» - осветление эмали.</param>
-     <param name="Конструкция">Флаконы с актуатором и подвижной диафрагмой помогают контролировать расход средств с точностью до милилитра. Благодаря разнице давления, которая создается при нажатии на актуатор, содержимое поднимается вверх, направляясь к дозирующему устройству.отделяя содержимое от опустошенной емкости. В результате средство расходуется до последней капли. Герметичность флакона позволяет увеличить срок годности зубных кремов и сократить количесвто консервантов и стабилизаторов в составах.</param>
+     <param name="Конструкция">Флаконы с актуатором и подвижной диафрагмой помогают контролировать расход средств с точностью до миллилитра. Благодаря разнице давления, которая создается при нажатии на актуатор, содержимое поднимается вверх, направляясь к дозирующему устройству.отделяя содержимое от опустошенной емкости. В результате средство расходуется до последней капли. Герметичность флакона позволяет увеличить срок годности зубных кремов и сократить количество консервантов и стабилизаторов в составах.</param>
      <param name="Возрастная категория">12+</param>
      <param name="Состав">Aqua, Hydrated Silica, Sorbitol, Glycerin, Dicalcium Phosphate, Cellulose Gum,  Sodium Lauroyl Sarcosinate, Cellulose Acetate, Sodium Fluoride,  Sodium Benzoate, Sodium Saccharin, Aroma, Citric Acid, Hydroxyapatite, Disodium Pyrophosphate, Disodium Phosphate, Propylene Glycol, Phenoxyethanol, Titanium Dioxide (C.I. 77891), C.I. 77491,  C.I. 17200, Fluor - 0,15%.</param>
      <param name="Вес упаковки">0,3</param>
@@ -1140,7 +1140,7 @@
      <param name="Цвет">ПРОЗРАЧНЫЙ, ЖЕЛТЫЙ</param>
    </offer>
 	  
-   <offer id="141" available="true">
+   <offer id="1411" available="true">
      <url>https://montcarotte.com/ru/product/238</url>
      <name>"Mint Green" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Зеленая Мята"</name> 
      <typePrefix>Зубная нить</typePrefix>
@@ -1242,7 +1242,7 @@
      <param name="Цвет">Розовый</param>
    </offer>
 
-   <offer id="143" available="true">
+   <offer id="1431" available="true">
      <url>https://montcarotte.com/ru/product/220</url>
      <name>"Apple Green" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Яблоко зеленое"</name> 
      <typePrefix>Зубная нить</typePrefix>
@@ -1344,7 +1344,7 @@
      <param name="Цвет">Сиреневый</param>
    </offer>
 	  
-   <offer id="145" available="true">
+   <offer id="1451" available="true">
      <url>https://montcarotte.com/ru/product/241</url>
      <name>"Light Blue" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Светло-голубой"</name> 
      <typePrefix>Зубная нить</typePrefix>
