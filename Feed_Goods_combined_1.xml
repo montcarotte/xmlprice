@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-07-07 12:08">
+<yml_catalog date="2020-07-08 15:48">
  <shop>
   <name>MontCarotte</name>
   <company>"МОНТКАРОТТЕ ДИСТРИБЬЮШЕН", ООО</company>
@@ -33,7 +33,8 @@
     <offer id="1111" available="true">
      <url>https://montcarotte.com/ru/product/267</url>
      <name>Malevich toothbrush Abstraction Brush Collection / Зубная щетка &quot;Малевич&quot; из коллекции &quot;Абстракционистов&quot; 12+</name> 
-     <price>1165</price>
+     <oldprice>1165</oldprice>
+     <price>1106</price>
      <currencyId>RUR</currencyId>
      <categoryId>111</categoryId>
      <picture>https://montcarotte.com/sites/default/files/malevich.jpg</picture>
@@ -61,7 +62,8 @@
     <offer id="1112" available="true">
      <url>https://montcarotte.com/ru/product/266</url>
      <name>Itten toothbrush Abstraction Brush Collection / Зубная щетка "Иттен"</name> 
-     <price>1165</price>
+     <oldprice>1165</oldprice>
+     <price>1106</price>
      <currencyId>RUR</currencyId>
      <categoryId>111</categoryId>
      <picture>https://montcarotte.com/sites/default/files/itten.jpg</picture>
@@ -89,7 +91,8 @@
    <offer id="1113" available="true">
      <url>https://montcarotte.com/ru/product/265</url>
      <name>Mondrian toothbrush Abstraction Brush Collection / Зубная щетка "Мондриан"</name> 
-     <price>1165</price>
+     <oldprice>1165</oldprice>
+     <price>1106</price>
      <currencyId>RUR</currencyId>
      <categoryId>111</categoryId>
      <picture>https://montcarotte.com/sites/default/files/mondrian.jpg</picture>
