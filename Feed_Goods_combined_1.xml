@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-07-08 18:00">
+<yml_catalog date="2020-07-22 14:35">
  <shop>
   <name>MontCarotte</name>
   <company>"МОНТКАРОТТЕ ДИСТРИБЬЮШЕН", ООО</company>
@@ -34,7 +34,7 @@
      <url>https://montcarotte.com/ru/product/267</url>
      <name>Malevich toothbrush Abstraction Brush Collection / Зубная щетка &quot;Малевич&quot; из коллекции &quot;Абстракционистов&quot; 12+</name> 
      <oldprice>1165</oldprice>
-     <price>1106</price>
+     <price>1165</price>
      <currencyId>RUR</currencyId>
      <categoryId>111</categoryId>
      <picture>https://montcarotte.com/sites/default/files/malevich.jpg</picture>
@@ -63,7 +63,7 @@
      <url>https://montcarotte.com/ru/product/266</url>
      <name>Itten toothbrush Abstraction Brush Collection / Зубная щетка "Иттен"</name> 
      <oldprice>1165</oldprice>
-     <price>1106</price>
+     <price>1165</price>
      <currencyId>RUR</currencyId>
      <categoryId>111</categoryId>
      <picture>https://montcarotte.com/sites/default/files/itten.jpg</picture>
@@ -92,7 +92,7 @@
      <url>https://montcarotte.com/ru/product/265</url>
      <name>Mondrian toothbrush Abstraction Brush Collection / Зубная щетка "Мондриан"</name> 
      <oldprice>1165</oldprice>
-     <price>1106</price>
+     <price>1165</price>
      <currencyId>RUR</currencyId>
      <categoryId>111</categoryId>
      <picture>https://montcarotte.com/sites/default/files/mondrian.jpg</picture>
@@ -121,7 +121,7 @@
      <url>https://montcarotte.com/ru/product/263</url>
      <name>Kandinsky toothbrush Abstraction Brush Collection / Зубная щетка "Кандинский"</name> 
      <oldprice>1165</oldprice>
-     <price>1106</price>
+     <price>1165</price>
      <currencyId>RUR</currencyId>
      <categoryId>111</categoryId>
      <picture>https://montcarotte.com/sites/default/files/kandinsky_0.jpg</picture>
@@ -150,7 +150,7 @@
      <url>https://montcarotte.com/ru/product/264</url>
      <name>Picasso toothbrush Abstraction Brush Collection / Зубная щетка "Пикассо"</name> 
      <oldprice>1165</oldprice>
-     <price>1106</price>
+     <price>1165</price>
      <currencyId>RUR</currencyId>
      <categoryId>111</categoryId>
      <picture>https://montcarotte.com/sites/default/files/picasso.jpg</picture>
@@ -179,7 +179,7 @@
      <url>https://montcarotte.com/ru/product/25</url>
      <name>Eduard Manet Toothbrush Impression Brush Collection / Зубная щетка "Мане"</name> 
      <oldprice>1075</oldprice>
-     <price>1021</price>
+     <price>1075</price>
      <currencyId>RUR</currencyId>
      <categoryId>112</categoryId>
      <picture>https://montcarotte.com/sites/default/files/blue_1.jpg</picture>
@@ -211,7 +211,7 @@
      <url>https://montcarotte.com/ru/product/24</url>
      <name>Van Gogh toothbrush Impression Brush Collection / Зубная щетка "Ван Гог"</name> 
      <oldprice>1075</oldprice>
-     <price>1021</price>
+     <price>1075</price>
      <currencyId>RUR</currencyId>
      <categoryId>112</categoryId>
      <picture>https://montcarotte.com/sites/default/files/yellow_1.jpg</picture>
@@ -243,7 +243,7 @@
      <url>https://montcarotte.com/ru/product/20</url>
      <name>Paul Gauguin Toothbrush Impression Brush Collection / Зубная щетка "Гоген"</name> 
      <oldprice>1075</oldprice>
-     <price>1021</price>
+     <price>1075</price>
      <currencyId>RUR</currencyId>
      <categoryId>112</categoryId>
      <picture>https://montcarotte.com/sites/default/files/brush_pink_1_0.jpg</picture>
@@ -275,7 +275,7 @@
      <url>https://montcarotte.com/ru/product/17</url>
      <name>Edgar Degas Toothbrush Impression Brush Collection / Зубная щетка "Дега"</name> 
      <oldprice>1075</oldprice>
-     <price>1021</price>
+     <price>1075</price>
      <currencyId>RUR</currencyId>
      <categoryId>112</categoryId>
      <picture>https://montcarotte.com/sites/default/files/degas_1.jpg</picture>
@@ -307,7 +307,7 @@
      <url>https://montcarotte.com/ru/product/23</url>
      <name>Pierre-Auguste Renoir Toothbrush Impression Brush Collection / Зубная щетка "Ренуар"</name> 
      <oldprice>1075</oldprice>
-     <price>1021</price>
+     <price>1075</price>
      <currencyId>RUR</currencyId>
      <categoryId>112</categoryId>
      <picture>https://montcarotte.com/sites/default/files/green_1.jpg</picture>
@@ -338,6 +338,7 @@
    <offer id="121" available="true">
      <url>https://montcarotte.com/ru/collection/1</url>
      <name>Зубная паста "Нежно отбеливающий крем для зубов"</name> 
+     <oldprice>1725</oldprice>
      <price>1725</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
@@ -363,6 +364,7 @@
    <offer id="122" available="false">
      <url>https://montcarotte.com/ru/product/18</url>
      <name>Smoothing and Brightening Tooth Peeling / Зубная паста "Гель пилинг для зубов для выравнивания цвета и придания блеска"</name> 
+     <oldprice>1725</oldprice>
      <price>1725</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
@@ -389,7 +391,7 @@
      <url>https://montcarotte.com/ru/product/26</url>
      <name>Soothing Tooth Mask Sensitivity Relief  / Зубная паста «Успокаивающая маска для снятия чувствительности и дискомфорта десен и зубов"</name> 
      <oldprice>1725</oldprice>
-     <price>1638</price>
+     <price>1725</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
      <picture>https://montcarotte.com/sites/default/files/stmsr_1.jpg</picture>
@@ -415,7 +417,7 @@
      <url>https://montcarotte.com/ru/product/28</url>
      <name>Homeopathic Tooth Cream / Зубная паста "Гомеопатический крем для зубов"</name> 
      <oldprice>1725</oldprice>
-     <price>1638</price>
+     <price>1725</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
      <picture>https://montcarotte.com/sites/default/files/htc_1.jpg</picture>
@@ -441,7 +443,7 @@
      <url>https://montcarotte.com/ru/product/19</url>
      <name>Organic Tooth Cream / Зубная паста "Органический крем для зубов"</name> 
      <oldprice>1725</oldprice>
-     <price>1638</price>
+     <price>1725</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
      <picture>https://montcarotte.com/sites/default/files/otc_1_0.jpg</picture>
@@ -465,9 +467,9 @@
 
    <offer id="127" available="true">
      <url>https://montcarotte.com/ru/product/39</url>
-     <name>Diamond Brightening Tooth Cream Vanila Orhid / Зубная паста "Бриллиантовое Сияние крем для зубов с экстрактом стручков ванильной орхидеи"</name> 
+     <name>Diamond Brightening Tooth Cream Vanila Orhid / Зубная паста "Бриллиантовое Сияние крем для зубов с экстрактом стручков ванильной орхидеи"</name>
      <oldprice>5700</oldprice>
-     <price>5415</price>
+     <price>5700</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
      <picture>https://montcarotte.com/sites/default/files/banka_1.jpg</picture>
@@ -492,6 +494,7 @@
    <offer id="128" available="true">
      <url>https://montcarotte.com/ru/product/171</url>
      <name>Platinum Brightening Tooth Gel  / Зубная паста " Платиновое сияние гель для зубов для мужчин"</name> 
+     <oldprice>5900</oldprice>
      <price>5900</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
@@ -516,7 +519,8 @@
    
    <offer id="129" available="true">
      <url>https://montcarotte.com/ru/product/27</url>
-     <name>Tenderly Whitening Tooth Cream 30 ml  / Зубная паста "Нежно отбеливающий крем для зубов"</name> 
+     <name>Tenderly Whitening Tooth Cream 30 ml  / Зубная паста "Нежно отбеливающий крем для зубов" 12+ (поршневой флакон с актуатором) </name> 
+     <oldprice>1980</oldprice>
      <price>1980</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
@@ -552,7 +556,8 @@
    
    <offer id="1210" available="true">
      <url>https://montcarotte.com/ru/product/18</url>
-     <name>Smoothing and Brightening Tooth Peeling 30ml / Зубная паста "Гель пилинг для зубов для выравнивания цвета и придания блеска"</name> 
+     <name>Smoothing and Brightening Tooth Peeling 30ml / Зубная паста "Гель пилинг для зубов для выравнивания цвета и придания блеска" 12+ (поршневой флакон с актуатором)</name> 
+     <oldprice>1980</oldprice>
      <price>1980</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
@@ -588,11 +593,12 @@
    
    <offer id="1211" available="true">
      <url>https://montcarotte.com/ru/product/26</url>
-     <name>Soothing Tooth Mask Sensitivity Relief 30ml / Зубная паста «Успокаивающая маска для снятия чувствительности и дискомфорта десен и зубов"</name> 
+     <name>Soothing Tooth Mask Sensitivity Relief / "Успокаивающая маска для снятия чувствительности и дискомфорта десен и зубов" 12+ (поршневой флакон с актуатором)</name> 
+     <oldprice>1980</oldprice>
      <price>1980</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
-     <picture>https://montcarotte.com/sites/default/files/st-cream-pink-web-1.jpg</picture>
+     <picture>https://montcarotte.com/sites/default/files/1121_cream_pink_new_pump_lm.jpg</picture>
      <vat>6</vat>
      <shipment-options>
       <option days="1-2" order-before="15"/>
@@ -624,7 +630,8 @@
    
    <offer id="1212" available="true">
      <url>https://montcarotte.com/ru/product/21</url>
-     <name>Набор зубных паст новый (поршневой флакон с актуатором)</name> 
+     <name>Anti Age Whitening Program Set / Набор зубных паст "Омолаживающая отбеливающая программа для зубов"(поршневой флакон с актуатором)</name> 
+     <oldprice>4970</oldprice>
      <price>4970</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
@@ -888,7 +895,8 @@
      <url>https://montcarotte.com/ru/product/169</url>
      <name>Pure Kids Tooth Gel  / Детская зубная паста MontCarotte "Детский зубной гель “Нейтральный”</name> 
      <typePrefix>Зубная паста для детей</typePrefix>
-     <price>1520</price>
+     <oldprice>1520</oldprice>
+     <price>1292</price>
      <currencyId>RUR</currencyId>
      <categoryId>132</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
@@ -943,7 +951,8 @@
      <url>https://montcarotte.com/ru/product/167</url>
      <name>Cherry Berry Kids Tooth Gel  / Детская зубная паста MontCarotte "Детский зубной гель “Ягодка Вишня"</name> 
      <typePrefix>Зубная паста для детей</typePrefix>
-     <price>1520</price>
+     <oldprice>1520</oldprice>
+     <price>1292</price>
      <currencyId>RUR</currencyId>
      <categoryId>132</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
@@ -998,7 +1007,8 @@
      <url>https://montcarotte.com/ru/product/168</url>
      <name>Rose Pear Kids Tooth Gel  / Детская зубная паста MontCarotte "Детский зубной гель “Розовая Груша"</name> 
      <typePrefix>Зубная паста для детей</typePrefix>
-     <price>1520</price>
+     <oldprice>1520</oldprice>
+     <price>1292</price>
      <currencyId>RUR</currencyId>
      <categoryId>132</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
@@ -1053,7 +1063,8 @@
      <url>https://montcarotte.com/ru/product/166</url>
      <name>Green Apple Kids Tooth Gel / Детская зубная паста MontCarotte "Детский зубной гель “Зеленое Яблоко"</name> 
      <typePrefix>Зубная паста для детей</typePrefix>
-     <price>1520</price>
+     <oldprice>1520</oldprice>
+     <price>1292</price>
      <currencyId>RUR</currencyId>
      <categoryId>132</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
@@ -1108,7 +1119,8 @@
      <url>https://montcarotte.com/ru/product/165</url>
      <name>Sweet Banana Kids Tooth Gel / Детская зубная паста MontCarotte "Детский зубной гель “Сладкий Банан"</name> 
      <typePrefix>Зубная паста для детей</typePrefix>
-     <price>1520</price>
+     <oldprice>1520</oldprice>
+     <price>1292</price>
      <currencyId>RUR</currencyId>
      <categoryId>132</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
@@ -1163,6 +1175,7 @@
      <url>https://montcarotte.com/ru/product/238</url>
      <name>"Mint Green" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Зеленая Мята"</name> 
      <typePrefix>Зубная нить</typePrefix>
+     <oldprice>360</oldprice>
      <price>360</price>
      <currencyId>RUR</currencyId>
      <categoryId>14</categoryId>
@@ -1215,7 +1228,7 @@
      <name>"Fuchsia" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Фуксия"</name> 
      <typePrefix>Зубная нить</typePrefix>
      <oldprice>360</oldprice>
-     <price>342</price>
+     <price>360</price>
      <currencyId>RUR</currencyId>
      <categoryId>14</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная нить</market_category>
@@ -1266,6 +1279,7 @@
      <url>https://montcarotte.com/ru/product/220</url>
      <name>"Apple Green" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Яблоко зеленое"</name> 
      <typePrefix>Зубная нить</typePrefix>
+     <oldprice>360</oldprice>
      <price>360</price>
      <currencyId>RUR</currencyId>
      <categoryId>14</categoryId>
@@ -1318,7 +1332,7 @@
      <name>"Violet" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Фиолетовый"</name> 
      <typePrefix>Зубная нить</typePrefix>
      <oldprice>360</oldprice>
-     <price>342</price>
+     <price>360</price>
      <currencyId>RUR</currencyId>
      <categoryId>14</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная нить</market_category>
@@ -1369,6 +1383,7 @@
      <url>https://montcarotte.com/ru/product/241</url>
      <name>"Light Blue" Silk Tooth Ribbon / Шелковая лента для зубов цвет "Светло-голубой"</name> 
      <typePrefix>Зубная нить</typePrefix>
+     <oldprice>360</oldprice>
      <price>360</price>
      <currencyId>RUR</currencyId>
      <categoryId>14</categoryId>
@@ -1420,6 +1435,7 @@
      <url>https://montcarotte.com/ru/product/268</url>
      <name>Present Yacht Set / Набор подарочный "MontCarotte Yacht Set"</name> 
      <typePrefix>Подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <oldprice>13950</oldprice>
      <price>13950</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
@@ -1463,6 +1479,7 @@
      <url>https://montcarotte.com/ru/product/281</url>
      <name>Wonder Woman Present Set / Набор подарочный "Wonder Woman" для Женщин</name> 
      <typePrefix>Подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <oldprice>78050</oldprice>
      <price>7850</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
@@ -1506,6 +1523,7 @@
      <url>https://montcarotte.com/ru/product/280</url>
      <name>Wonder Man Present Set / Набор подарочный "Wonder Man" для Мужчин</name> 
      <typePrefix>Подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <oldprice>8230</oldprice>
      <price>8230</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
@@ -1549,6 +1567,7 @@
      <url>https://montcarotte.com/ru/product/295</url>
      <name>Impression Brush Collection Present Set / Подарочный набор "Зубные Кисти Импрессионистов"</name> 
      <typePrefix>Подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <oldprice>5375</oldprice>
      <price>5375</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
@@ -1593,7 +1612,7 @@
      <name>Abstraction Brush Collection Present Set / Набор подарочный "Зубные кисти Абстракционистов"</name> 
      <typePrefix>Подарочный набор для ухода за зубами и полостью рта</typePrefix>
      <oldprice>5825</oldprice>
-     <price>5533</price>
+     <price>5825</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Дорожные наборы (паста+щетка и т.д.)</market_category>
@@ -1636,6 +1655,7 @@
      <url>https://montcarotte.com/ru/product/269</url>
      <name>Present Set Kids Collection / Набор детский подарочный "MontCrotte Kids Collection"</name> 
      <typePrefix>Подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <oldprice>12650</oldprice>
      <price>12650</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
@@ -1680,6 +1700,7 @@
      <url>https://montcarotte.com/ru/product/285</url>
      <name>Banana Kids Present Set / Набор детский подарочный "Сладкий банан"</name> 
      <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <oldprice>2630</oldprice>
      <price>2630</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
@@ -1724,6 +1745,7 @@
      <url>https://montcarotte.com/ru/product/288</url>
      <name>Pear Kids Present Set / Набор детский подарочный "Розовая груша"</name> 
      <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <oldprice>2630</oldprice>
      <price>2630</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
@@ -1768,6 +1790,7 @@
      <url>https://montcarotte.com/ru/product/287</url>
      <name>Berry Kids Present Set / Набор детский подарочный "Ягодка Вишня"</name> 
      <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <oldprice>2630</oldprice>
      <price>2630</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
@@ -1812,6 +1835,7 @@
      <url>https://montcarotte.com/ru/product/286</url>
      <name>Pure Kids Present Set / Набор детский подарочный "Нейтральный"</name> 
      <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <oldprice>2630</oldprice>
      <price>2630</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
@@ -1856,6 +1880,7 @@
      <url>https://montcarotte.com/ru/product/284</url>
      <name>Apple Kids Present Set / Набор детский подарочный "Зеленое яблоко"</name> 
      <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <oldprice>2630</oldprice>
      <price>2630</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
@@ -1900,6 +1925,7 @@
      <url>https://montcarotte.com/ru/product/293</url>
      <name>Kids Dental Set Assorti Green / Набор детский подарочный "Зеленый" Ассорти</name> 
      <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <oldprice>1150</oldprice>
      <price>1150</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
@@ -1944,6 +1970,7 @@
      <url>https://montcarotte.com/ru/product/292</url>
      <name>Kids Dental Set Assorti Yellow / Набор детский подарочный "Желтый" Ассорти</name> 
      <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <oldprice>1150</oldprice>
      <price>1150</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
@@ -1988,6 +2015,7 @@
      <url>https://montcarotte.com/ru/product/289</url>
      <name>Kids Dental Set Assorti Blue / Набор детский подарочный "Голубой" Ассорти</name> 
      <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <oldprice>1150</oldprice>
      <price>1150</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
@@ -2032,6 +2060,7 @@
      <url>https://montcarotte.com/ru/product/290</url>
      <name>Kids Dental Set Assorti Rose / Набор детский подарочный "Розовый" Ассорти</name> 
      <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <oldprice>1150</oldprice>
      <price>1150</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
@@ -2076,6 +2105,7 @@
      <url>https://montcarotte.com/ru/product/291</url>
      <name>Kids Dental Set Assorti Purple / Набор детский подарочный "Фиолетовый" Ассорти</name> 
      <typePrefix>Детский подарочный набор для ухода за зубами и полостью рта</typePrefix>
+     <oldprice>1150</oldprice>
      <price>1150</price>
      <currencyId>RUR</currencyId>
      <categoryId>15</categoryId>
@@ -2119,6 +2149,7 @@
     <offer id="221" available="true">
      <url>https://rapidmontcarottemedical.com/</url>
      <name>Oral rinse RAPID 15 Red Grapefruit, 200ml/Oполаскиватель для полости рта РАПИД 15 Красный Грейпфрут 200 мл  </name> 
+     <oldprice>1400</oldprice>
      <price>1400</price>
      <currencyId>RUR</currencyId>
      <categoryId>22</categoryId>
@@ -2139,14 +2170,14 @@
      <param name="Страна">Великобритания</param>
      <param name="Концентрация">0,15%</param>
      <param name="Применение">
-Имплантация:
-• Периимплантит
-• Пародонтологическое лечение
-Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов):
-• Установка брекет систем
-• Установка ортопедических конструкций
-• Интенсивная дентальная гигиена
-Профилактика воспалительных процессов после хирургического вмешательства
+        Имплантация:
+        • Периимплантит
+        • Пародонтологическое лечение
+        Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов):
+        • Установка брекет систем
+        • Установка ортопедических конструкций
+        • Интенсивная дентальная гигиена
+        Профилактика воспалительных процессов после хирургического вмешательства
 </param>
      <barcode>8030009101417</barcode>
    </offer>
@@ -2154,6 +2185,7 @@
    <offer id="222" available="true">
      <url>https://montcarotte.com/ru/product/345/</url>
      <name>Oral rinse RAPID 25 Red Grapefruit, 100ml/Oполаскиватель для полости рта РАПИД 25 Красный Грейпфрут 100 мл  </name> 
+     <oldprice>1600</oldprice>
      <price>1600</price>
      <currencyId>RUR</currencyId>
      <categoryId>22</categoryId>
@@ -2174,21 +2206,22 @@
      <param name="Страна">Великобритания</param>
      <param name="Концентрация">0,25%</param>
      <param name="Применение">
-Имплантация:
-• Периимплантит
-• Пародонтологическое лечение
-Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов):
-• Установка брекет систем
-• Установка ортопедических конструкций
-• Интенсивная дентальная гигиена
-Профилактика воспалительных процессов после хирургического вмешательства
-</param>
+        Имплантация:
+        • Периимплантит
+        • Пародонтологическое лечение
+        Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов):
+        • Установка брекет систем
+        • Установка ортопедических конструкций
+        • Интенсивная дентальная гигиена
+        Профилактика воспалительных процессов после хирургического вмешательства
+     </param>
      <barcode>8030009101516</barcode>
    </offer>
 
    <offer id="211" available="true">
      <url>https://montcarotte.com/ru/product/346/</url>
      <name>Гель-бандаж RAPID 30</name> 
+     <oldprice>2500</oldprice>
      <price>2500</price>
      <currencyId>RUR</currencyId>
      <categoryId>21</categoryId>
@@ -2209,21 +2242,22 @@
      <param name="Дозировка">30 мл</param>
      <param name="Концентрация">0,3% CHLX %</param>
      <param name="Применение">
-Имплантация:
-• Периимплантит
-• Пародонтологическое лечение
-Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов):
-• Установка брекет систем
-• Установка ортопедических конструкций
-• Интенсивная дентальная гигиена
-Профилактика воспалительных процессов после хирургического вмешательства
-</param>
+        Имплантация:
+        • Периимплантит
+        • Пародонтологическое лечение
+        Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов):
+        • Установка брекет систем
+        • Установка ортопедических конструкций
+        • Интенсивная дентальная гигиена
+        Профилактика воспалительных процессов после хирургического вмешательства
+     </param>
      <barcode>8030009101318</barcode>
    </offer>
 
    <offer id="212" available="true">
      <url>https://montcarotte.com/ru/product/347</url>
      <name>Гелеобразная зубная паста RAPID 15</name> 
+     <oldprice>1400</oldprice>
      <price>1400</price>
      <currencyId>RUR</currencyId>
      <categoryId>21</categoryId>
@@ -2244,21 +2278,22 @@
      <param name="Дозировка">50 мл</param>
      <param name="Концентрация">0,15% CHLX %</param>
      <param name="Применение">
-Имплантация:
-• Периимплантит
-• Пародонтологическое лечение
-Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов):
-• Установка брекет систем
-• Установка ортопедических конструкций
-• Интенсивная дентальная гигиена
-Профилактика воспалительных процессов после хирургического вмешательства
-</param>
+        Имплантация:
+        • Периимплантит
+        • Пародонтологическое лечение
+        Хирургическое лечение(трансплантация, синус лифтинг, направленная костная регенерация, резекция десневых карманов):
+        • Установка брекет систем
+        • Установка ортопедических конструкций
+        • Интенсивная дентальная гигиена
+        Профилактика воспалительных процессов после хирургического вмешательства
+     </param>
      <barcode>8030009101219</barcode>
    </offer>
    
    <offer id="231" available="true">
      <url>https://montcarotte.com/ru/product/348</url>
      <name>Полимягкая Зубная Щетка RAPID</name> 
+     <oldprice>1170</oldprice>
      <price>1170</price>
      <currencyId>RUR</currencyId>
      <categoryId>23</categoryId>
@@ -2297,6 +2332,7 @@
    <offer id="241" available="true">
      <url>https://montcarotte.com/ru/product/349</url>
      <name>Набор RAPID</name> 
+     <oldprice>7000</oldprice>
      <price>7000</price>
      <currencyId>RUR</currencyId>
      <categoryId>24</categoryId>
@@ -2339,10 +2375,11 @@
    <offer id="251" available="true">
      <url>https://montcarotte.com/ru/product/345</url>
      <name>Cпрей для полости рта РАПИД 30 Красный Грейпфрут быстрого действия с Хлогексидином 0,30 % и фруктовой кислотой из семян красного грейпфрута</name> 
+     <oldprice>1510</oldprice>
      <price>1510</price>
      <currencyId>RUR</currencyId>
      <categoryId>25</categoryId>
-     <picture>https://yadi.sk/i/rPZr0HVUOSJTig</picture>
+     <picture>https://montcarotte.com/sites/default/files/spray_rapid_web_small.jpg</picture>
      <vat>6</vat>
      <shipment-options>
       <option days="1-2" order-before="15"/>
