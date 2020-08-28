@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-08-06 22:23">
+<yml_catalog date="2020-08-04 14:25">
  <shop>
   <name>MontCarotte</name>
   <company>"МОНТКАРОТТЕ ДИСТРИБЬЮШЕН", ООО</company>
@@ -34,7 +34,7 @@
      <url>https://montcarotte.com/ru/product/267</url>
      <name>Malevich toothbrush Abstraction Brush Collection / Зубная щетка &quot;Малевич&quot; из коллекции &quot;Абстракционистов&quot; 12+</name> 
      <oldprice>1165</oldprice>
-     <price>1042</price>
+     <price>1165</price>
      <currencyId>RUR</currencyId>
      <categoryId>111</categoryId>
      <picture>https://montcarotte.com/sites/default/files/malevich.jpg</picture>
@@ -63,7 +63,7 @@
      <url>https://montcarotte.com/ru/product/266</url>
      <name>Itten toothbrush Abstraction Brush Collection / Зубная щетка "Иттен"</name> 
      <oldprice>1165</oldprice>
-     <price>1042</price>
+     <price>1165</price>
      <currencyId>RUR</currencyId>
      <categoryId>111</categoryId>
      <picture>https://montcarotte.com/sites/default/files/itten.jpg</picture>
@@ -92,7 +92,7 @@
      <url>https://montcarotte.com/ru/product/265</url>
      <name>Mondrian toothbrush Abstraction Brush Collection / Зубная щетка "Мондриан"</name> 
      <oldprice>1165</oldprice>
-     <price>1042</price>
+     <price>1165</price>
      <currencyId>RUR</currencyId>
      <categoryId>111</categoryId>
      <picture>https://montcarotte.com/sites/default/files/mondrian.jpg</picture>
@@ -121,7 +121,7 @@
      <url>https://montcarotte.com/ru/product/263</url>
      <name>Kandinsky toothbrush Abstraction Brush Collection / Зубная щетка "Кандинский"</name> 
      <oldprice>1165</oldprice>
-     <price>1042</price>
+     <price>1165</price>
      <currencyId>RUR</currencyId>
      <categoryId>111</categoryId>
      <picture>https://montcarotte.com/sites/default/files/kandinsky_0.jpg</picture>
@@ -150,7 +150,7 @@
      <url>https://montcarotte.com/ru/product/264</url>
      <name>Picasso toothbrush Abstraction Brush Collection / Зубная щетка "Пикассо"</name> 
      <oldprice>1165</oldprice>
-     <price>1042</price>
+     <price>1165</price>
      <currencyId>RUR</currencyId>
      <categoryId>111</categoryId>
      <picture>https://montcarotte.com/sites/default/files/picasso.jpg</picture>
@@ -179,7 +179,7 @@
      <url>https://montcarotte.com/ru/product/25</url>
      <name>Eduard Manet Toothbrush Impression Brush Collection / Зубная щетка "Мане"</name> 
      <oldprice>1075</oldprice>
-     <price>949</price>
+     <price>1075</price>
      <currencyId>RUR</currencyId>
      <categoryId>112</categoryId>
      <picture>https://montcarotte.com/sites/default/files/blue_1.jpg</picture>
@@ -211,7 +211,7 @@
      <url>https://montcarotte.com/ru/product/24</url>
      <name>Van Gogh toothbrush Impression Brush Collection / Зубная щетка "Ван Гог"</name> 
      <oldprice>1075</oldprice>
-     <price>949</price>
+     <price>1075</price>
      <currencyId>RUR</currencyId>
      <categoryId>112</categoryId>
      <picture>https://montcarotte.com/sites/default/files/yellow_1.jpg</picture>
@@ -243,7 +243,7 @@
      <url>https://montcarotte.com/ru/product/20</url>
      <name>Paul Gauguin Toothbrush Impression Brush Collection / Зубная щетка "Гоген"</name> 
      <oldprice>1075</oldprice>
-     <price>949</price>
+     <price>1075</price>
      <currencyId>RUR</currencyId>
      <categoryId>112</categoryId>
      <picture>https://montcarotte.com/sites/default/files/brush_pink_1_0.jpg</picture>
@@ -275,7 +275,7 @@
      <url>https://montcarotte.com/ru/product/17</url>
      <name>Edgar Degas Toothbrush Impression Brush Collection / Зубная щетка "Дега"</name> 
      <oldprice>1075</oldprice>
-     <price>949</price>
+     <price>1075</price>
      <currencyId>RUR</currencyId>
      <categoryId>112</categoryId>
      <picture>https://montcarotte.com/sites/default/files/degas_1.jpg</picture>
@@ -307,7 +307,7 @@
      <url>https://montcarotte.com/ru/product/23</url>
      <name>Pierre-Auguste Renoir Toothbrush Impression Brush Collection / Зубная щетка "Ренуар"</name> 
      <oldprice>1075</oldprice>
-     <price>949</price>
+     <price>1075</price>
      <currencyId>RUR</currencyId>
      <categoryId>112</categoryId>
      <picture>https://montcarotte.com/sites/default/files/green_1.jpg</picture>
@@ -339,7 +339,7 @@
      <url>https://montcarotte.com/ru/collection/1</url>
      <name>Зубная паста "Нежно отбеливающий крем для зубов"</name> 
      <oldprice>1725</oldprice>
-     <price>1499</price>
+     <price>1725</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
      <picture>https://montcarotte.com/ru/collection/1</picture>
@@ -365,7 +365,7 @@
      <url>https://montcarotte.com/ru/product/18</url>
      <name>Smoothing and Brightening Tooth Peeling / Зубная паста "Гель пилинг для зубов для выравнивания цвета и придания блеска"</name> 
      <oldprice>1725</oldprice>
-     <price>1499</price>
+     <price>1725</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
      <picture>https://montcarotte.com/sites/default/files/sbtp_1_0.jpg</picture>
@@ -391,7 +391,7 @@
      <url>https://montcarotte.com/ru/product/26</url>
      <name>Soothing Tooth Mask Sensitivity Relief  / Зубная паста «Успокаивающая маска для снятия чувствительности и дискомфорта десен и зубов"</name> 
      <oldprice>1725</oldprice>
-     <price>1499</price>
+     <price>1725</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
      <picture>https://montcarotte.com/sites/default/files/stmsr_1.jpg</picture>
@@ -417,7 +417,7 @@
      <url>https://montcarotte.com/ru/product/28</url>
      <name>Homeopathic Tooth Cream / Зубная паста "Гомеопатический крем для зубов"</name> 
      <oldprice>1725</oldprice>
-     <price>1499</price>
+     <price>1725</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
      <picture>https://montcarotte.com/sites/default/files/htc_1.jpg</picture>
@@ -443,7 +443,7 @@
      <url>https://montcarotte.com/ru/product/19</url>
      <name>Organic Tooth Cream / Зубная паста "Органический крем для зубов"</name> 
      <oldprice>1725</oldprice>
-     <price>1499</price>
+     <price>1725</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
      <picture>https://montcarotte.com/sites/default/files/otc_1_0.jpg</picture>
@@ -469,7 +469,7 @@
      <url>https://montcarotte.com/ru/product/39</url>
      <name>Diamond Brightening Tooth Cream Vanila Orhid / Зубная паста "Бриллиантовое Сияние крем для зубов с экстрактом стручков ванильной орхидеи"</name>
      <oldprice>5700</oldprice>
-     <price>5125</price>
+     <price>5700</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
      <picture>https://montcarotte.com/sites/default/files/banka_1.jpg</picture>
@@ -495,7 +495,7 @@
      <url>https://montcarotte.com/ru/product/171</url>
      <name>Platinum Brightening Tooth Gel  / Зубная паста " Платиновое сияние гель для зубов для мужчин"</name> 
      <oldprice>5900</oldprice>
-     <price>5299</price>
+     <price>5900</price>
      <currencyId>RUR</currencyId>
      <categoryId>12</categoryId>
      <picture>https://montcarotte.com/sites/default/files/tube_black_435x470.jpg</picture>
@@ -672,7 +672,7 @@
      <name>Yellow Kids toothbrush / Детская Зубная щетка MontCarotte  "Желтая " "soft"</name> 
      <typePrefix>Зубная щетка для детей</typePrefix>
      <oldprice>1010</oldprice>
-     <price>829</price>
+     <price>1010</price>
      <currencyId>RUR</currencyId>
      <categoryId>131</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
@@ -716,7 +716,7 @@
      <name>Rose Kids toothbrush / Детская Зубная щетка MontCarotte  "Розовая " "soft"</name> 
      <typePrefix>Зубная щетка для детей</typePrefix>
      <oldprice>1010</oldprice>
-     <price>829</price>
+     <price>1010</price>
      <currencyId>RUR</currencyId>
      <categoryId>131</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
@@ -761,7 +761,7 @@
      <name>Purple Kids toothbrush / Детская Зубная щетка MontCarotte  "Фиолетовая ""soft"</name> 
      <typePrefix>Зубная щетка для детей</typePrefix>
      <oldprice>1010</oldprice>
-     <price>829</price>
+     <price>1010</price>
      <currencyId>RUR</currencyId>
      <categoryId>131</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
@@ -806,7 +806,7 @@
      <name>Blue Kids toothbrush / Детская Зубная щетка MontCarotte  "Голубая " "soft"</name> 
      <typePrefix>Зубная щетка для детей</typePrefix>
      <oldprice>1010</oldprice>
-     <price>829</price>
+     <price>1010</price>
      <currencyId>RUR</currencyId>
      <categoryId>131</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
@@ -851,7 +851,7 @@
      <name>Green Kids Toothbrush  / Детская Зубная щетка MontCarotte «Зеленая” "soft"</name> 
      <typePrefix>Зубная щетка для детей</typePrefix>
      <oldprice>1010</oldprice>
-     <price>829</price>
+     <price>1010</price>
      <currencyId>RUR</currencyId>
      <categoryId>131</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная щетка</market_category>
@@ -896,7 +896,7 @@
      <name>Pure Kids Tooth Gel  / Детская зубная паста MontCarotte "Детский зубной гель “Нейтральный”</name> 
      <typePrefix>Зубная паста для детей</typePrefix>
      <oldprice>1520</oldprice>
-     <price>1299</price>
+     <price>1520</price>
      <currencyId>RUR</currencyId>
      <categoryId>132</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
@@ -952,7 +952,7 @@
      <name>Cherry Berry Kids Tooth Gel  / Детская зубная паста MontCarotte "Детский зубной гель “Ягодка Вишня"</name> 
      <typePrefix>Зубная паста для детей</typePrefix>
      <oldprice>1520</oldprice>
-     <price>1299</price>
+     <price>1520</price>
      <currencyId>RUR</currencyId>
      <categoryId>132</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
@@ -1008,7 +1008,7 @@
      <name>Rose Pear Kids Tooth Gel  / Детская зубная паста MontCarotte "Детский зубной гель “Розовая Груша"</name> 
      <typePrefix>Зубная паста для детей</typePrefix>
      <oldprice>1520</oldprice>
-     <price>1299</price>
+     <price>1520</price>
      <currencyId>RUR</currencyId>
      <categoryId>132</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
@@ -1064,7 +1064,7 @@
      <name>Green Apple Kids Tooth Gel / Детская зубная паста MontCarotte "Детский зубной гель “Зеленое Яблоко"</name> 
      <typePrefix>Зубная паста для детей</typePrefix>
      <oldprice>1520</oldprice>
-     <price>1299</price>
+     <price>1520</price>
      <currencyId>RUR</currencyId>
      <categoryId>132</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
@@ -1120,7 +1120,7 @@
      <name>Sweet Banana Kids Tooth Gel / Детская зубная паста MontCarotte "Детский зубной гель “Сладкий Банан"</name> 
      <typePrefix>Зубная паста для детей</typePrefix>
      <oldprice>1520</oldprice>
-     <price>1299</price>
+     <price>1520</price>
      <currencyId>RUR</currencyId>
      <categoryId>132</categoryId>
      <market_category>Красота и Уход/Товары для личной гигиены и бритья/Товары для личной гигиены/Гигиена полости рта/Зубная паста и порошок</market_category>
